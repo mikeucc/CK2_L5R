@@ -1,0 +1,16 @@
+# c_yojin_province
+
+# County Title
+title = c_yojin_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_37 = castle
+b_town_37 = city
+
+# Misc
+culture = lion_Matsu
+religion = the_kami
+
+#History

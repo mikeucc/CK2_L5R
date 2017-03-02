@@ -1,0 +1,16 @@
+# c_hissori_province
+
+# County Title
+title = c_hissori_province
+
+# Settlements
+max_settlements = 2
+
+b_lone_candle_keep = castle
+b_kamisori_sano_yoake_shiro = city
+
+# Misc
+culture = crab_hiruma
+religion = the_kami
+
+#History

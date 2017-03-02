@@ -1,0 +1,16 @@
+# c_haimaato_province
+
+# County Title
+title = c_haimaato_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_57 = castle
+b_town_57 = city
+
+# Misc
+culture = phoenix_agasha
+religion = catholic
+
+#History

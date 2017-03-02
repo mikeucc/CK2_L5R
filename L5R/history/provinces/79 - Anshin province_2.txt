@@ -1,0 +1,16 @@
+# c_anshin_province_2
+
+# County Title
+title = c_anshin_province_2
+
+# Settlements
+max_settlements = 2
+
+b_castle_54 = castle
+b_town_54 = city
+
+# Misc
+culture = phoenix_agasha
+religion = catholic
+
+#History

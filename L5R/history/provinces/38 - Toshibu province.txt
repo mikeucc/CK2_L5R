@@ -1,0 +1,16 @@
+# c_toshibu_province
+
+# County Title
+title = c_toshibu_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_13 = castle
+b_town_13 = city
+
+# Misc
+culture = dragon_Mirumoto
+religion = the_kami
+
+#History

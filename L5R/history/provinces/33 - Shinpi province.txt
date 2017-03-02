@@ -1,0 +1,16 @@
+# c_shinpi_province
+
+# County Title
+title = c_shinpi_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_8 = castle
+b_town_8 = city
+
+# Misc
+culture = dragon_Kitsuki
+religion = the_kami
+
+#History

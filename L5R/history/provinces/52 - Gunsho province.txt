@@ -1,0 +1,16 @@
+# c_gunsho_province
+
+# County Title
+title = c_gunsho_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_27 = castle
+b_town_27 = city
+
+# Misc
+culture = lion_Ikoma
+religion = the_kami
+
+#History

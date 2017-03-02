@@ -1,0 +1,16 @@
+# c_sinjutsu_province
+
+# County Title
+title = c_sinjutsu_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_10 = castle
+b_town_10 = city
+
+# Misc
+culture = dragon_Kitsuki
+religion = the_kami
+
+#History

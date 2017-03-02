@@ -1,0 +1,17 @@
+# c_toritaka_province
+
+# County Title
+title = c_toritaka_province
+
+# Settlements
+max_settlements = 3
+
+b_kyden_toketsu = castle
+b_tani_hitokage = city
+#b_toritaka_province = temple
+
+# Misc
+culture = crab_kuni
+religion = the_kami
+
+#History

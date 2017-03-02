@@ -1,0 +1,16 @@
+# c_omoidasu_province
+
+# County Title
+title = c_omoidasu_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_56 = castle
+b_town_56 = city
+
+# Misc
+culture = phoenix_agasha
+religion = catholic
+
+#History

@@ -1,0 +1,16 @@
+# c_kinkaku_province
+
+# County Title
+title = c_kinkaku_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_64 = castle
+b_town_64 = city
+
+# Misc
+culture = phoenix_isawa
+religion = catholic
+
+#History

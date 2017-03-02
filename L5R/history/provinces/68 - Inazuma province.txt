@@ -1,0 +1,16 @@
+# c_inazuma_province
+
+# County Title
+title = c_inazuma_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_43 = castle
+b_town_43 = city
+
+# Misc
+culture = mantis_yoritomo
+religion = the_kami
+
+#History

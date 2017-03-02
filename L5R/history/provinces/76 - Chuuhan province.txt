@@ -1,0 +1,16 @@
+# c_chuuhan_province
+
+# County Title
+title = c_chuuhan_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_51 = castle
+b_town_51 = city
+
+# Misc
+culture = mantis_tsuruchi
+religion = the_kami
+
+#History

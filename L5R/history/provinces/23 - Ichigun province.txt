@@ -1,0 +1,18 @@
+# c_ichigun_province
+
+# County Title
+title = c_ichigun_province
+
+# Settlements
+max_settlements = 4
+
+b_daidoji_estates = castle
+b_daidoji_training_grounds = city
+#b_ichigun_province = temple
+#b_ichigun_province_2 = castle
+
+# Misc
+culture = crane_Daidoji
+religion = the_kami
+
+#History

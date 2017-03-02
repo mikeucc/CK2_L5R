@@ -1,0 +1,16 @@
+# c_gaien_province
+
+# County Title
+title = c_gaien_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_11 = castle
+b_town_11 = city
+
+# Misc
+culture = dragon_Mirumoto
+religion = the_kami
+
+#History

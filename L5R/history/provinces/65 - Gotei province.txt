@@ -1,0 +1,16 @@
+# c_gotei_province
+
+# County Title
+title = c_gotei_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_40 = castle
+b_town_40 = city
+
+# Misc
+culture = mantis_yoritomo
+religion = the_kami
+
+#History

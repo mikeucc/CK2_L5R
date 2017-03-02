@@ -1,0 +1,16 @@
+# c_shirani_province
+
+# County Title
+title = c_shirani_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_25 = castle
+b_town_25 = city
+
+# Misc
+culture = lion_Ikoma
+religion = the_kami
+
+#History

@@ -1,0 +1,17 @@
+# c_kuda_province
+
+# County Title
+title = c_kuda_province
+
+# Settlements
+max_settlements = 3
+
+b_kuda_maru = castle
+b_quiet_wind_plain = city
+#b_kuda_province = temple
+
+# Misc
+culture = crab_kaiu
+religion = the_kami
+
+#History

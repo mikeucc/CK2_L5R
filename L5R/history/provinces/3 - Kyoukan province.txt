@@ -1,0 +1,20 @@
+# c_kyoukan_province
+
+# County Title
+title = c_kyoukan_province
+
+# Settlements
+max_settlements = 6
+
+b_kyden_hida = castle
+b_koten = city
+b_kyuden_moshibaru = temple
+#b_kyoukan_province = castle
+#b_kyoukan_province_2 = city
+#b_kyoukan_province_3 = temple
+
+# Misc
+culture = crab_hida
+religion = the_kami
+
+#History

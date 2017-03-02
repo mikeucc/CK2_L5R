@@ -1,0 +1,15 @@
+# c_wakiaiai_province
+
+# County Title
+title = c_wakiaiai_province
+
+# Settlements
+max_settlements = 1
+
+b_jukami_mura = castle
+
+# Misc
+culture = crane_Asahina
+religion = the_kami
+
+#History

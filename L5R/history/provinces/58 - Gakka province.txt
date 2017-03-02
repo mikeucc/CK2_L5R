@@ -1,0 +1,16 @@
+# c_gakka_province
+
+# County Title
+title = c_gakka_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_33 = castle
+b_town_33 = city
+
+# Misc
+culture = lion_Matsu
+religion = the_kami
+
+#History

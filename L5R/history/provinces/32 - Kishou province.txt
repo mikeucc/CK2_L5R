@@ -1,0 +1,16 @@
+# c_kishou_province
+
+# County Title
+title = c_kishou_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_7 = castle
+b_town_7 = city
+
+# Misc
+culture = crane_Kakita
+religion = the_kami
+
+#History

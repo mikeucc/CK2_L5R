@@ -1,0 +1,151 @@
+89 = {
+	name="Hida"
+	culture = crab_hida
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 14
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+90 = {
+	name="Hiruma"
+	culture = crab_hiruma
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 36
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+91 = {
+	name="Kaiu"
+	culture = crab_kaiu
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 18
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+93 = {
+	name="Yasuki"
+	culture = crab_yasuki
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 35
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+94 = {
+	name="Doji"
+	culture = crane_doji
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 16
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+95 = {
+	name="Daidoji"
+	culture = crane_daidoji
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 28
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+101 = {
+	name="Yasuki"
+	culture = crane_yasuki
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 34
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+102 = {
+	name="Asahina"
+	culture = crane_asahina
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 24
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+350 = {
+	name="Kuni"
+	culture = crab_kaiu
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 13
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+351 = {
+	name="Toritaka"
+	culture = crab_kaiu
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 4
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}

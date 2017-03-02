@@ -1,0 +1,1363 @@
+###### AUTO GENERATED CONTENT (c) CKTools v19 ######
+
+
+
+e_rokugan = {
+	color={ 160 60 235 }
+	color2={ 255 255 20 }
+	
+	capital = 1 # c_garanto_province
+	culture = crab_hida
+	
+	k_the_crab = {
+		color={ 170 50 240 }
+		color2={ 255 255 255 }
+		
+		capital = 1 # c_garanto_province
+		culture = crab_hida
+		
+		d_hida_province = {
+			color={ 190 30 250 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1 province_id = 2 province_id = 3 province_id = 4 province_id = 5 } }
+				}
+			}
+			capital = 1 # c_garanto_province
+			
+			c_garanto_province = { # 1
+				color={ 200 20 255 }
+				color2={ 255 255 255 }
+				
+				b_long_walk = {
+				}
+				b_garanto_province = {
+				}
+				b_garanto_province_2 = {
+				}
+			}
+			c_ishibei_province = { # 4
+				color={ 20 200 255 }
+				color2={ 255 255 255 }
+				
+				b_kaiu_kabe = {
+				}
+				b_ishibei_province = {
+				}
+			}
+			c_ishigaki_province = { # 5
+				color={ 105 172 122 }
+				color2={ 255 255 255 }
+				
+				b_razor_of_the_dawn_castle = {
+				}
+			}
+			c_juuin_province = { # 2
+				color={ 100 100 50 }
+				color2={ 255 255 255 }
+				
+				b_higashiyama_mura = {
+				}
+				b_nishiyama_mura = {
+				}
+				b_bells_of_the_dead = {
+				}
+				b_juuin_province = {
+				}
+				b_juuin_province_2 = {
+				}
+			}
+			c_kyoukan_province = { # 3
+				color={ 100 10 255 }
+				color2={ 255 255 255 }
+				
+				b_kyden_hida = {
+				}
+				b_koten = {
+				}
+				b_kyuden_moshibaru = {
+				}
+				b_kyoukan_province = {
+				}
+				b_kyoukan_province_2 = {
+				}
+				b_kyoukan_province_3 = {
+				}
+			}
+		}
+		d_hiruma_province = {
+			color={ 113 133 195 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 6 province_id = 7 province_id = 8 } }
+				}
+			}
+			capital = 6 # c_hissori_province
+			
+			c_hissori_province = { # 6
+				color={ 123 123 200 }
+				color2={ 255 255 255 }
+				
+				b_lone_candle_keep = {
+				}
+				b_kamisori_sano_yoake_shiro = {
+				}
+			}
+			c_ienikaeru_province = { # 7
+				color={ 155 155 200 }
+				color2={ 255 255 255 }
+				
+				b_shiro_hiruma = {
+				}
+				b_white_temple = {
+				}
+				b_castle_of_the_tortoise = {
+				}
+			}
+			c_kinbou_province = { # 8
+				color={ 175 175 200 }
+				color2={ 255 255 255 }
+				
+				b_shinseis_last_hope = {
+				}
+			}
+		}
+		d_kaiu_province = {
+			color={ 63 82 77 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 9 province_id = 10 province_id = 11 } }
+				}
+			}
+			capital = 9 # c_hokufuu_province
+			
+			c_hokufuu_province = { # 9
+				color={ 53 92 72 }
+				color2={ 255 255 255 }
+				
+				b_face_of_the_east_castle = {
+				}
+				b_watchtower_of_the_west = {
+				}
+				b_maisuna_shiro = {
+				}
+				b_shattered_peaks_castle = {
+				}
+			}
+			c_kuda_province = { # 11
+				color={ 175 176 81 }
+				color2={ 255 255 255 }
+				
+				b_kuda_maru = {
+				}
+				b_quiet_wind_plain = {
+				}
+				b_kuda_province = {
+				}
+			}
+			c_yoake_province = { # 10
+				color={ 76 145 167 }
+				color2={ 255 255 255 }
+				
+				b_kaiu_shiro = {
+				}
+				b_razor_of_the_dawn_castle_2 = {
+				}
+				b_yoake_province = {
+				}
+			}
+		}
+		d_kuni_province = {
+			color={ 11 190 185 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 12 province_id = 13 province_id = 14 } }
+				}
+			}
+			capital = 12 # c_midakai_province
+			
+			c_midakai_province = { # 12
+				color={ 1 200 180 }
+				color2={ 255 255 255 }
+				
+				b_kakita_bogu = {
+				}
+				b_high_tree_village = {
+				}
+			}
+			c_adauchi_province = { # 13
+				color={ 10 100 255 }
+				color2={ 255 255 255 }
+				
+				b_shiro_kuni = {
+				}
+			}
+			c_toritaka_province = { # 14
+				color={ 50 183 91 }
+				color2={ 255 255 255 }
+				
+				b_kyden_toketsu = {
+				}
+				b_tani_hitokage = {
+				}
+				b_toritaka_province = {
+				}
+			}
+		}
+		d_yasuki_province = {
+			color={ 151 39 218 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 15 province_id = 16 } }
+				}
+			}
+			capital = 15 # c_sunda_mizu_province
+			
+			c_sunda_mizu_province = { # 15
+				color={ 161 29 223 }
+				color2={ 255 255 255 }
+				
+				b_shiro_kano = {
+				}
+				b_yasuki_defiance = {
+				}
+				b_sunda_mizu_mura = {
+				}
+				b_sunda_mizu_province = {
+				}
+			}
+			c_junkin_province = { # 16
+				color={ 239 234 156 }
+				color2={ 255 255 255 }
+				
+				b_yasuki_yashiki = {
+				}
+				b_friendly_traveler_village = {
+				}
+				b_watchtower_of_the_east = {
+				}
+				b_kano_mura = {
+				}
+				b_nobuto_toshi = {
+				}
+			}
+		}
+	}
+	k_the_crane = {
+		color={ 227 210 240 }
+		color2={ 255 255 255 }
+		
+		capital = 17 # c_anshin_province
+		culture = crane_Asahina
+		
+		d_asahina_province = {
+			color={ 247 190 250 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 17 province_id = 18 province_id = 19 } }
+				}
+			}
+			capital = 17 # c_anshin_province
+			
+			c_anshin_province = { # 17
+				color={ 1 180 255 }
+				color2={ 255 255 255 }
+				
+				b_wall_above_the_ocean_village = {
+				}
+				b_oni_mura = {
+				}
+				b_zenshou_tetsu = {
+				}
+				b_heavens_wisdom_temple = {
+				}
+				b_anshin_province = {
+				}
+			}
+			c_shinkyou_province = { # 18
+				color={ 1 170 255 }
+				color2={ 255 255 255 }
+				
+				b_shinden_asahina = {
+				}
+				b_shiro_hanamidoki = {
+				}
+				b_temple_of_jurojin = {
+				}
+				b_garden_under_shadow_city = {
+				}
+			}
+			c_wakiaiai_province = { # 19
+				color={ 1 160 255 }
+				color2={ 255 255 255 }
+				
+				b_jukami_mura = {
+				}
+			}
+		}
+		d_daidoji_province = {
+			color={ 247 220 250 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 20 province_id = 21 province_id = 22 province_id = 23 } }
+				}
+			}
+			capital = 20 # c_kosaten_province
+			
+			c_kosaten_province = { # 20
+				color={ 1 210 255 }
+				color2={ 255 255 255 }
+				
+				b_kosaten_shiro = {
+				}
+				b_three_sides_watchtower = {
+				}
+				b_kosaten_province = {
+				}
+			}
+			c_hayaku_province = { # 21
+				color={ 1 220 255 }
+				color2={ 255 255 255 }
+				
+				b_shiro_daidoji = {
+				}
+				b_prosperous_plains_city = {
+				}
+				b_osari_mori = {
+				}
+				b_nobuto_toshi_2 = {
+				}
+				b_shiro_giji = {
+				}
+			}
+			c_ichigun_province = { # 23
+				color={ 1 190 255 }
+				color2={ 255 255 255 }
+				
+				b_daidoji_estates = {
+				}
+				b_daidoji_training_grounds = {
+				}
+				b_ichigun_province = {
+				}
+				b_ichigun_province_2 = {
+				}
+			}
+			c_sabishi_province = { # 22
+				color={ 1 200 255 }
+				color2={ 255 255 255 }
+				
+				b_sabishi_province = {
+				}
+			}
+		}
+		d_doji_province = {
+			color={ 20 95 4 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 24 province_id = 25 province_id = 26 province_id = 27 province_id = 28 } }
+				}
+			}
+			capital = 24 # c_kazenmuketsu_province
+			
+			c_kazenmuketsu_province = { # 24
+				color={ 10 105 255 }
+				color2={ 255 255 255 }
+				
+				b_kyuden_doji = {
+				}
+				b_shizuka_toshi = {
+				}
+				b_kyuden_no_kin = {
+				}
+				b_shiro_katogama = {
+				}
+				b_kyuden_otomo = {
+				}
+			}
+			c_itoshii_province = { # 26
+				color={ 10 120 255 }
+				color2={ 255 255 255 }
+				
+				b_castle = {
+				}
+				b_town = {
+				}
+			}
+			c_kougen_province = { # 28
+				color={ 10 140 255 }
+				color2={ 255 255 255 }
+				
+				b_castle_3 = {
+				}
+				b_town_3 = {
+				}
+			}
+			c_oyomesan_province = { # 25
+				color={ 10 110 255 }
+				color2={ 255 255 255 }
+				
+				b_musume_mura = {
+				}
+				b_benten_seido = {
+				}
+				b_seven_fold_palace = {
+				}
+				b_oyomesan_province = {
+				}
+				b_oyomesan_province_2 = {
+				}
+			}
+			c_umoeru_province = { # 27
+				color={ 10 130 255 }
+				color2={ 255 255 255 }
+				
+				b_castle_2 = {
+				}
+				b_town_2 = {
+				}
+			}
+		}
+		d_kakita_province = {
+			color={ 0 160 250 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 29 province_id = 30 province_id = 31 province_id = 32 } }
+				}
+			}
+			capital = 29 # c_takuetsu_province
+			
+			c_takuetsu_province = { # 29
+				color={ 10 150 255 }
+				color2={ 255 255 255 }
+				
+				b_castle_4 = {
+				}
+				b_town_4 = {
+				}
+			}
+			c_gyousha_province = { # 31
+				color={ 10 170 255 }
+				color2={ 255 255 255 }
+				
+				b_castle_6 = {
+				}
+				b_town_6 = {
+				}
+			}
+			c_kishou_province = { # 32
+				color={ 10 180 255 }
+				color2={ 255 255 255 }
+				
+				b_castle_7 = {
+				}
+				b_town_7 = {
+				}
+			}
+			c_nanhan_province = { # 30
+				color={ 10 160 255 }
+				color2={ 255 255 255 }
+				
+				b_castle_5 = {
+				}
+				b_town_5 = {
+				}
+			}
+		}
+	}
+	k_the_dragon = {
+		color={ 170 29 5 }
+		color2={ 255 255 255 }
+		
+		capital = 33 # c_shinpi_province
+		culture = dragon_Kitsuki
+		
+		d_kitsuki_province = {
+			color={ 190 9 15 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 33 province_id = 34 province_id = 35 } }
+				}
+			}
+			capital = 33 # c_shinpi_province
+			
+			c_shinpi_province = { # 33
+				color={ 200 255 20 }
+				color2={ 255 255 255 }
+				
+				b_castle_8 = {
+				}
+				b_town_8 = {
+				}
+			}
+			c_kaitou_province = { # 34
+				color={ 200 255 40 }
+				color2={ 255 255 255 }
+				
+				b_castle_9 = {
+				}
+				b_town_9 = {
+				}
+			}
+			c_sinjutsu_province = { # 35
+				color={ 200 255 60 }
+				color2={ 255 255 255 }
+				
+				b_castle_10 = {
+				}
+				b_town_10 = {
+				}
+			}
+		}
+		d_mirumoto_province = {
+			color={ 190 9 75 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 36 province_id = 37 province_id = 38 province_id = 39 } }
+				}
+			}
+			capital = 36 # c_gaien_province
+			
+			c_gaien_province = { # 36
+				color={ 200 255 80 }
+				color2={ 255 255 255 }
+				
+				b_castle_11 = {
+				}
+				b_town_11 = {
+				}
+			}
+			c_kousou_province = { # 39
+				color={ 200 255 140 }
+				color2={ 255 255 255 }
+				
+				b_castle_14 = {
+				}
+				b_town_14 = {
+				}
+			}
+			c_toshibu_province = { # 38
+				color={ 200 255 120 }
+				color2={ 255 255 255 }
+				
+				b_castle_13 = {
+				}
+				b_town_13 = {
+				}
+			}
+			c_yakeishi_province = { # 37
+				color={ 200 255 100 }
+				color2={ 255 255 255 }
+				
+				b_castle_12 = {
+				}
+				b_town_12 = {
+				}
+			}
+		}
+		d_tamori_province = {
+			color={ 190 9 155 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 40 province_id = 41 } }
+				}
+			}
+			capital = 40 # c_sabishii_province
+			
+			c_sabishii_province = { # 40
+				color={ 200 255 160 }
+				color2={ 255 255 255 }
+				
+				b_castle_15 = {
+				}
+				b_town_15 = {
+				}
+			}
+			c_kinenkan_province = { # 41
+				color={ 200 255 180 }
+				color2={ 255 255 255 }
+				
+				b_castle_16 = {
+				}
+				b_town_16 = {
+				}
+			}
+		}
+		d_togashi_province = {
+			color={ 190 9 195 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 42 } }
+				}
+			}
+			capital = 42 # c_mucha_province
+			
+			c_mucha_province = { # 42
+				color={ 200 255 200 }
+				color2={ 255 255 255 }
+				
+				b_castle_17 = {
+				}
+				b_town_17 = {
+				}
+			}
+		}
+	}
+	k_the_lion = {
+		color={ 158 218 85 }
+		color2={ 255 255 255 }
+		
+		capital = 43 # c_oiku_province
+		culture = lion_Akodo
+		
+		d_akodo_province = {
+			color={ 178 198 95 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 43 province_id = 44 province_id = 45 province_id = 46 province_id = 47 } }
+				}
+			}
+			capital = 43 # c_oiku_province
+			
+			c_oiku_province = { # 43
+				color={ 188 188 100 }
+				color2={ 255 255 255 }
+				
+				b_castle_18 = {
+				}
+				b_town_18 = {
+				}
+			}
+			c_henkyou_province = { # 44
+				color={ 210 210 140 }
+				color2={ 255 255 255 }
+				
+				b_castle_19 = {
+				}
+				b_town_19 = {
+				}
+			}
+			c_ken_ryu_province = { # 47
+				color={ 255 240 200 }
+				color2={ 255 255 255 }
+				
+				b_castle_22 = {
+				}
+				b_town_22 = {
+				}
+			}
+			c_renga_province = { # 46
+				color={ 250 210 180 }
+				color2={ 255 255 255 }
+				
+				b_castle_21 = {
+				}
+				b_town_21 = {
+				}
+			}
+			c_shimizu_province = { # 45
+				color={ 230 210 160 }
+				color2={ 255 255 255 }
+				
+				b_castle_20 = {
+				}
+				b_town_20 = {
+				}
+			}
+		}
+		d_ikoma_province = {
+			color={ 135 115 25 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 48 province_id = 49 province_id = 50 province_id = 51 province_id = 52 } }
+				}
+			}
+			capital = 48 # c_gisei_province
+			
+			c_gisei_province = { # 48
+				color={ 125 125 20 }
+				color2={ 255 255 255 }
+				
+				b_castle_23 = {
+				}
+				b_town_23 = {
+				}
+			}
+			c_eiyu_province = { # 49
+				color={ 125 125 60 }
+				color2={ 255 255 255 }
+				
+				b_castle_24 = {
+				}
+				b_town_24 = {
+				}
+			}
+			c_gunsho_province = { # 52
+				color={ 125 125 180 }
+				color2={ 255 255 255 }
+				
+				b_castle_27 = {
+				}
+				b_town_27 = {
+				}
+			}
+			c_ikota_province = { # 51
+				color={ 125 125 140 }
+				color2={ 255 255 255 }
+				
+				b_castle_26 = {
+				}
+				b_town_26 = {
+				}
+			}
+			c_shirani_province = { # 50
+				color={ 125 125 100 }
+				color2={ 255 255 255 }
+				
+				b_castle_25 = {
+				}
+				b_town_25 = {
+				}
+			}
+		}
+		d_kitsu_province = {
+			color={ 190 170 25 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 53 province_id = 54 province_id = 55 province_id = 56 } }
+				}
+			}
+			capital = 53 # c_hayai_province
+			
+			c_hayai_province = { # 53
+				color={ 180 180 20 }
+				color2={ 255 255 255 }
+				
+				b_castle_28 = {
+				}
+				b_town_28 = {
+				}
+			}
+			c_dairiki_province = { # 55
+				color={ 180 180 100 }
+				color2={ 255 255 255 }
+				
+				b_castle_30 = {
+				}
+				b_town_30 = {
+				}
+			}
+			c_foshi_province = { # 56
+				color={ 180 180 140 }
+				color2={ 255 255 255 }
+				
+				b_castle_31 = {
+				}
+				b_town_31 = {
+				}
+			}
+			c_rugashi_province = { # 54
+				color={ 180 180 60 }
+				color2={ 255 255 255 }
+				
+				b_castle_29 = {
+				}
+				b_town_29 = {
+				}
+			}
+		}
+		d_matsu_province = {
+			color={ 230 250 105 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 57 province_id = 58 province_id = 59 province_id = 60 province_id = 61 province_id = 62 province_id = 63 province_id = 64 } }
+				}
+			}
+			capital = 57 # c_azuma_province
+			
+			c_azuma_province = { # 57
+				color={ 240 240 110 }
+				color2={ 255 255 255 }
+				
+				b_castle_32 = {
+				}
+				b_town_32 = {
+				}
+			}
+			c_chuugen_province = { # 59
+				color={ 240 240 50 }
+				color2={ 255 255 255 }
+				
+				b_castle_34 = {
+				}
+				b_town_34 = {
+				}
+			}
+			c_gakka_province = { # 58
+				color={ 240 240 20 }
+				color2={ 255 255 255 }
+				
+				b_castle_33 = {
+				}
+				b_town_33 = {
+				}
+			}
+			c_heigen_province = { # 60
+				color={ 240 240 140 }
+				color2={ 255 255 255 }
+				
+				b_castle_35 = {
+				}
+				b_town_35 = {
+				}
+			}
+			c_kaeru_province = { # 61
+				color={ 240 240 170 }
+				color2={ 255 255 255 }
+				
+				b_castle_36 = {
+				}
+				b_town_36 = {
+				}
+			}
+			c_tonfajutsen = { # 64
+				color={ 240 240 80 }
+				color2={ 255 255 255 }
+				
+				b_castle_39 = {
+				}
+				b_town_39 = {
+				}
+			}
+			c_yama_province = { # 63
+				color={ 240 240 230 }
+				color2={ 255 255 255 }
+				
+				b_castle_38 = {
+				}
+				b_town_38 = {
+				}
+			}
+			c_yojin_province = { # 62
+				color={ 240 240 200 }
+				color2={ 255 255 255 }
+				
+				b_castle_37 = {
+				}
+				b_town_37 = {
+				}
+			}
+		}
+	}
+	k_the_mantis = {
+		color={ 73 50 70 }
+		color2={ 255 255 255 }
+		
+		capital = 65 # c_gotei_province
+		culture = mantis_yoritomo
+		
+		d_yoritomo_province  = {
+			color={ 53 70 60 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 65 province_id = 66 province_id = 67 province_id = 68 province_id = 69 province_id = 70 province_id = 71 } }
+				}
+			}
+			capital = 65 # c_gotei_province
+			
+			c_gotei_province = { # 65
+				color={ 43 80 55 }
+				color2={ 255 255 255 }
+				
+				b_castle_40 = {
+				}
+				b_town_40 = {
+				}
+			}
+			c_inazuma_province = { # 68
+				color={ 31 207 64 }
+				color2={ 255 255 255 }
+				
+				b_castle_43 = {
+				}
+				b_town_43 = {
+				}
+			}
+			c_irie_province = { # 69
+				color={ 43 117 56 }
+				color2={ 255 255 255 }
+				
+				b_castle_44 = {
+				}
+				b_town_44 = {
+				}
+			}
+			c_kaze_province = { # 67
+				color={ 131 146 130 }
+				color2={ 255 255 255 }
+				
+				b_castle_42 = {
+				}
+				b_town_42 = {
+				}
+			}
+			c_koutetsukan_province = { # 66
+				color={ 79 232 63 }
+				color2={ 255 255 255 }
+				
+				b_castle_41 = {
+				}
+				b_town_41 = {
+				}
+			}
+			c_maigosera_province = { # 71
+				color={ 108 203 6 }
+				color2={ 255 255 255 }
+				
+				b_castle_46 = {
+				}
+				b_town_46 = {
+				}
+			}
+			c_tokigogachu_province = { # 70
+				color={ 11 199 44 }
+				color2={ 255 255 255 }
+				
+				b_castle_45 = {
+				}
+				b_town_45 = {
+				}
+			}
+		}
+		d_kitsune_province = {
+			color={ 165 248 190 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 72 } }
+				}
+			}
+			capital = 72 # c_kakusu_province
+			
+			c_kakusu_province = { # 72
+				color={ 175 238 195 }
+				color2={ 255 255 255 }
+				
+				b_castle_47 = {
+				}
+				b_town_47 = {
+				}
+			}
+		}
+		d_moshi_province = {
+			color={ 36 235 128 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 73 } }
+				}
+			}
+			capital = 73 # c_hinome_province
+			
+			c_hinome_province = { # 73
+				color={ 46 225 133 }
+				color2={ 255 255 255 }
+				
+				b_castle_48 = {
+				}
+				b_town_48 = {
+				}
+			}
+		}
+		d_tsuruchi_province = {
+			color={ 149 198 163 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 74 province_id = 75 province_id = 76 province_id = 77 province_id = 78 } }
+				}
+			}
+			capital = 74 # c_ashinagabachi_province
+			
+			c_ashinagabachi_province = { # 74
+				color={ 159 188 168 }
+				color2={ 255 255 255 }
+				
+				b_castle_49 = {
+				}
+				b_town_49 = {
+				}
+			}
+			c_chuuhan_province = { # 76
+				color={ 13 80 34 }
+				color2={ 255 255 255 }
+				
+				b_castle_51 = {
+				}
+				b_town_51 = {
+				}
+			}
+			c_douro_province = { # 77
+				color={ 27 236 92 }
+				color2={ 255 255 255 }
+				
+				b_castle_52 = {
+				}
+				b_town_52 = {
+				}
+			}
+			c_enzan_province = { # 75
+				color={ 34 59 42 }
+				color2={ 255 255 255 }
+				
+				b_castle_50 = {
+				}
+				b_town_50 = {
+				}
+			}
+			c_shaiga_province = { # 78
+				color={ 67 79 71 }
+				color2={ 255 255 255 }
+				
+				b_castle_53 = {
+				}
+				b_town_53 = {
+				}
+			}
+		}
+	}
+	k_the_phoenix = {
+		color={ 105 249 193 }
+		color2={ 255 255 255 }
+		
+		capital = 79 # c_anshin_province_2
+		culture = phoenix_agasha
+		
+		d_agasha_province = {
+			color={ 125 229 203 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 79 province_id = 80 province_id = 81 province_id = 82 } }
+				}
+			}
+			capital = 79 # c_anshin_province_2
+			
+			c_anshin_province_2 = { # 79
+				color={ 135 219 208 }
+				color2={ 255 255 255 }
+				
+				b_castle_54 = {
+				}
+				b_town_54 = {
+				}
+			}
+			c_haimaato_province = { # 82
+				color={ 149 134 53 }
+				color2={ 255 255 255 }
+				
+				b_castle_57 = {
+				}
+				b_town_57 = {
+				}
+			}
+			c_mihari_province = { # 80
+				color={ 219 200 135 }
+				color2={ 255 255 255 }
+				
+				b_castle_55 = {
+				}
+				b_town_55 = {
+				}
+			}
+			c_omoidasu_province = { # 81
+				color={ 217 147 48 }
+				color2={ 255 255 255 }
+				
+				b_castle_56 = {
+				}
+				b_town_56 = {
+				}
+			}
+		}
+		d_asako_province = {
+			color={ 21 45 90 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 83 province_id = 84 province_id = 85 province_id = 86 } }
+				}
+			}
+			capital = 83 # c_enju_province
+			
+			c_enju_province = { # 83
+				color={ 11 55 85 }
+				color2={ 255 255 255 }
+				
+				b_castle_58 = {
+				}
+				b_town_58 = {
+				}
+			}
+			c_ki_rin_province = { # 84
+				color={ 8 49 8 }
+				color2={ 255 255 255 }
+				
+				b_castle_59 = {
+				}
+				b_town_59 = {
+				}
+			}
+			c_kyuukai_province = { # 85
+				color={ 39 8 49 }
+				color2={ 255 255 255 }
+				
+				b_castle_60 = {
+				}
+				b_town_60 = {
+				}
+			}
+			c_yogen_province = { # 86
+				color={ 237 216 40 }
+				color2={ 255 255 255 }
+				
+				b_castle_61 = {
+				}
+				b_town_61 = {
+				}
+			}
+		}
+		d_isawa_province = {
+			color={ 49 234 209 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 87 province_id = 88 province_id = 89 province_id = 90 province_id = 91 province_id = 92 } }
+				}
+			}
+			capital = 87 # c_yosomono_province
+			
+			c_yosomono_province = { # 87
+				color={ 59 224 214 }
+				color2={ 255 255 255 }
+				
+				b_castle_62 = {
+				}
+				b_town_62 = {
+				}
+			}
+			c_aoijiroi_province = { # 91
+				color={ 119 176 45 }
+				color2={ 255 255 255 }
+				
+				b_castle_66 = {
+				}
+				b_town_66 = {
+				}
+			}
+			c_garanto_province_2 = { # 90
+				color={ 186 25 188 }
+				color2={ 255 255 255 }
+				
+				b_castle_65 = {
+				}
+				b_town_65 = {
+				}
+			}
+			c_kinkaku_province = { # 89
+				color={ 242 244 107 }
+				color2={ 255 255 255 }
+				
+				b_castle_64 = {
+				}
+				b_town_64 = {
+				}
+			}
+			c_kougen_province_2 = { # 88
+				color={ 220 140 105 }
+				color2={ 255 255 255 }
+				
+				b_castle_63 = {
+				}
+				b_town_63 = {
+				}
+			}
+			c_maryoku_province = { # 92
+				color={ 53 151 220 }
+				color2={ 255 255 255 }
+				
+				b_castle_67 = {
+				}
+				b_town_67 = {
+				}
+			}
+		}
+		d_shiba_province = {
+			color={ 132 127 103 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 93 province_id = 94 province_id = 95 province_id = 96 province_id = 97 } }
+				}
+			}
+			capital = 93 # c_enjaku_province
+			
+			c_enjaku_province = { # 93
+				color={ 122 137 98 }
+				color2={ 255 255 255 }
+				
+				b_castle_68 = {
+				}
+				b_town_68 = {
+				}
+			}
+			c_bachiatari_province = { # 96
+				color={ 168 166 216 }
+				color2={ 255 255 255 }
+				
+				b_castle_71 = {
+				}
+				b_town_71 = {
+				}
+			}
+			c_nanimo_province = { # 95
+				color={ 220 46 99 }
+				color2={ 255 255 255 }
+				
+				b_castle_70 = {
+				}
+				b_town_70 = {
+				}
+			}
+			c_nejiro_province = { # 97
+				color={ 52 101 64 }
+				color2={ 255 255 255 }
+				
+				b_castle_72 = {
+				}
+				b_town_72 = {
+				}
+			}
+			c_ukabu_province = { # 94
+				color={ 166 86 227 }
+				color2={ 255 255 255 }
+				
+				b_castle_69 = {
+				}
+				b_town_69 = {
+				}
+			}
+		}
+	}
+}
+e_shadowlands = {
+	color={ 122 39 99 }
+	color2={ 255 255 20 }
+	
+	capital = 98 # c_shadowlands
+	culture = shadowlands
+	
+	k_shadowlands = {
+		color={ 112 49 94 }
+		color2={ 255 255 255 }
+		
+		capital = 98 # c_shadowlands
+		culture = shadowlands
+		
+		c_shadowlands = { # 98
+			color={ 82 79 79 }
+			color2={ 255 255 255 }
+			
+			b_festering_pit = {
+			}
+		}
+		d_shadowlands = {
+			color={ 92 69 84 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 98 } }
+				}
+			}
+			capital = 98 # c_shadowlands
+			
+			c_shadowlands = { # 98
+				color={ 82 79 79 }
+				color2={ 255 255 255 }
+				
+				b_festering_pit = {
+				}
+			}
+		}
+	}
+}

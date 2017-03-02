@@ -1,0 +1,16 @@
+# c_midakai_province
+
+# County Title
+title = c_midakai_province
+
+# Settlements
+max_settlements = 2
+
+b_kakita_bogu = castle
+b_high_tree_village = city
+
+# Misc
+culture = crab_kuni
+religion = the_kami
+
+#History

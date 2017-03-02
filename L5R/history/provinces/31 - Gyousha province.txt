@@ -1,0 +1,16 @@
+# c_gyousha_province
+
+# County Title
+title = c_gyousha_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_6 = castle
+b_town_6 = city
+
+# Misc
+culture = crane_Kakita
+religion = the_kami
+
+#History

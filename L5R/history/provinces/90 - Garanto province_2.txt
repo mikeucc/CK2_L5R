@@ -1,0 +1,16 @@
+# c_garanto_province_2
+
+# County Title
+title = c_garanto_province_2
+
+# Settlements
+max_settlements = 2
+
+b_castle_65 = castle
+b_town_65 = city
+
+# Misc
+culture = phoenix_isawa
+religion = catholic
+
+#History

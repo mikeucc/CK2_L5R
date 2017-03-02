@@ -1,0 +1,16 @@
+# c_kousou_province
+
+# County Title
+title = c_kousou_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_14 = castle
+b_town_14 = city
+
+# Misc
+culture = dragon_Mirumoto
+religion = the_kami
+
+#History

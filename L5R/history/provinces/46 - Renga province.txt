@@ -1,0 +1,16 @@
+# c_renga_province
+
+# County Title
+title = c_renga_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_21 = castle
+b_town_21 = city
+
+# Misc
+culture = lion_Akodo
+religion = the_kami
+
+#History

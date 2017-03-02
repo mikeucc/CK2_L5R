@@ -1,0 +1,16 @@
+# c_foshi_province
+
+# County Title
+title = c_foshi_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_31 = castle
+b_town_31 = city
+
+# Misc
+culture = lion_Kitsu
+religion = the_kami
+
+#History

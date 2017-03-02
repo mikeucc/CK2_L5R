@@ -1,0 +1,16 @@
+# c_tokigogachu_province
+
+# County Title
+title = c_tokigogachu_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_45 = castle
+b_town_45 = city
+
+# Misc
+culture = mantis_yoritomo
+religion = the_kami
+
+#History

@@ -1,0 +1,17 @@
+# c_ienikaeru_province
+
+# County Title
+title = c_ienikaeru_province
+
+# Settlements
+max_settlements = 3
+
+b_shiro_hiruma = castle
+b_white_temple = city
+b_castle_of_the_tortoise = temple
+
+# Misc
+culture = crab_hiruma
+religion = the_kami
+
+#History

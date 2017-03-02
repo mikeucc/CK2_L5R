@@ -1,0 +1,19 @@
+# c_kazenmuketsu_province
+
+# County Title
+title = c_kazenmuketsu_province
+
+# Settlements
+max_settlements = 5
+
+b_kyuden_doji = castle
+b_shizuka_toshi = city
+b_kyuden_no_kin = temple
+b_shiro_katogama = castle
+b_kyuden_otomo = city
+
+# Misc
+culture = crane_Doji
+religion = the_kami
+
+#History

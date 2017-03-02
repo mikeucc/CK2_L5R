@@ -1,0 +1,18 @@
+# c_sunda_mizu_province
+
+# County Title
+title = c_sunda_mizu_province
+
+# Settlements
+max_settlements = 4
+
+b_shiro_kano = castle
+b_yasuki_defiance = city
+b_sunda_mizu_mura = temple
+#b_sunda_mizu_province = castle
+
+# Misc
+culture = crab_yasuki
+religion = the_kami
+
+#History

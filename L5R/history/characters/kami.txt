@@ -1,0 +1,47 @@
+1={
+    name=Hida
+    dynasty=89
+  
+    religion=the_kami
+    culture=crab_hida
+	
+	dna="bdhbb0ha000"
+	properties="gl0jaj0a000000"
+
+	learning = 12
+	add_trait = scholarly_theologian
+	add_trait = poet
+	add_trait = genius
+	add_trait = gregarious
+	add_trait = patient
+	add_trait = gluttonous
+	add_trait = slothful
+	add_trait = cruel
+	
+  
+    1027.01.15 = { birth=yes }
+    1087.09.09 = { death=yes }
+}
+
+2={
+    name=Hiruma
+    dynasty=90
+  
+    religion=the_kami
+    culture=crab_hiruma
+  
+    1027.01.15 = { birth=yes }
+    1087.09.09 = { death=yes }
+}
+
+3={
+    name=Kaiu
+    dynasty=91
+  
+    religion=the_kami
+    culture=crab_kaiu
+  
+    1027.01.15 = { birth=yes }
+    1087.09.09 = { death=yes }
+}
+

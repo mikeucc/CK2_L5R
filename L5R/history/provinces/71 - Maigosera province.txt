@@ -1,0 +1,16 @@
+# c_maigosera_province
+
+# County Title
+title = c_maigosera_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_46 = castle
+b_town_46 = city
+
+# Misc
+culture = mantis_yoritomo
+religion = the_kami
+
+#History

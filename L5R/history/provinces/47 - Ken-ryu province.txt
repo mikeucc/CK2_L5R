@@ -1,0 +1,16 @@
+# c_ken_ryu_province
+
+# County Title
+title = c_ken_ryu_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_22 = castle
+b_town_22 = city
+
+# Misc
+culture = lion_Akodo
+religion = the_kami
+
+#History

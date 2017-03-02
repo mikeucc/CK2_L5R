@@ -1,0 +1,16 @@
+# c_koutetsukan_province
+
+# County Title
+title = c_koutetsukan_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_41 = castle
+b_town_41 = city
+
+# Misc
+culture = mantis_yoritomo
+religion = the_kami
+
+#History

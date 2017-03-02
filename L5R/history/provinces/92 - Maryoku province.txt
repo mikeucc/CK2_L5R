@@ -1,0 +1,16 @@
+# c_maryoku_province
+
+# County Title
+title = c_maryoku_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_67 = castle
+b_town_67 = city
+
+# Misc
+culture = phoenix_isawa
+religion = catholic
+
+#History

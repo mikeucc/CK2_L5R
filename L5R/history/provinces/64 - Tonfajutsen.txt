@@ -1,0 +1,16 @@
+# c_tonfajutsen
+
+# County Title
+title = c_tonfajutsen
+
+# Settlements
+max_settlements = 2
+
+b_castle_39 = castle
+b_town_39 = city
+
+# Misc
+culture = lion_Matsu
+religion = the_kami
+
+#History

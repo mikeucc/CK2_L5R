@@ -1,0 +1,17 @@
+# c_kosaten_province
+
+# County Title
+title = c_kosaten_province
+
+# Settlements
+max_settlements = 3
+
+b_kosaten_shiro = castle
+b_three_sides_watchtower = city
+#b_kosaten_province = temple
+
+# Misc
+culture = crane_Daidoji
+religion = the_kami
+
+#History

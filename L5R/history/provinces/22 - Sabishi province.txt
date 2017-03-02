@@ -1,0 +1,15 @@
+# c_sabishi_province
+
+# County Title
+title = c_sabishi_province
+
+# Settlements
+max_settlements = 1
+
+b_sabishi_province = castle
+
+# Misc
+culture = crane_Daidoji
+religion = the_kami
+
+#History

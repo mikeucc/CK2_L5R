@@ -1,0 +1,15 @@
+# c_adauchi_province
+
+# County Title
+title = c_adauchi_province
+
+# Settlements
+max_settlements = 1
+
+b_shiro_kuni = castle
+
+# Misc
+culture = crab_kuni
+religion = the_kami
+
+#History

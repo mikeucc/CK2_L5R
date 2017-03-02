@@ -1,0 +1,16 @@
+# c_ishibei_province
+
+# County Title
+title = c_ishibei_province
+
+# Settlements
+max_settlements = 2
+
+b_kaiu_kabe = castle
+#b_ishibei_province = city
+
+# Misc
+culture = crab_hida
+religion = the_kami
+
+#History

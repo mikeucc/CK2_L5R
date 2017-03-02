@@ -1,0 +1,31 @@
+#ROKUGAN
+technology = {
+	titles = {
+		d_akodo_province
+		d_asahina_province
+		d_daidoji_province
+		d_doji_province
+		d_hida_province
+		d_hiruma_province
+		d_ikoma_province
+		d_kaiu_province
+		d_kakita_province
+		d_kitsu_province
+		d_kitsuki_province
+		d_kuni_province
+		d_matsu_province
+		d_mirumoto_province
+		d_tamori_province
+		d_yasuki_province
+	}
+	1060 = {
+		military = 0.5
+		economy = 1.0
+		culture = 1.0
+	}
+	1600 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

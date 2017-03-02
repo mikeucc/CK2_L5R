@@ -1,0 +1,16 @@
+# c_enju_province
+
+# County Title
+title = c_enju_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_58 = castle
+b_town_58 = city
+
+# Misc
+culture = phoenix_asako
+religion = catholic
+
+#History

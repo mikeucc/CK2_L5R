@@ -1,0 +1,16 @@
+# c_eiyu_province
+
+# County Title
+title = c_eiyu_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_24 = castle
+b_town_24 = city
+
+# Misc
+culture = lion_Ikoma
+religion = the_kami
+
+#History

@@ -1,0 +1,19 @@
+# c_anshin_province
+
+# County Title
+title = c_anshin_province
+
+# Settlements
+max_settlements = 5
+
+b_wall_above_the_ocean_village = castle
+b_oni_mura = city
+b_zenshou_tetsu = temple
+b_heavens_wisdom_temple = castle
+#b_anshin_province = city
+
+# Misc
+culture = crane_Asahina
+religion = the_kami
+
+#History

@@ -1,0 +1,19 @@
+# c_oyomesan_province
+
+# County Title
+title = c_oyomesan_province
+
+# Settlements
+max_settlements = 5
+
+b_musume_mura = castle
+b_benten_seido = city
+b_seven_fold_palace = temple
+#b_oyomesan_province = castle
+#b_oyomesan_province_2 = city
+
+# Misc
+culture = crane_Doji
+religion = the_kami
+
+#History

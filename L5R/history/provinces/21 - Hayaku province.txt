@@ -1,0 +1,19 @@
+# c_hayaku_province
+
+# County Title
+title = c_hayaku_province
+
+# Settlements
+max_settlements = 5
+
+b_shiro_daidoji = castle
+b_prosperous_plains_city = city
+b_osari_mori = temple
+b_nobuto_toshi_2 = castle
+b_shiro_giji = city
+
+# Misc
+culture = crane_Daidoji
+religion = the_kami
+
+#History

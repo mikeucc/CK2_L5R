@@ -1,0 +1,16 @@
+# c_dairiki_province
+
+# County Title
+title = c_dairiki_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_30 = castle
+b_town_30 = city
+
+# Misc
+culture = lion_Kitsu
+religion = the_kami
+
+#History

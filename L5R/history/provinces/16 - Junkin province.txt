@@ -1,0 +1,19 @@
+# c_junkin_province
+
+# County Title
+title = c_junkin_province
+
+# Settlements
+max_settlements = 5
+
+b_yasuki_yashiki = castle
+b_friendly_traveler_village = city
+b_watchtower_of_the_east = temple
+b_kano_mura = castle
+b_nobuto_toshi = city
+
+# Misc
+culture = crab_yasuki
+religion = the_kami
+
+#History

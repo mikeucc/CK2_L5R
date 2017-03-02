@@ -1,0 +1,16 @@
+# c_takuetsu_province
+
+# County Title
+title = c_takuetsu_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_4 = castle
+b_town_4 = city
+
+# Misc
+culture = crane_Kakita
+religion = the_kami
+
+#History

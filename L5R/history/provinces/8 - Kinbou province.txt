@@ -1,0 +1,15 @@
+# c_kinbou_province
+
+# County Title
+title = c_kinbou_province
+
+# Settlements
+max_settlements = 1
+
+b_shinseis_last_hope = castle
+
+# Misc
+culture = crab_hiruma
+religion = the_kami
+
+#History

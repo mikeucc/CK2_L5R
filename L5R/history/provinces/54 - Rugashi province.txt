@@ -1,0 +1,16 @@
+# c_rugashi_province
+
+# County Title
+title = c_rugashi_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_29 = castle
+b_town_29 = city
+
+# Misc
+culture = lion_Kitsu
+religion = the_kami
+
+#History

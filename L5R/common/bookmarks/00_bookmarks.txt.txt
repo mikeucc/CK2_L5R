@@ -1,0 +1,24 @@
+bm_CLAN_WAR = {
+	name = "BM_CLAN_WAR"	
+	desc = "BM_CLAN_WAR_DESC"
+	date = 1060.1.1
+	
+	custom_start = no				## Choosing "Custom Start" will open this bookmark
+	
+	selectable_character = {
+		id = 1 # Hida
+		religion=the_kami
+		culture=crab_hida
+		dna="bdhbb0ha000"
+		properties="gl0jaj0a000000"
+		age = 22
+		name = CRAB_LEADERS_001
+		title = e_rokugan
+		title_name = e_rokugan
+		#coa_dynasty = yes
+		dlc = "Horse Lords"
+		
+		
+	}
+	
+}

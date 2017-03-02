@@ -1,0 +1,17 @@
+# c_yoake_province
+
+# County Title
+title = c_yoake_province
+
+# Settlements
+max_settlements = 3
+
+b_kaiu_shiro = castle
+b_razor_of_the_dawn_castle_2 = city
+#b_yoake_province = temple
+
+# Misc
+culture = crab_kaiu
+religion = the_kami
+
+#History

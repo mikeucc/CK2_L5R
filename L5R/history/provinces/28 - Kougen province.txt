@@ -1,0 +1,16 @@
+# c_kougen_province
+
+# County Title
+title = c_kougen_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_3 = castle
+b_town_3 = city
+
+# Misc
+culture = crane_Doji
+religion = the_kami
+
+#History

@@ -1,0 +1,18 @@
+# c_hokufuu_province
+
+# County Title
+title = c_hokufuu_province
+
+# Settlements
+max_settlements = 4
+
+b_face_of_the_east_castle = castle
+b_watchtower_of_the_west = city
+b_maisuna_shiro = temple
+b_shattered_peaks_castle = castle
+
+# Misc
+culture = crab_kaiu
+religion = the_kami
+
+#History

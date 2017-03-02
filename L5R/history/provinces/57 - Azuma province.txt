@@ -1,0 +1,16 @@
+# c_azuma_province
+
+# County Title
+title = c_azuma_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_32 = castle
+b_town_32 = city
+
+# Misc
+culture = lion_Matsu
+religion = the_kami
+
+#History

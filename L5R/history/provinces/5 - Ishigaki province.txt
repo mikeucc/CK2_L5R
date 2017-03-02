@@ -1,0 +1,15 @@
+# c_ishigaki_province
+
+# County Title
+title = c_ishigaki_province
+
+# Settlements
+max_settlements = 1
+
+b_razor_of_the_dawn_castle = castle
+
+# Misc
+culture = crab_hida
+religion = the_kami
+
+#History

@@ -1,0 +1,19 @@
+# c_juuin_province
+
+# County Title
+title = c_juuin_province
+
+# Settlements
+max_settlements = 5
+
+b_higashiyama_mura = castle
+b_nishiyama_mura = city
+b_bells_of_the_dead = temple
+#b_juuin_province = castle
+#b_juuin_province_2 = city
+
+# Misc
+culture = crab_hida
+religion = the_kami
+
+#History

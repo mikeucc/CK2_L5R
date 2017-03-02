@@ -1,0 +1,16 @@
+# c_kougen_province_2
+
+# County Title
+title = c_kougen_province_2
+
+# Settlements
+max_settlements = 2
+
+b_castle_63 = castle
+b_town_63 = city
+
+# Misc
+culture = phoenix_isawa
+religion = catholic
+
+#History
