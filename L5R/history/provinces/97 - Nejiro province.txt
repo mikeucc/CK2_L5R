@@ -11,6 +11,6 @@ b_town_72 = city
 
 # Misc
 culture = phoenix_shiba
-religion = catholic
+religion = the_kami
 
 #History

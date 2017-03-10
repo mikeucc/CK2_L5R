@@ -10,6 +10,6 @@ b_festering_pit = castle
 
 # Misc
 culture = shadowlands
-religion = catholic
+religion = the_kami
 
 #History

@@ -1,6 +1,8 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 c_adauchi_province;Adauchi province;Adauchi province;Adauchi province;;Adauchi province;;;;;;;;;x
 c_adauchi_province_adj;Adauchi provincean;;Adauchi provincer;;;;;;;;;;;x
+c_anei_province;An'ei province;An'ei province;An'ei province;;An'ei province;;;;;;;;;x
+c_anei_province_adj;An'ei provincean;;An'ei provincer;;;;;;;;;;;x
 c_anshin_province;Anshin province;Anshin province;Anshin province;;Anshin province;;;;;;;;;x
 c_anshin_province_adj;Anshin provincean;;Anshin provincer;;;;;;;;;;;x
 c_anshin_province_2;Anshin province;Anshin province;Anshin province;;Anshin province;;;;;;;;;x
@@ -13,10 +15,14 @@ c_azuma_province;Azuma province;Azuma province;Azuma province;;Azuma province;;;
 c_azuma_province_adj;Azuma provincean;;Azuma provincer;;;;;;;;;;;x
 c_bachiatari_province;Bachiatari province;Bachiatari province;Bachiatari province;;Bachiatari province;;;;;;;;;x
 c_bachiatari_province_adj;Bachiatari provincean;;Bachiatari provincer;;;;;;;;;;;x
+c_beiden_province;Beiden province;Beiden province;Beiden province;;Beiden province;;;;;;;;;x
+c_beiden_province_adj;Beiden provincean;;Beiden provincer;;;;;;;;;;;x
 c_chuugen_province;Chuugen province;Chuugen province;Chuugen province;;Chuugen province;;;;;;;;;x
 c_chuugen_province_adj;Chuugen provincean;;Chuugen provincer;;;;;;;;;;;x
 c_chuuhan_province;Chuuhan province;Chuuhan province;Chuuhan province;;Chuuhan province;;;;;;;;;x
 c_chuuhan_province_adj;Chuuhan provincean;;Chuuhan provincer;;;;;;;;;;;x
+c_chuuou_province;Chuuou province;Chuuou province;Chuuou province;;Chuuou province;;;;;;;;;x
+c_chuuou_province_adj;Chuuou provincean;;Chuuou provincer;;;;;;;;;;;x
 c_dairiki_province;Dairiki province;Dairiki province;Dairiki province;;Dairiki province;;;;;;;;;x
 c_dairiki_province_adj;Dairiki provincean;;Dairiki provincer;;;;;;;;;;;x
 c_douro_province;Douro province;Douro province;Douro province;;Douro province;;;;;;;;;x
@@ -31,6 +37,8 @@ c_enzan_province;Enzan province;Enzan province;Enzan province;;Enzan province;;;
 c_enzan_province_adj;Enzan provincean;;Enzan provincer;;;;;;;;;;;x
 c_foshi_province;Foshi province;Foshi province;Foshi province;;Foshi province;;;;;;;;;x
 c_foshi_province_adj;Foshi provincean;;Foshi provincer;;;;;;;;;;;x
+c_fukitsu_province;Fukitsu province;Fukitsu province;Fukitsu province;;Fukitsu province;;;;;;;;;x
+c_fukitsu_province_adj;Fukitsu provincean;;Fukitsu provincer;;;;;;;;;;;x
 c_gaien_province;Gaien province;Gaien province;Gaien province;;Gaien province;;;;;;;;;x
 c_gaien_province_adj;Gaien provincean;;Gaien provincer;;;;;;;;;;;x
 c_gakka_province;Gakka province;Gakka province;Gakka province;;Gakka province;;;;;;;;;x
@@ -61,6 +69,8 @@ c_hinome_province;Hinome province;Hinome province;Hinome province;;Hinome provin
 c_hinome_province_adj;Hinome provincean;;Hinome provincer;;;;;;;;;;;x
 c_hissori_province;Hissori province;Hissori province;Hissori province;;Hissori province;;;;;;;;;x
 c_hissori_province_adj;Hissori provincean;;Hissori provincer;;;;;;;;;;;x
+c_hizoku_province;Hizoku province;Hizoku province;Hizoku province;;Hizoku province;;;;;;;;;x
+c_hizoku_province_adj;Hizoku provincean;;Hizoku provincer;;;;;;;;;;;x
 c_hokufuu_province;Hokufuu province;Hokufuu province;Hokufuu province;;Hokufuu province;;;;;;;;;x
 c_hokufuu_province_adj;Hokufuu provincean;;Hokufuu provincer;;;;;;;;;;;x
 c_ichigun_province;Ichigun province;Ichigun province;Ichigun province;;Ichigun province;;;;;;;;;x
@@ -87,8 +97,12 @@ c_kaeru_province;Kaeru province;Kaeru province;Kaeru province;;Kaeru province;;;
 c_kaeru_province_adj;Kaeru provincean;;Kaeru provincer;;;;;;;;;;;x
 c_kaitou_province;Kaitou province;Kaitou province;Kaitou province;;Kaitou province;;;;;;;;;x
 c_kaitou_province_adj;Kaitou provincean;;Kaitou provincer;;;;;;;;;;;x
+c_kakushikoto_province;Kakushikoto province;Kakushikoto province;Kakushikoto province;;Kakushikoto province;;;;;;;;;x
+c_kakushikoto_province_adj;Kakushikoto provincean;;Kakushikoto provincer;;;;;;;;;;;x
 c_kakusu_province;Kakusu province;Kakusu province;Kakusu province;;Kakusu province;;;;;;;;;x
 c_kakusu_province_adj;Kakusu provincean;;Kakusu provincer;;;;;;;;;;;x
+c_kawa_province;Kawa province;Kawa province;Kawa province;;Kawa province;;;;;;;;;x
+c_kawa_province_adj;Kawa provincean;;Kawa provincer;;;;;;;;;;;x
 c_kaze_province;Kaze province;Kaze province;Kaze province;;Kaze province;;;;;;;;;x
 c_kaze_province_adj;Kaze provincean;;Kaze provincer;;;;;;;;;;;x
 c_kazenmuketsu_province;Kazenmuketsu province;Kazenmuketsu province;Kazenmuketsu province;;Kazenmuketsu province;;;;;;;;;x
@@ -99,6 +113,8 @@ c_ki_rin_province;Ki-rin province;Ki-rin province;Ki-rin province;;Ki-rin provin
 c_ki_rin_province_adj;Ki-rin provincean;;Ki-rin provincer;;;;;;;;;;;x
 c_kinbou_province;Kinbou province;Kinbou province;Kinbou province;;Kinbou province;;;;;;;;;x
 c_kinbou_province_adj;Kinbou provincean;;Kinbou provincer;;;;;;;;;;;x
+c_kinbou_province_2;Kinbou province;Kinbou province;Kinbou province;;Kinbou province;;;;;;;;;x
+c_kinbou_province_2_adj;Kinbou provincean;;Kinbou provincer;;;;;;;;;;;x
 c_kinenkan_province;Kinenkan province;Kinenkan province;Kinenkan province;;Kinenkan province;;;;;;;;;x
 c_kinenkan_province_adj;Kinenkan provincean;;Kinenkan provincer;;;;;;;;;;;x
 c_kinkaku_province;Kinkaku province;Kinkaku province;Kinkaku province;;Kinkaku province;;;;;;;;;x
@@ -117,6 +133,8 @@ c_koutetsukan_province;Koutetsukan province;Koutetsukan province;Koutetsukan pro
 c_koutetsukan_province_adj;Koutetsukan provincean;;Koutetsukan provincer;;;;;;;;;;;x
 c_kuda_province;Kuda province;Kuda province;Kuda province;;Kuda province;;;;;;;;;x
 c_kuda_province_adj;Kuda provincean;;Kuda provincer;;;;;;;;;;;x
+c_kunizakai_province;Kunizakai province;Kunizakai province;Kunizakai province;;Kunizakai province;;;;;;;;;x
+c_kunizakai_province_adj;Kunizakai provincean;;Kunizakai provincer;;;;;;;;;;;x
 c_kyoukan_province;Kyoukan province;Kyoukan province;Kyoukan province;;Kyoukan province;;;;;;;;;x
 c_kyoukan_province_adj;Kyoukan provincean;;Kyoukan provincer;;;;;;;;;;;x
 c_kyuukai_province;Kyuukai province;Kyuukai province;Kyuukai province;;Kyuukai province;;;;;;;;;x
@@ -137,6 +155,8 @@ c_nanimo_province;Nanimo province;Nanimo province;Nanimo province;;Nanimo provin
 c_nanimo_province_adj;Nanimo provincean;;Nanimo provincer;;;;;;;;;;;x
 c_nejiro_province;Nejiro province;Nejiro province;Nejiro province;;Nejiro province;;;;;;;;;x
 c_nejiro_province_adj;Nejiro provincean;;Nejiro provincer;;;;;;;;;;;x
+c_nezuban_province;Nezuban province;Nezuban province;Nezuban province;;Nezuban province;;;;;;;;;x
+c_nezuban_province_adj;Nezuban provincean;;Nezuban provincer;;;;;;;;;;;x
 c_oiku_province;Oiku province;Oiku province;Oiku province;;Oiku province;;;;;;;;;x
 c_oiku_province_adj;Oiku provincean;;Oiku provincer;;;;;;;;;;;x
 c_omoidasu_province;Omoidasu province;Omoidasu province;Omoidasu province;;Omoidasu province;;;;;;;;;x
@@ -147,6 +167,8 @@ c_renga_province;Renga province;Renga province;Renga province;;Renga province;;;
 c_renga_province_adj;Renga provincean;;Renga provincer;;;;;;;;;;;x
 c_rugashi_province;Rugashi province;Rugashi province;Rugashi province;;Rugashi province;;;;;;;;;x
 c_rugashi_province_adj;Rugashi provincean;;Rugashi provincer;;;;;;;;;;;x
+c_ryoko_province;Ryoko province;Ryoko province;Ryoko province;;Ryoko province;;;;;;;;;x
+c_ryoko_province_adj;Ryoko provincean;;Ryoko provincer;;;;;;;;;;;x
 c_sabishi_province;Sabishi province;Sabishi province;Sabishi province;;Sabishi province;;;;;;;;;x
 c_sabishi_province_adj;Sabishi provincean;;Sabishi provincer;;;;;;;;;;;x
 c_sabishii_province;Sabishii province;Sabishii province;Sabishii province;;Sabishii province;;;;;;;;;x
@@ -195,3 +217,5 @@ c_yojin_province;Yojin province;Yojin province;Yojin province;;Yojin province;;;
 c_yojin_province_adj;Yojin provincean;;Yojin provincer;;;;;;;;;;;x
 c_yosomono_province;Yosomono province;Yosomono province;Yosomono province;;Yosomono province;;;;;;;;;x
 c_yosomono_province_adj;Yosomono provincean;;Yosomono provincer;;;;;;;;;;;x
+c_yuma_province;Yuma province;Yuma province;Yuma province;;Yuma province;;;;;;;;;x
+c_yuma_province_adj;Yuma provincean;;Yuma provincer;;;;;;;;;;;x

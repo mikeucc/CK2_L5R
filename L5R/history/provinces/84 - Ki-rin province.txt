@@ -11,6 +11,6 @@ b_town_59 = city
 
 # Misc
 culture = phoenix_asako
-religion = catholic
+religion = the_kami
 
 #History

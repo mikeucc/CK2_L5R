@@ -11,6 +11,6 @@ b_town_57 = city
 
 # Misc
 culture = phoenix_agasha
-religion = catholic
+religion = the_kami
 
 #History

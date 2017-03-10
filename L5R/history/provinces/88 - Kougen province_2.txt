@@ -11,6 +11,6 @@ b_town_63 = city
 
 # Misc
 culture = phoenix_isawa
-religion = catholic
+religion = the_kami
 
 #History

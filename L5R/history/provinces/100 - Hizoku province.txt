@@ -1,0 +1,16 @@
+# c_hizoku_province
+
+# County Title
+title = c_hizoku_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_74 = castle
+b_town_74 = city
+
+# Misc
+culture = scorpion_bayushi
+religion = the_kami
+
+#History
