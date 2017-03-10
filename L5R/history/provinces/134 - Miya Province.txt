@@ -1,0 +1,16 @@
+# c_miya_province
+
+# County Title
+title = c_miya_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_108 = castle
+b_town_108 = city
+
+# Misc
+culture = imperial
+religion = the_kami
+
+#History

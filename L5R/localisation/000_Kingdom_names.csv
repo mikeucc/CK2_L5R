@@ -1,12 +1,20 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+k_imperial_lands;Imperial Lands;Imperial Lands;Imperial Lands;;Imperial Lands;;;;;;;;;x
+k_imperial_lands_adj;Imperial Landsian;;Imperial Landser;;;;;;;;;;;x
 k_shadowlands;Shadowlands;Shadowlands;Shadowlands;;Shadowlands;;;;;;;;;x
 k_shadowlands_adj;Shadowlandsian;;shadowlandser;;;;;;;;;;;x
+k_the_bat;The Bat;The Bat;The Bat;;The Bat;;;;;;;;;x
+k_the_bat_adj;The Batian;;The Bater;;;;;;;;;;;x
 k_the_crab;The Crab;The Crab;The Crab;;The Crab;;;;;;;;;x
 k_the_crab_adj;The Crabian;;The Craber;;;;;;;;;;;x
 k_the_crane;The Crane;The Crane;The Crane;;The Crane;;;;;;;;;x
 k_the_crane_adj;The Cranean;;The Craner;;;;;;;;;;;x
 k_the_dragon;The Dragon;The Dragon;The Dragon;;The Dragon;;;;;;;;;x
 k_the_dragon_adj;The Dragonian;;The Dragoner;;;;;;;;;;;x
+k_the_dragonfly;The Dragonfly;The Dragonfly;The Dragonfly;;The Dragonfly;;;;;;;;;x
+k_the_dragonfly_adj;The Dragonflian;;The Dragonfler;;;;;;;;;;;x
+k_the_hare;The Hare;The Hare;The Hare;;The Hare;;;;;;;;;x
+k_the_hare_adj;The Harean;;The Harer;;;;;;;;;;;x
 k_the_lion;The Lion;The Lion;The Lion;;The Lion;;;;;;;;;x
 k_the_lion_adj;The Lionian;;The Lioner;;;;;;;;;;;x
 k_the_mantis;The Mantis;The Mantis;The Mantis;;The Mantis;;;;;;;;;x
@@ -15,3 +23,7 @@ k_the_phoenix;The Phoenix;The Phoenix;The Phoenix;;The Phoenix;;;;;;;;;x
 k_the_phoenix_adj;The Phoenixian;;The Phoenixer;;;;;;;;;;;x
 k_the_scorpion;The Scorpion;The Scorpion;The Scorpion;;The Scorpion;;;;;;;;;x
 k_the_scorpion_adj;The Scorpionian;;The Scorpioner;;;;;;;;;;;x
+k_the_tortoise;The Tortoise;The Tortoise;The Tortoise;;The Tortoise;;;;;;;;;x
+k_the_tortoise_adj;The Tortoisean;;The Tortoiser;;;;;;;;;;;x
+k_the_unicorn;The Unicorn;The Unicorn;The Unicorn;;The Unicorn;;;;;;;;;x
+k_the_unicorn_adj;The Unicornian;;The Unicorner;;;;;;;;;;;x

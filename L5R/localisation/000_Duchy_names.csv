@@ -7,20 +7,32 @@ d_asahina_province;Asahina Province;Asahina Province;Asahina Province;;Asahina P
 d_asahina_province_adj;Asahina Provincean;;Asahina Provincer;;;;;;;;;;;x
 d_asako_province;Asako Province;Asako Province;Asako Province;;Asako Province;;;;;;;;;x
 d_asako_province_adj;Asako Provincean;;Asako Provincer;;;;;;;;;;;x
-d_bayushi_province ;Bayushi Province ;Bayushi Province ;Bayushi Province ;;Bayushi Province ;;;;;;;;;x
-d_bayushi_province _adj;Bayushi Province ian;;Bayushi Province er;;;;;;;;;;;x
+d_bayushi_province;Bayushi Province;Bayushi Province;Bayushi Province;;Bayushi Province;;;;;;;;;x
+d_bayushi_province_adj;Bayushi Provincean;;Bayushi Provincer;;;;;;;;;;;x
 d_daidoji_province;Daidoji Province;Daidoji Province;Daidoji Province;;Daidoji Province;;;;;;;;;x
 d_daidoji_province_adj;Daidoji Provincean;;Daidoji Provincer;;;;;;;;;;;x
 d_doji_province;Doji Province;Doji Province;Doji Province;;Doji Province;;;;;;;;;x
 d_doji_province_adj;Doji Provincean;;Doji Provincer;;;;;;;;;;;x
+d_dragonfly_province;Dragonfly Province;Dragonfly Province;Dragonfly Province;;Dragonfly Province;;;;;;;;;x
+d_dragonfly_province_adj;Dragonfly Provincean;;Dragonfly Provincer;;;;;;;;;;;x
+d_hare_province;Hare Province;Hare Province;Hare Province;;Hare Province;;;;;;;;;x
+d_hare_province_adj;Hare Provincean;;Hare Provincer;;;;;;;;;;;x
 d_hida_province;Hida Province;Hida Province;Hida Province;;Hida Province;;;;;;;;;x
 d_hida_province_adj;Hida Provincean;;Hida Provincer;;;;;;;;;;;x
 d_hiruma_province;Hiruma Province;Hiruma Province;Hiruma Province;;Hiruma Province;;;;;;;;;x
 d_hiruma_province_adj;Hiruma Provincean;;Hiruma Provincer;;;;;;;;;;;x
+d_horiuchi_province;Horiuchi Province;Horiuchi Province;Horiuchi Province;;Horiuchi Province;;;;;;;;;x
+d_horiuchi_province_adj;Horiuchi Provincean;;Horiuchi Provincer;;;;;;;;;;;x
+d_ide_province;Ide Province;Ide Province;Ide Province;;Ide Province;;;;;;;;;x
+d_ide_province_adj;Ide Provincean;;Ide Provincer;;;;;;;;;;;x
 d_ikoma_province;Ikoma Province;Ikoma Province;Ikoma Province;;Ikoma Province;;;;;;;;;x
 d_ikoma_province_adj;Ikoma Provincean;;Ikoma Provincer;;;;;;;;;;;x
+d_imperial;Imperial;Imperial;Imperial;;Imperial;;;;;;;;;x
+d_imperial_adj;Imperialian;;imperialer;;;;;;;;;;;x
 d_isawa_province;Isawa Province;Isawa Province;Isawa Province;;Isawa Province;;;;;;;;;x
 d_isawa_province_adj;Isawa Provincean;;Isawa Provincer;;;;;;;;;;;x
+d_iuchi_province;Iuchi Province;Iuchi Province;Iuchi Province;;Iuchi Province;;;;;;;;;x
+d_iuchi_province_adj;Iuchi Provincean;;Iuchi Provincer;;;;;;;;;;;x
 d_kaiu_province;Kaiu Province;Kaiu Province;Kaiu Province;;Kaiu Province;;;;;;;;;x
 d_kaiu_province_adj;Kaiu Provincean;;Kaiu Provincer;;;;;;;;;;;x
 d_kakita_province;Kakita Province;Kakita Province;Kakita Province;;Kakita Province;;;;;;;;;x
@@ -31,6 +43,8 @@ d_kitsuki_province;Kitsuki Province;Kitsuki Province;Kitsuki Province;;Kitsuki P
 d_kitsuki_province_adj;Kitsuki Provincean;;Kitsuki Provincer;;;;;;;;;;;x
 d_kitsune_province;Kitsune Province;Kitsune Province;Kitsune Province;;Kitsune Province;;;;;;;;;x
 d_kitsune_province_adj;Kitsune Provincean;;Kitsune Provincer;;;;;;;;;;;x
+d_komori_province;Komori Province;Komori Province;Komori Province;;Komori Province;;;;;;;;;x
+d_komori_province_adj;Komori Provincean;;Komori Provincer;;;;;;;;;;;x
 d_kuni_province;Kuni Province;Kuni Province;Kuni Province;;Kuni Province;;;;;;;;;x
 d_kuni_province_adj;Kuni Provincean;;Kuni Provincer;;;;;;;;;;;x
 d_matsu_province;Matsu Province;Matsu Province;Matsu Province;;Matsu Province;;;;;;;;;x
@@ -39,23 +53,31 @@ d_mirumoto_province;Mirumoto Province;Mirumoto Province;Mirumoto Province;;Mirum
 d_mirumoto_province_adj;Mirumoto Provincean;;Mirumoto Provincer;;;;;;;;;;;x
 d_moshi_province;Moshi Province;Moshi Province;Moshi Province;;Moshi Province;;;;;;;;;x
 d_moshi_province_adj;Moshi Provincean;;Moshi Provincer;;;;;;;;;;;x
+d_moto_province;Moto Province;Moto Province;Moto Province;;Moto Province;;;;;;;;;x
+d_moto_province_adj;Moto Provincean;;Moto Provincer;;;;;;;;;;;x
 d_shadowlands;Shadowlands;Shadowlands;Shadowlands;;Shadowlands;;;;;;;;;x
 d_shadowlands_adj;Shadowlandsian;;shadowlandser;;;;;;;;;;;x
 d_shiba_province;Shiba Province;Shiba Province;Shiba Province;;Shiba Province;;;;;;;;;x
 d_shiba_province_adj;Shiba Provincean;;Shiba Provincer;;;;;;;;;;;x
-d_shosuro_province ;Shosuro Province ;Shosuro Province ;Shosuro Province ;;Shosuro Province ;;;;;;;;;x
-d_shosuro_province _adj;Shosuro Province ian;;Shosuro Province er;;;;;;;;;;;x
-d_soshi_province ;Soshi Province ;Soshi Province ;Soshi Province ;;Soshi Province ;;;;;;;;;x
-d_soshi_province _adj;Soshi Province ian;;Soshi Province er;;;;;;;;;;;x
+d_shinjo_province;Shinjo Province;Shinjo Province;Shinjo Province;;Shinjo Province;;;;;;;;;x
+d_shinjo_province_adj;Shinjo Provincean;;Shinjo Provincer;;;;;;;;;;;x
+d_shosuro_province;Shosuro Province;Shosuro Province;Shosuro Province;;Shosuro Province;;;;;;;;;x
+d_shosuro_province_adj;Shosuro Provincean;;Shosuro Provincer;;;;;;;;;;;x
+d_soshi_province;Soshi Province;Soshi Province;Soshi Province;;Soshi Province;;;;;;;;;x
+d_soshi_province_adj;Soshi Provincean;;Soshi Provincer;;;;;;;;;;;x
 d_tamori_province;Tamori Province;Tamori Province;Tamori Province;;Tamori Province;;;;;;;;;x
 d_tamori_province_adj;Tamori Provincean;;Tamori Provincer;;;;;;;;;;;x
 d_togashi_province;Togashi Province;Togashi Province;Togashi Province;;Togashi Province;;;;;;;;;x
 d_togashi_province_adj;Togashi Provincean;;Togashi Provincer;;;;;;;;;;;x
+d_tortoise_province;Tortoise Province;Tortoise Province;Tortoise Province;;Tortoise Province;;;;;;;;;x
+d_tortoise_province_adj;Tortoise Provincean;;Tortoise Provincer;;;;;;;;;;;x
 d_tsuruchi_province;Tsuruchi Province;Tsuruchi Province;Tsuruchi Province;;Tsuruchi Province;;;;;;;;;x
 d_tsuruchi_province_adj;Tsuruchi Provincean;;Tsuruchi Provincer;;;;;;;;;;;x
+d_utaku_province;Utaku Province;Utaku Province;Utaku Province;;Utaku Province;;;;;;;;;x
+d_utaku_province_adj;Utaku Provincean;;Utaku Provincer;;;;;;;;;;;x
 d_yasuki_province;Yasuki Province;Yasuki Province;Yasuki Province;;Yasuki Province;;;;;;;;;x
 d_yasuki_province_adj;Yasuki Provincean;;Yasuki Provincer;;;;;;;;;;;x
-d_yogo_province ;Yogo Province ;Yogo Province ;Yogo Province ;;Yogo Province ;;;;;;;;;x
-d_yogo_province _adj;Yogo Province ian;;Yogo Province er;;;;;;;;;;;x
+d_yogo_province;Yogo Province;Yogo Province;Yogo Province;;Yogo Province;;;;;;;;;x
+d_yogo_province_adj;Yogo Provincean;;Yogo Provincer;;;;;;;;;;;x
 d_yoritomo_province ;Yoritomo Province ;Yoritomo Province ;Yoritomo Province ;;Yoritomo Province ;;;;;;;;;x
 d_yoritomo_province _adj;Yoritomo Province ian;;Yoritomo Province er;;;;;;;;;;;x

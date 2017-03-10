@@ -1,0 +1,16 @@
+# c_otomo_province
+
+# County Title
+title = c_otomo_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_109 = castle
+b_town_109 = city
+
+# Misc
+culture = imperial
+religion = the_kami
+
+#History

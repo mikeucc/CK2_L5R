@@ -5,10 +5,32 @@ b_bells_of_the_dead;Bells of the Dead;Bells of the Dead;Bells of the Dead;;Bells
 b_bells_of_the_dead_adj;Bells of the Deadian;;Bells of the Deader;;;;;;;;;;;x
 b_benten_seido;Benten Seido;Benten Seido;Benten Seido;;Benten Seido;;;;;;;;;x
 b_benten_seido_adj;Benten Seidian;;Benten Seider;;;;;;;;;;;x
+b_capital;Capital;Capital;Capital;;Capital;;;;;;;;;x
+b_capital_adj;Capitalian;;capitaler;;;;;;;;;;;x
 b_castle;Castle;Castle;Castle;;Castle;;;;;;;;;x
 b_castle_adj;Castlean;;castler;;;;;;;;;;;x
 b_castle_10;Castle;Castle;Castle;;Castle;;;;;;;;;x
 b_castle_10_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_100;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_100_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_101;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_101_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_102;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_102_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_103;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_103_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_104;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_104_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_105;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_105_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_106;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_106_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_107;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_107_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_108;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_108_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_109;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_109_adj;Castlean;;castler;;;;;;;;;;;x
 b_castle_11;Castle;Castle;Castle;;Castle;;;;;;;;;x
 b_castle_11_adj;Castlean;;castler;;;;;;;;;;;x
 b_castle_12;Castle;Castle;Castle;;Castle;;;;;;;;;x
@@ -171,14 +193,46 @@ b_castle_83;Castle;Castle;Castle;;Castle;;;;;;;;;x
 b_castle_83_adj;Castlean;;castler;;;;;;;;;;;x
 b_castle_84;Castle;Castle;Castle;;Castle;;;;;;;;;x
 b_castle_84_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_85;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_85_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_86;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_86_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_87;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_87_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_88;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_88_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_89;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_89_adj;Castlean;;castler;;;;;;;;;;;x
 b_castle_9;Castle;Castle;Castle;;Castle;;;;;;;;;x
 b_castle_9_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_90;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_90_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_91;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_91_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_92;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_92_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_93;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_93_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_94;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_94_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_95;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_95_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_96;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_96_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_97;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_97_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_98;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_98_adj;Castlean;;castler;;;;;;;;;;;x
+b_castle_99;Castle;Castle;Castle;;Castle;;;;;;;;;x
+b_castle_99_adj;Castlean;;castler;;;;;;;;;;;x
 b_castle_of_the_tortoise;Castle Of The Tortoise;Castle Of The Tortoise;Castle Of The Tortoise;;Castle Of The Tortoise;;;;;;;;;x
 b_castle_of_the_tortoise_adj;Castle Of The Tortoisean;;Castle Of The Tortoiser;;;;;;;;;;;x
 b_daidoji_estates;Daidoji Estates;Daidoji Estates;Daidoji Estates;;Daidoji Estates;;;;;;;;;x
 b_daidoji_estates_adj;Daidoji Estatesian;;Daidoji Estateser;;;;;;;;;;;x
 b_daidoji_training_grounds;Daidoji Training Grounds;Daidoji Training Grounds;Daidoji Training Grounds;;Daidoji Training Grounds;;;;;;;;;x
 b_daidoji_training_grounds_adj;Daidoji Training Groundsian;;Daidoji Training Groundser;;;;;;;;;;;x
+b_east_wall_of_otosan_uchi;East Wall Of Otosan Uchi;East Wall Of Otosan Uchi;East Wall Of Otosan Uchi;;East Wall Of Otosan Uchi;;;;;;;;;x
+b_east_wall_of_otosan_uchi_adj;East Wall Of Otosan Uchian;;East Wall Of Otosan Ucher;;;;;;;;;;;x
 b_face_of_the_east_castle;Face of the East Castle;Face of the East Castle;Face of the East Castle;;Face of the East Castle;;;;;;;;;x
 b_face_of_the_east_castle_adj;Face of the East Castlean;;Face of the East Castler;;;;;;;;;;;x
 b_festering_pit;Festering Pit;Festering Pit;Festering Pit;;Festering Pit;;;;;;;;;x
@@ -261,6 +315,8 @@ b_nobuto_toshi;Nobuto Toshi;Nobuto Toshi;Nobuto Toshi;;Nobuto Toshi;;;;;;;;;x
 b_nobuto_toshi_adj;Nobuto Toshian;;Nobuto Tosher;;;;;;;;;;;x
 b_nobuto_toshi_2;Nobuto Toshi;Nobuto Toshi;Nobuto Toshi;;Nobuto Toshi;;;;;;;;;x
 b_nobuto_toshi_2_adj;Nobuto Toshian;;Nobuto Tosher;;;;;;;;;;;x
+b_north_wall_of_otosan_uchi;North Wall Of Otosan Uchi;North Wall Of Otosan Uchi;North Wall Of Otosan Uchi;;North Wall Of Otosan Uchi;;;;;;;;;x
+b_north_wall_of_otosan_uchi_adj;North Wall Of Otosan Uchian;;North Wall Of Otosan Ucher;;;;;;;;;;;x
 b_oni_mura;Oni Mura;Oni Mura;Oni Mura;;Oni Mura;;;;;;;;;x
 b_oni_mura_adj;Oni Muran;;Oni Murer;;;;;;;;;;;x
 b_osari_mori;Osari Mori;Osari Mori;Osari Mori;;Osari Mori;;;;;;;;;x
@@ -303,6 +359,8 @@ b_shiro_kuni;Shiro Kuni;Shiro Kuni;Shiro Kuni;;Shiro Kuni;;;;;;;;;x
 b_shiro_kuni_adj;Shiro Kunian;;Shiro Kuner;;;;;;;;;;;x
 b_shizuka_toshi;Shizuka Toshi;Shizuka Toshi;Shizuka Toshi;;Shizuka Toshi;;;;;;;;;x
 b_shizuka_toshi_adj;Shizuka Toshian;;Shizuka Tosher;;;;;;;;;;;x
+b_south_wall_of_otosan_uchi;South Wall Of Otosan Uchi;South Wall Of Otosan Uchi;South Wall Of Otosan Uchi;;South Wall Of Otosan Uchi;;;;;;;;;x
+b_south_wall_of_otosan_uchi_adj;South Wall Of Otosan Uchian;;South Wall Of Otosan Ucher;;;;;;;;;;;x
 b_sunda_mizu_mura;Sunda Mizu Mura;Sunda Mizu Mura;Sunda Mizu Mura;;Sunda Mizu Mura;;;;;;;;;x
 b_sunda_mizu_mura_adj;Sunda Mizu Muran;;Sunda Mizu Murer;;;;;;;;;;;x
 b_sunda_mizu_province;Sunda Mizu province;Sunda Mizu province;Sunda Mizu province;;Sunda Mizu province;;;;;;;;;x
@@ -319,6 +377,26 @@ b_town;Town;Town;Town;;Town;;;;;;;;;x
 b_town_adj;Townian;;towner;;;;;;;;;;;x
 b_town_10;Town;Town;Town;;Town;;;;;;;;;x
 b_town_10_adj;Townian;;towner;;;;;;;;;;;x
+b_town_100;Town;Town;Town;;Town;;;;;;;;;x
+b_town_100_adj;Townian;;towner;;;;;;;;;;;x
+b_town_101;Town;Town;Town;;Town;;;;;;;;;x
+b_town_101_adj;Townian;;towner;;;;;;;;;;;x
+b_town_102;Town;Town;Town;;Town;;;;;;;;;x
+b_town_102_adj;Townian;;towner;;;;;;;;;;;x
+b_town_103;Town;Town;Town;;Town;;;;;;;;;x
+b_town_103_adj;Townian;;towner;;;;;;;;;;;x
+b_town_104;Town;Town;Town;;Town;;;;;;;;;x
+b_town_104_adj;Townian;;towner;;;;;;;;;;;x
+b_town_105;Town;Town;Town;;Town;;;;;;;;;x
+b_town_105_adj;Townian;;towner;;;;;;;;;;;x
+b_town_106;Town;Town;Town;;Town;;;;;;;;;x
+b_town_106_adj;Townian;;towner;;;;;;;;;;;x
+b_town_107;Town;Town;Town;;Town;;;;;;;;;x
+b_town_107_adj;Townian;;towner;;;;;;;;;;;x
+b_town_108;Town;Town;Town;;Town;;;;;;;;;x
+b_town_108_adj;Townian;;towner;;;;;;;;;;;x
+b_town_109;Town;Town;Town;;Town;;;;;;;;;x
+b_town_109_adj;Townian;;towner;;;;;;;;;;;x
 b_town_11;Town;Town;Town;;Town;;;;;;;;;x
 b_town_11_adj;Townian;;towner;;;;;;;;;;;x
 b_town_12;Town;Town;Town;;Town;;;;;;;;;x
@@ -481,14 +559,46 @@ b_town_83;Town;Town;Town;;Town;;;;;;;;;x
 b_town_83_adj;Townian;;towner;;;;;;;;;;;x
 b_town_84;Town;Town;Town;;Town;;;;;;;;;x
 b_town_84_adj;Townian;;towner;;;;;;;;;;;x
+b_town_85;Town;Town;Town;;Town;;;;;;;;;x
+b_town_85_adj;Townian;;towner;;;;;;;;;;;x
+b_town_86;Town;Town;Town;;Town;;;;;;;;;x
+b_town_86_adj;Townian;;towner;;;;;;;;;;;x
+b_town_87;Town;Town;Town;;Town;;;;;;;;;x
+b_town_87_adj;Townian;;towner;;;;;;;;;;;x
+b_town_88;Town;Town;Town;;Town;;;;;;;;;x
+b_town_88_adj;Townian;;towner;;;;;;;;;;;x
+b_town_89;Town;Town;Town;;Town;;;;;;;;;x
+b_town_89_adj;Townian;;towner;;;;;;;;;;;x
 b_town_9;Town;Town;Town;;Town;;;;;;;;;x
 b_town_9_adj;Townian;;towner;;;;;;;;;;;x
+b_town_90;Town;Town;Town;;Town;;;;;;;;;x
+b_town_90_adj;Townian;;towner;;;;;;;;;;;x
+b_town_91;Town;Town;Town;;Town;;;;;;;;;x
+b_town_91_adj;Townian;;towner;;;;;;;;;;;x
+b_town_92;Town;Town;Town;;Town;;;;;;;;;x
+b_town_92_adj;Townian;;towner;;;;;;;;;;;x
+b_town_93;Town;Town;Town;;Town;;;;;;;;;x
+b_town_93_adj;Townian;;towner;;;;;;;;;;;x
+b_town_94;Town;Town;Town;;Town;;;;;;;;;x
+b_town_94_adj;Townian;;towner;;;;;;;;;;;x
+b_town_95;Town;Town;Town;;Town;;;;;;;;;x
+b_town_95_adj;Townian;;towner;;;;;;;;;;;x
+b_town_96;Town;Town;Town;;Town;;;;;;;;;x
+b_town_96_adj;Townian;;towner;;;;;;;;;;;x
+b_town_97;Town;Town;Town;;Town;;;;;;;;;x
+b_town_97_adj;Townian;;towner;;;;;;;;;;;x
+b_town_98;Town;Town;Town;;Town;;;;;;;;;x
+b_town_98_adj;Townian;;towner;;;;;;;;;;;x
+b_town_99;Town;Town;Town;;Town;;;;;;;;;x
+b_town_99_adj;Townian;;towner;;;;;;;;;;;x
 b_wall_above_the_ocean_village;Wall Above the Ocean Village;Wall Above the Ocean Village;Wall Above the Ocean Village;;Wall Above the Ocean Village;;;;;;;;;x
 b_wall_above_the_ocean_village_adj;Wall Above the Ocean Villagean;;Wall Above the Ocean Villager;;;;;;;;;;;x
 b_watchtower_of_the_east;Watchtower of the East;Watchtower of the East;Watchtower of the East;;Watchtower of the East;;;;;;;;;x
 b_watchtower_of_the_east_adj;Watchtower of the Eastian;;Watchtower of the Easter;;;;;;;;;;;x
 b_watchtower_of_the_west;Watchtower of the West;Watchtower of the West;Watchtower of the West;;Watchtower of the West;;;;;;;;;x
 b_watchtower_of_the_west_adj;Watchtower of the Westian;;Watchtower of the Wester;;;;;;;;;;;x
+b_west_wall_of_otosan_uchi;West Wall Of Otosan Uchi;West Wall Of Otosan Uchi;West Wall Of Otosan Uchi;;West Wall Of Otosan Uchi;;;;;;;;;x
+b_west_wall_of_otosan_uchi_adj;West Wall Of Otosan Uchian;;West Wall Of Otosan Ucher;;;;;;;;;;;x
 b_white_temple;White Temple;White Temple;White Temple;;White Temple;;;;;;;;;x
 b_white_temple_adj;White Templean;;White Templer;;;;;;;;;;;x
 b_yasuki_defiance;Yasuki Defiance;Yasuki Defiance;Yasuki Defiance;;Yasuki Defiance;;;;;;;;;x

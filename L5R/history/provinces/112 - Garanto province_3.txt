@@ -1,0 +1,16 @@
+# c_garanto_province_3
+
+# County Title
+title = c_garanto_province_3
+
+# Settlements
+max_settlements = 2
+
+b_castle_86 = castle
+b_town_86 = city
+
+# Misc
+culture = unicorn_ide
+religion = the_kami
+
+#History

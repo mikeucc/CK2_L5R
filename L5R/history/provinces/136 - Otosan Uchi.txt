@@ -1,0 +1,19 @@
+# c_otosan_uchi
+
+# County Title
+title = c_otosan_uchi
+
+# Settlements
+max_settlements = 5
+
+b_capital = castle
+b_north_wall_of_otosan_uchi = city
+b_south_wall_of_otosan_uchi = temple
+b_east_wall_of_otosan_uchi = castle
+b_west_wall_of_otosan_uchi = city
+
+# Misc
+culture = imperial
+religion = the_kami
+
+#History

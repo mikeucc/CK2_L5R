@@ -1,0 +1,16 @@
+# c_seppun_province
+
+# County Title
+title = c_seppun_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_107 = castle
+b_town_107 = city
+
+# Misc
+culture = imperial
+religion = the_kami
+
+#History

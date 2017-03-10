@@ -1,0 +1,16 @@
+# c_ujidera_province
+
+# County Title
+title = c_ujidera_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_85 = castle
+b_town_85 = city
+
+# Misc
+culture = unicorn_horiuchi
+religion = the_kami
+
+#History
