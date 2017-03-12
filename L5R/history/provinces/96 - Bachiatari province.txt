@@ -4,10 +4,13 @@
 title = c_bachiatari_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 5
 
-b_castle_71 = castle
-b_town_71 = city
+b_kyuden_bachiatari = castle
+b_mori_kage = city
+b_shinden_chukan = temple
+b_morikage_toshi = castle
+b_shiba_artisan_academy = city
 
 # Misc
 culture = phoenix_shiba

@@ -4,10 +4,9 @@
 title = c_otomo_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 1
 
-b_castle_109 = castle
-b_town_109 = city
+b_kyuden_otomo_2 = castle
 
 # Misc
 culture = imperial

@@ -4,10 +4,14 @@
 title = c_eijitsu_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 6
 
-b_castle_87 = castle
-b_town_87 = city
+b_shinomen_tower = castle
+b_turo_kojiri = city
+b_temple_of_kanosei_furudera = temple
+b_chrysanthemum_petal_lake = castle
+b_temple_of_the_lost_moto = city
+b_shrine_to_jurojin = temple
 
 # Misc
 culture = unicorn_ide

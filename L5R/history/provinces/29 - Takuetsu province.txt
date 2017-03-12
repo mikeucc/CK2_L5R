@@ -4,10 +4,13 @@
 title = c_takuetsu_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 5
 
-b_castle_4 = castle
-b_town_4 = city
+b_kyuden_kakita = castle
+b_shiro_iwasaki = city
+b_tsuma = temple
+b_seido_kakita = castle
+b_steel_crane_forge = city
 
 # Misc
 culture = crane_Kakita

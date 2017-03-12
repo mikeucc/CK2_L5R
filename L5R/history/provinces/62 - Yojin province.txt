@@ -6,8 +6,8 @@ title = c_yojin_province
 # Settlements
 max_settlements = 2
 
-b_castle_37 = castle
-b_town_37 = city
+b_kyuden_yojin = castle
+b_shiro_no_yojin = city
 
 # Misc
 culture = lion_Matsu

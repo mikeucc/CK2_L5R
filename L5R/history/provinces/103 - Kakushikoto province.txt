@@ -6,8 +6,8 @@ title = c_kakushikoto_province
 # Settlements
 max_settlements = 2
 
-b_castle_78 = castle
-b_town_78 = city
+b_nihai_tower = castle
+#b_town = city
 
 # Misc
 culture = scorpion_shosuruo

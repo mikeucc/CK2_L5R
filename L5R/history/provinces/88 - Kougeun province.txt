@@ -6,8 +6,8 @@ title = c_kougeun_province
 # Settlements
 max_settlements = 2
 
-b_castle_63 = castle
-b_town_63 = city
+b_kyuden_kougeun = castle
+b_gisei_toshi = city
 
 # Misc
 culture = phoenix_isawa

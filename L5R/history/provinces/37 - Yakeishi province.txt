@@ -6,8 +6,8 @@ title = c_yakeishi_province
 # Settlements
 max_settlements = 2
 
-b_castle_12 = castle
-b_town_12 = city
+b_tetsu_kama_mura = castle
+b_iron_mountain_dojo = city
 
 # Misc
 culture = dragon_Mirumoto

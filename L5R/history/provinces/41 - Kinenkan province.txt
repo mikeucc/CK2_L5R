@@ -4,10 +4,13 @@
 title = c_kinenkan_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 5
 
-b_castle_16 = castle
-b_town_16 = city
+b_shiro_tamori = castle
+b_wraith_of_the_kami = city
+b_suigeki_toshi = temple
+b_tamori_gardens = castle
+b_mountain_song_monastery = city
 
 # Misc
 culture = dragon_Tamori

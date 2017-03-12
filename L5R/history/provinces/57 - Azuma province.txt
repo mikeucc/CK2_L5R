@@ -6,8 +6,8 @@ title = c_azuma_province
 # Settlements
 max_settlements = 2
 
-b_castle_32 = castle
-b_town_32 = city
+b_kyuden_azuma = castle
+b_footnote_village = city
 
 # Misc
 culture = lion_Matsu

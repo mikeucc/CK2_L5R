@@ -6,8 +6,8 @@ title = c_itoshii_province
 # Settlements
 max_settlements = 2
 
-b_castle = castle
-b_town = city
+b_seawatch_castle = castle
+#b_itoshii_province = city
 
 # Misc
 culture = crane_Doji

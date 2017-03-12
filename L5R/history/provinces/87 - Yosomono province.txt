@@ -6,8 +6,8 @@ title = c_yosomono_province
 # Settlements
 max_settlements = 2
 
-b_castle_62 = castle
-b_town_62 = city
+b_kyuden_yosomono = castle
+#b_yosomono_province = city
 
 # Misc
 culture = phoenix_isawa

@@ -4,10 +4,12 @@
 title = c_kousou_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
-b_castle_14 = castle
-b_town_14 = city
+b_lost_samurai_village = castle
+b_champion_shrine_village = city
+b_last_ridge_village = temple
+b_northern_towers_of_flame = castle
 
 # Misc
 culture = dragon_Mirumoto

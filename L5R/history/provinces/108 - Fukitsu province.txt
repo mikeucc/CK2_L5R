@@ -6,8 +6,8 @@ title = c_fukitsu_province
 # Settlements
 max_settlements = 2
 
-b_castle_83 = castle
-b_town_83 = city
+b_shiro_yogo = castle
+b_naganori_mura = city
 
 # Misc
 culture = scorpion_yogo

@@ -6,8 +6,8 @@ title = c_eiyu_province
 # Settlements
 max_settlements = 2
 
-b_castle_24 = castle
-b_town_24 = city
+b_mura_sano_eiyu_ni_suru = castle
+#b_eiyu_province = city
 
 # Misc
 culture = lion_Ikoma

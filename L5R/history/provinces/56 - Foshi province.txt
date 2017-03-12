@@ -6,8 +6,8 @@ title = c_foshi_province
 # Settlements
 max_settlements = 2
 
-b_castle_31 = castle
-b_town_31 = city
+b_kyuden_foshi = castle
+b_foshi = city
 
 # Misc
 culture = lion_Kitsu

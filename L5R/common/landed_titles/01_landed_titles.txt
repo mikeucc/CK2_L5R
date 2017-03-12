@@ -281,27 +281,21 @@ e_rokugan = {
 				color={ 52 98 95 }
 				color2={ 255 255 255 }
 				
-				b_castle_107 = {
-				}
-				b_town_107 = {
+				b_kyuden_seppun = {
 				}
 			}
 			c_miya_province = { # 133
 				color={ 176 177 157 }
 				color2={ 255 255 255 }
 				
-				b_castle_108 = {
-				}
-				b_town_108 = {
+				b_kyuden_miya = {
 				}
 			}
 			c_otomo_province = { # 134
 				color={ 73 24 24 }
 				color2={ 255 255 255 }
 				
-				b_castle_109 = {
-				}
-				b_town_109 = {
+				b_kyuden_otomo_2 = {
 				}
 			}
 			c_otosan_uchi = { # 135
@@ -344,36 +338,40 @@ e_rokugan = {
 				color={ 62 221 193 }
 				color2={ 255 255 255 }
 				
-				b_castle_103 = {
+				b_kyuden_komori = {
 				}
-				b_town_103 = {
+				b_lost_traveler_village = {
 				}
 			}
 			c_dragonfly_province = { # 129
 				color={ 36 241 113 }
 				color2={ 255 255 255 }
 				
-				b_castle_104 = {
+				b_kyuden_tonbo = {
 				}
-				b_town_104 = {
+				b_dragonfly_province = {
 				}
 			}
 			c_hare_province = { # 130
 				color={ 144 151 24 }
 				color2={ 255 255 255 }
 				
-				b_castle_105 = {
+				b_shiro_usagi = {
 				}
-				b_town_105 = {
+				b_ujina_mura = {
 				}
 			}
 			c_tortoise_province = { # 131
 				color={ 91 80 131 }
 				color2={ 255 255 255 }
 				
-				b_castle_106 = {
+				b_kyuden_kasuga = {
 				}
-				b_town_106 = {
+				b_north_hub_village = {
+				}
+				b_dawn_tower = {
+				}
+				b_sunset_tower = {
 				}
 			}
 		}
@@ -523,18 +521,18 @@ e_rokugan = {
 				color={ 10 120 255 }
 				color2={ 255 255 255 }
 				
-				b_castle = {
+				b_seawatch_castle = {
 				}
-				b_town = {
+				b_itoshii_province = {
 				}
 			}
 			c_kougen_province = { # 28
 				color={ 10 140 255 }
 				color2={ 255 255 255 }
 				
-				b_castle_3 = {
+				b_ookami_toshi = {
 				}
-				b_town_3 = {
+				b_kougen_province = {
 				}
 			}
 			c_oyomesan_province = { # 25
@@ -556,9 +554,9 @@ e_rokugan = {
 				color={ 10 130 255 }
 				color2={ 255 255 255 }
 				
-				b_castle_2 = {
+				b_umoeru_mura = {
 				}
-				b_town_2 = {
+				b_umoeru_province = {
 				}
 			}
 		}
@@ -578,36 +576,46 @@ e_rokugan = {
 				color={ 10 150 255 }
 				color2={ 255 255 255 }
 				
-				b_castle_4 = {
+				b_kyuden_kakita = {
 				}
-				b_town_4 = {
+				b_shiro_iwasaki = {
+				}
+				b_tsuma = {
+				}
+				b_seido_kakita = {
+				}
+				b_steel_crane_forge = {
 				}
 			}
 			c_gyousha_province = { # 31
 				color={ 10 170 255 }
 				color2={ 255 255 255 }
 				
-				b_castle_6 = {
+				b_jurojin_seido = {
 				}
-				b_town_6 = {
+				b_cold_wind_city = {
+				}
+				b_asahina_battle_school = {
 				}
 			}
 			c_kishou_province = { # 32
 				color={ 10 180 255 }
 				color2={ 255 255 255 }
 				
-				b_castle_7 = {
+				b_aketsu = {
 				}
-				b_town_7 = {
+				b_ice_fish_village = {
+				}
+				b_doji_plains = {
 				}
 			}
 			c_nanhan_province = { # 30
 				color={ 10 160 255 }
 				color2={ 255 255 255 }
 				
-				b_castle_5 = {
+				b_shiro_ashidaka = {
 				}
-				b_town_5 = {
+				b_nanhan_province = {
 				}
 			}
 		}
@@ -623,9 +631,19 @@ e_rokugan = {
 			color={ 200 255 200 }
 			color2={ 255 255 255 }
 			
-			b_castle_17 = {
+			b_high_house_of_light = {
 			}
-			b_town_17 = {
+			b_takaikabe_mura = {
+			}
+			b_fukurokujin_seido = {
+			}
+			b_fukurokujin_mura = {
+			}
+			b_refuge_of_the_three_sisters = {
+			}
+			b_temple_of_the_sun = {
+			}
+			b_togashi_testing_grounds = {
 			}
 		}
 		d_kitsuki_province = {
@@ -644,27 +662,37 @@ e_rokugan = {
 				color={ 200 255 20 }
 				color2={ 255 255 255 }
 				
-				b_castle_8 = {
+				b_shiro_kitsiki = {
 				}
-				b_town_8 = {
+				b_kyden_tonbo = {
+				}
+				b_victory_of_the_living_blade_dojo = {
+				}
+				b_kuchikeru = {
+				}
+				b_morning_frost_castle = {
+				}
+				b_keen_eyes_strike_village = {
+				}
+				b_kaagis_soul_shrine = {
 				}
 			}
 			c_kaitou_province = { # 34
 				color={ 200 255 40 }
 				color2={ 255 255 255 }
 				
-				b_castle_9 = {
+				b_great_falls_castle = {
 				}
-				b_town_9 = {
+				b_kaitou_province = {
 				}
 			}
 			c_sinjutsu_province = { # 35
 				color={ 200 255 60 }
 				color2={ 255 255 255 }
 				
-				b_castle_10 = {
+				b_toi_koku = {
 				}
-				b_town_10 = {
+				b_sinjutsu_province = {
 				}
 			}
 		}
@@ -684,36 +712,44 @@ e_rokugan = {
 				color={ 200 255 80 }
 				color2={ 255 255 255 }
 				
-				b_castle_11 = {
+				b_foothills_keep = {
 				}
-				b_town_11 = {
+				b_great_climb = {
+				}
+				b_temple_to_benten = {
 				}
 			}
 			c_kousou_province = { # 39
 				color={ 200 255 140 }
 				color2={ 255 255 255 }
 				
-				b_castle_14 = {
+				b_lost_samurai_village = {
 				}
-				b_town_14 = {
+				b_champion_shrine_village = {
+				}
+				b_last_ridge_village = {
+				}
+				b_northern_towers_of_flame = {
 				}
 			}
 			c_toshibu_province = { # 38
 				color={ 200 255 120 }
 				color2={ 255 255 255 }
 				
-				b_castle_13 = {
+				b_shiro_mirumoto = {
 				}
-				b_town_13 = {
+				b_heibeisu = {
+				}
+				b_wolf_keep = {
 				}
 			}
 			c_yakeishi_province = { # 37
 				color={ 200 255 100 }
 				color2={ 255 255 255 }
 				
-				b_castle_12 = {
+				b_tetsu_kama_mura = {
 				}
-				b_town_12 = {
+				b_iron_mountain_dojo = {
 				}
 			}
 		}
@@ -733,18 +769,26 @@ e_rokugan = {
 				color={ 200 255 160 }
 				color2={ 255 255 255 }
 				
-				b_castle_15 = {
+				b_yamasura = {
 				}
-				b_town_15 = {
+				b_serpents_tail_mine = {
+				}
+				b_crystal_cave = {
 				}
 			}
 			c_kinenkan_province = { # 41
 				color={ 200 255 180 }
 				color2={ 255 255 255 }
 				
-				b_castle_16 = {
+				b_shiro_tamori = {
 				}
-				b_town_16 = {
+				b_wraith_of_the_kami = {
+				}
+				b_suigeki_toshi = {
+				}
+				b_tamori_gardens = {
+				}
+				b_mountain_song_monastery = {
 				}
 			}
 		}
@@ -772,45 +816,51 @@ e_rokugan = {
 				color={ 188 188 100 }
 				color2={ 255 255 255 }
 				
-				b_castle_18 = {
+				b_oiku_village = {
 				}
-				b_town_18 = {
+				b_oiku_province = {
 				}
 			}
 			c_henkyou_province = { # 44
 				color={ 210 210 140 }
 				color2={ 255 255 255 }
 				
-				b_castle_19 = {
+				b_ninkatoshi = {
 				}
-				b_town_19 = {
+				b_seizuka_shiro = {
+				}
+				b_hearth_of_vigilance_forrest = {
+				}
+				b_shiro_no_shinin = {
+				}
+				b_henkyou_province = {
 				}
 			}
 			c_ken_ryu_province = { # 47
 				color={ 255 240 200 }
 				color2={ 255 255 255 }
 				
-				b_castle_22 = {
+				b_shiro_akodo = {
 				}
-				b_town_22 = {
+				b_ken_ryu_province = {
+				}
+				b_ken_ryu_province_2 = {
 				}
 			}
 			c_renga_province = { # 46
 				color={ 250 210 180 }
 				color2={ 255 255 255 }
 				
-				b_castle_21 = {
+				b_rengai_mura = {
 				}
-				b_town_21 = {
+				b_renga_province = {
 				}
 			}
 			c_shimizu_province = { # 45
 				color={ 230 210 160 }
 				color2={ 255 255 255 }
 				
-				b_castle_20 = {
-				}
-				b_town_20 = {
+				b_shiro_shimizu = {
 				}
 			}
 		}
@@ -830,45 +880,51 @@ e_rokugan = {
 				color={ 125 125 20 }
 				color2={ 255 255 255 }
 				
-				b_castle_23 = {
+				b_toshi_no_meiyo_gisei = {
 				}
-				b_town_23 = {
+				b_gisei_province = {
 				}
 			}
 			c_eiyu_province = { # 49
 				color={ 125 125 60 }
 				color2={ 255 255 255 }
 				
-				b_castle_24 = {
+				b_mura_sano_eiyu_ni_suru = {
 				}
-				b_town_24 = {
+				b_eiyu_province = {
 				}
 			}
 			c_gunsho_province = { # 52
 				color={ 125 125 180 }
 				color2={ 255 255 255 }
 				
-				b_castle_27 = {
+				b_kyden_ikoma = {
 				}
-				b_town_27 = {
+				b_kyden_gunsho = {
+				}
+				b_murame_toshi = {
+				}
+				b_gunsho_province = {
 				}
 			}
 			c_ikota_province = { # 51
 				color={ 125 125 140 }
 				color2={ 255 255 255 }
 				
-				b_castle_26 = {
+				b_shiro_kyube = {
 				}
-				b_town_26 = {
+				b_great_hall_of_records = {
 				}
 			}
 			c_shirani_province = { # 50
 				color={ 125 125 100 }
 				color2={ 255 255 255 }
 				
-				b_castle_25 = {
+				b_shiranai_toshi = {
 				}
-				b_town_25 = {
+				b_western_castle = {
+				}
+				b_lookout_mountain_castle = {
 				}
 			}
 		}
@@ -888,36 +944,44 @@ e_rokugan = {
 				color={ 180 180 20 }
 				color2={ 255 255 255 }
 				
-				b_castle_28 = {
+				b_shiro_sano_ken_hayai = {
 				}
-				b_town_28 = {
+				b_plains_of_bloodied_honour = {
+				}
+				b_kyuden_hayai = {
 				}
 			}
 			c_dairiki_province = { # 55
 				color={ 180 180 100 }
 				color2={ 255 255 255 }
 				
-				b_castle_30 = {
+				b_kyuden_dairiki = {
 				}
-				b_town_30 = {
+				b_blue_crysanthemum_village = {
+				}
+				b_bishamon_seido = {
 				}
 			}
 			c_foshi_province = { # 56
 				color={ 180 180 140 }
 				color2={ 255 255 255 }
 				
-				b_castle_31 = {
+				b_kyuden_foshi = {
 				}
-				b_town_31 = {
+				b_foshi = {
 				}
 			}
 			c_rugashi_province = { # 54
 				color={ 180 180 60 }
 				color2={ 255 255 255 }
 				
-				b_castle_29 = {
+				b_rugasho = {
 				}
-				b_town_29 = {
+				b_gi_seido = {
+				}
+				b_shiden_yuisho = {
+				}
+				b_rugashi_province = {
 				}
 			}
 		}
@@ -937,72 +1001,88 @@ e_rokugan = {
 				color={ 240 240 110 }
 				color2={ 255 255 255 }
 				
-				b_castle_32 = {
+				b_kyuden_azuma = {
 				}
-				b_town_32 = {
+				b_footnote_village = {
 				}
 			}
 			c_chuugen_province = { # 59
 				color={ 240 240 50 }
 				color2={ 255 255 255 }
 				
-				b_castle_34 = {
+				b_kyuden_chuugen = {
 				}
-				b_town_34 = {
+				b_chuugen_province = {
 				}
 			}
 			c_gakka_province = { # 58
 				color={ 240 240 20 }
 				color2={ 255 255 255 }
 				
-				b_castle_33 = {
+				b_kyuden_gakka = {
 				}
-				b_town_33 = {
+				b_kenson_gakka = {
+				}
+				b_humble_village = {
+				}
+				b_shinden_yaruki_jukko = {
 				}
 			}
 			c_heigen_province = { # 60
 				color={ 240 240 140 }
 				color2={ 255 255 255 }
 				
-				b_castle_35 = {
+				b_shiro_koritome = {
 				}
-				b_town_35 = {
+				b_heigen_province = {
 				}
 			}
 			c_kaeru_province = { # 61
 				color={ 240 240 170 }
 				color2={ 255 255 255 }
 				
-				b_castle_36 = {
+				b_kyuden_kaeru = {
 				}
-				b_town_36 = {
+				b_kaeru_toshi = {
+				}
+				b_kitsu_tombs = {
+				}
+				b_kaeru_province = {
 				}
 			}
 			c_tonfajutsen = { # 64
 				color={ 240 240 80 }
 				color2={ 255 255 255 }
 				
-				b_castle_39 = {
+				b_kyuden_tonfajutsen = {
 				}
-				b_town_39 = {
+				b_tonfajutsen = {
+				}
+				b_central_castle = {
+				}
+				b_tonfajutsen_2 = {
+				}
+				b_tonfajutsen_3 = {
 				}
 			}
 			c_yama_province = { # 63
 				color={ 240 240 230 }
 				color2={ 255 255 255 }
 				
-				b_castle_38 = {
+				b_kyuden_yama = {
 				}
-				b_town_38 = {
+				b_yama_tosho = {
+				}
+				b_shiro_matsu = {
 				}
 			}
 			c_yojin_province = { # 62
 				color={ 240 240 200 }
 				color2={ 255 255 255 }
 				
-				b_castle_37 = {
+				b_kyuden_yojin = {
 				}
-				b_town_37 = {
+				b_shiro_no_yojin = {
 				}
 			}
 		}
@@ -1030,63 +1110,71 @@ e_rokugan = {
 				color={ 43 80 55 }
 				color2={ 255 255 255 }
 				
-				b_castle_40 = {
+				b_kyuden_gotei = {
 				}
-				b_town_40 = {
+				b_tempest_island_village = {
 				}
 			}
 			c_inazuma_province = { # 68
 				color={ 31 207 64 }
 				color2={ 255 255 255 }
 				
-				b_castle_43 = {
+				b_kyuden_inazuma = {
 				}
-				b_town_43 = {
+				b_toshi_no_inazuma = {
+				}
+				b_temple_of_suitengu = {
+				}
+				b_dojo_raiden = {
+				}
+				b_tortoise_distant_turtle_city = {
 				}
 			}
 			c_irie_province = { # 69
 				color={ 43 117 56 }
 				color2={ 255 255 255 }
 				
-				b_castle_44 = {
+				b_kyuden_irie = {
 				}
-				b_town_44 = {
+				b_irie_province = {
 				}
 			}
 			c_kaze_province = { # 67
 				color={ 131 146 130 }
 				color2={ 255 255 255 }
 				
-				b_castle_42 = {
+				b_kyuden_kaze = {
 				}
-				b_town_42 = {
+				b_shrine_to_kaimetsu_yo = {
 				}
 			}
 			c_koutetsukan_province = { # 66
 				color={ 79 232 63 }
 				color2={ 255 255 255 }
 				
-				b_castle_41 = {
+				b_kyuden_koutetsukan = {
 				}
-				b_town_41 = {
+				b_iron_turtle_city = {
 				}
 			}
 			c_maigosera_province = { # 71
 				color={ 108 203 6 }
 				color2={ 255 255 255 }
 				
-				b_castle_46 = {
+				b_kyuden_maigosera = {
 				}
-				b_town_46 = {
+				b_maigosera_seido = {
 				}
 			}
 			c_tokigogachu_province = { # 70
 				color={ 11 199 44 }
 				color2={ 255 255 255 }
 				
-				b_castle_45 = {
+				b_kyuden_tokigogachu = {
 				}
-				b_town_45 = {
+				b_tokigogachu = {
+				}
+				b_thunder_dragon_bay_shrine = {
 				}
 			}
 		}
@@ -1106,9 +1194,11 @@ e_rokugan = {
 				color={ 46 225 133 }
 				color2={ 255 255 255 }
 				
-				b_castle_48 = {
+				b_kyuden_moshi = {
 				}
-				b_town_48 = {
+				b_matomari_no_tokoro = {
+				}
+				b_amaterasu_seido = {
 				}
 			}
 		}
@@ -1128,9 +1218,9 @@ e_rokugan = {
 				color={ 175 238 195 }
 				color2={ 255 255 255 }
 				
-				b_castle_47 = {
+				b_kyuden_kitsune = {
 				}
-				b_town_47 = {
+				b_kitsune_mori = {
 				}
 			}
 		}
@@ -1150,45 +1240,47 @@ e_rokugan = {
 				color={ 159 188 168 }
 				color2={ 255 255 255 }
 				
-				b_castle_49 = {
+				b_kyuden_ashinagabachi = {
 				}
-				b_town_49 = {
+				b_kagehisa_mura = {
+				}
+				b_red_lake_shrine = {
 				}
 			}
 			c_chuuhan_province = { # 76
 				color={ 13 80 34 }
 				color2={ 255 255 255 }
 				
-				b_castle_51 = {
+				b_kyuden_chuuhan = {
 				}
-				b_town_51 = {
+				b_quiet_stream_village = {
 				}
 			}
 			c_douro_province = { # 77
 				color={ 27 236 92 }
 				color2={ 255 255 255 }
 				
-				b_castle_52 = {
+				b_kyuden_douro = {
 				}
-				b_town_52 = {
+				b_douro_province = {
 				}
 			}
 			c_enzan_province = { # 75
 				color={ 34 59 42 }
 				color2={ 255 255 255 }
 				
-				b_castle_50 = {
+				b_kyuden_enzan = {
 				}
-				b_town_50 = {
+				b_sakana_mura = {
 				}
 			}
 			c_shaiga_province = { # 78
 				color={ 67 79 71 }
 				color2={ 255 255 255 }
 				
-				b_castle_53 = {
+				b_kyuden_shaiga = {
 				}
-				b_town_53 = {
+				b_shaiga_province = {
 				}
 			}
 		}
@@ -1200,15 +1292,6 @@ e_rokugan = {
 		capital = 79 # c_enju_province
 		culture = phoenix_asako
 		
-		c_anshini_province = { # 83
-			color={ 135 219 208 }
-			color2={ 255 255 255 }
-			
-			b_castle_58 = {
-			}
-			b_town_58 = {
-			}
-		}
 		d_asako_province = {
 			color={ 21 45 90 }
 			color2={ 255 255 255 }
@@ -1225,36 +1308,40 @@ e_rokugan = {
 				color={ 11 55 85 }
 				color2={ 255 255 255 }
 				
-				b_castle_54 = {
+				b_kyuden_enju = {
 				}
-				b_town_54 = {
+				b_seido_jurojin = {
 				}
 			}
 			c_ki_rin_province = { # 80
 				color={ 8 49 8 }
 				color2={ 255 255 255 }
 				
-				b_castle_55 = {
+				b_shiro_gisu = {
 				}
-				b_town_55 = {
+				b_iron_rings_cascade = {
+				}
+				b_ki_rins_shrine = {
 				}
 			}
 			c_kyuukai_province = { # 81
 				color={ 39 8 49 }
 				color2={ 255 255 255 }
 				
-				b_castle_56 = {
+				b_kyuden_kyuukai = {
 				}
-				b_town_56 = {
+				b_hopeful_rest = {
 				}
 			}
 			c_yogen_province = { # 82
 				color={ 237 216 40 }
 				color2={ 255 255 255 }
 				
-				b_castle_57 = {
+				b_asako_temple = {
 				}
-				b_town_57 = {
+				b_oyo_mura = {
+				}
+				b_oyo_seido = {
 				}
 			}
 		}
@@ -1274,90 +1361,100 @@ e_rokugan = {
 				color={ 135 219 208 }
 				color2={ 255 255 255 }
 				
-				b_castle_58 = {
+				b_kyuden_anshini = {
 				}
-				b_town_58 = {
+				b_ashini_mura = {
+				}
+				b_temple_of_the_fourteen_hands = {
+				}
+				b_anshini_province = {
 				}
 			}
 			c_aoijiroi_province = { # 91
 				color={ 119 176 45 }
 				color2={ 255 255 255 }
 				
-				b_castle_66 = {
+				b_pale_oak_castle = {
 				}
-				b_town_66 = {
+				b_pale_oak_plane = {
+				}
+				b_aojiroi_oku_heigen_seido = {
 				}
 			}
 			c_garantu_province = { # 90
 				color={ 186 25 188 }
 				color2={ 255 255 255 }
 				
-				b_castle_65 = {
+				b_shiro_sano_chujitsu_and_shinpu = {
 				}
-				b_town_65 = {
+				b_roads_end_village = {
+				}
+				b_shrine_of_the_path = {
 				}
 			}
 			c_haimaato_province = { # 86
 				color={ 149 134 53 }
 				color2={ 255 255 255 }
 				
-				b_castle_61 = {
+				b_kyuden_haimaato = {
 				}
-				b_town_61 = {
+				b_haimaato_mura = {
 				}
 			}
 			c_kinkaku_province = { # 89
 				color={ 242 244 107 }
 				color2={ 255 255 255 }
 				
-				b_castle_64 = {
-				}
-				b_town_64 = {
+				b_mori_kuroi = {
 				}
 			}
 			c_kougeun_province = { # 88
 				color={ 220 140 105 }
 				color2={ 255 255 255 }
 				
-				b_castle_63 = {
+				b_kyuden_kougeun = {
 				}
-				b_town_63 = {
+				b_gisei_toshi = {
 				}
 			}
 			c_maryoku_province = { # 92
 				color={ 53 151 220 }
 				color2={ 255 255 255 }
 				
-				b_castle_67 = {
+				b_kyuden_isawa = {
 				}
-				b_town_67 = {
+				b_maryoku_mura = {
+				}
+				b_temple_of_the_eight_guardians = {
 				}
 			}
 			c_mihari_province = { # 84
 				color={ 219 200 135 }
 				color2={ 255 255 255 }
 				
-				b_castle_59 = {
+				b_zumiki_mihari = {
 				}
-				b_town_59 = {
+				b_orange_flame_village = {
 				}
 			}
 			c_omoidasu_province = { # 85
 				color={ 217 147 48 }
 				color2={ 255 255 255 }
 				
-				b_castle_60 = {
+				b_kyuden_omoidasu = {
 				}
-				b_town_60 = {
+				b_city_of_remembrance = {
+				}
+				b_temple_of_tsukune = {
 				}
 			}
 			c_yosomono_province = { # 87
 				color={ 59 224 214 }
 				color2={ 255 255 255 }
 				
-				b_castle_62 = {
+				b_kyuden_yosomono = {
 				}
-				b_town_62 = {
+				b_yosomono_province = {
 				}
 			}
 		}
@@ -1377,45 +1474,63 @@ e_rokugan = {
 				color={ 122 137 98 }
 				color2={ 255 255 255 }
 				
-				b_castle_68 = {
+				b_kyuden_enjaku = {
 				}
-				b_town_68 = {
+				b_enjaku_mura = {
 				}
 			}
 			c_bachiatari_province = { # 96
 				color={ 168 166 216 }
 				color2={ 255 255 255 }
 				
-				b_castle_71 = {
+				b_kyuden_bachiatari = {
 				}
-				b_town_71 = {
+				b_mori_kage = {
+				}
+				b_shinden_chukan = {
+				}
+				b_morikage_toshi = {
+				}
+				b_shiba_artisan_academy = {
 				}
 			}
 			c_nanimo_province = { # 95
 				color={ 220 46 99 }
 				color2={ 255 255 255 }
 				
-				b_castle_70 = {
+				b_kyuden_nanimo = {
 				}
-				b_town_70 = {
+				b_ninimo_mura = {
+				}
+				b_twin_soul_temple = {
 				}
 			}
 			c_nejiro_province = { # 97
 				color={ 52 101 64 }
 				color2={ 255 255 255 }
 				
-				b_castle_72 = {
+				b_shiro_shiba = {
 				}
-				b_town_72 = {
+				b_kirei_mura = {
+				}
+				b_temple_of_brilliant_rebirth = {
+				}
+				b_shiro_shingon = {
+				}
+				b_holy_home_village = {
+				}
+				b_city_of_tears = {
+				}
+				b_falling_wind_dojo = {
 				}
 			}
 			c_ukabu_province = { # 94
 				color={ 166 86 227 }
 				color2={ 255 255 255 }
 				
-				b_castle_69 = {
+				b_overwatch_tower = {
 				}
-				b_town_69 = {
+				b_ukabu_mura = {
 				}
 			}
 		}
@@ -1443,36 +1558,42 @@ e_rokugan = {
 				color={ 126 129 73 }
 				color2={ 255 255 255 }
 				
-				b_castle_73 = {
+				b_kyuden_bayushi = {
 				}
-				b_town_73 = {
+				b_honors_lesson_dojo = {
+				}
+				b_shiro_kurasihi = {
+				}
+				b_kunizakai_province = {
 				}
 			}
 			c_chuuou_province = { # 100
 				color={ 84 231 195 }
 				color2={ 255 255 255 }
 				
-				b_castle_75 = {
+				b_toshi_aitate = {
 				}
-				b_town_75 = {
+				b_shimomura = {
 				}
 			}
 			c_hizoku_province = { # 99
 				color={ 237 161 161 }
 				color2={ 255 255 255 }
 				
-				b_castle_74 = {
+				b_palace_of_crimson_shadows = {
 				}
-				b_town_74 = {
+				b_shutai = {
 				}
 			}
 			c_nezuban_province = { # 101
 				color={ 215 67 192 }
 				color2={ 255 255 255 }
 				
-				b_castle_76 = {
+				b_keep_of_the_fortunate_husband = {
 				}
-				b_town_76 = {
+				b_nezuban_mura = {
+				}
+				b_hotei_seido = {
 				}
 			}
 		}
@@ -1492,27 +1613,29 @@ e_rokugan = {
 				color={ 229 119 52 }
 				color2={ 255 255 255 }
 				
-				b_castle_77 = {
+				b_kyuden_ryoko = {
 				}
-				b_town_77 = {
+				b_ryoko_owari_toshi = {
 				}
 			}
 			c_kakushikoto_province = { # 103
 				color={ 65 215 139 }
 				color2={ 255 255 255 }
 				
-				b_castle_78 = {
+				b_nihai_tower = {
 				}
-				b_town_78 = {
+				b_town = {
 				}
 			}
 			c_kawa_province = { # 104
 				color={ 85 41 14 }
 				color2={ 255 255 255 }
 				
-				b_castle_79 = {
+				b_shiro_no_shosuro = {
 				}
-				b_town_79 = {
+				b_ginasutra = {
+				}
+				b_shosuro_gardens = {
 				}
 			}
 		}
@@ -1532,27 +1655,35 @@ e_rokugan = {
 				color={ 164 71 222 }
 				color2={ 255 255 255 }
 				
-				b_castle_80 = {
+				b_shiro_kinboi = {
 				}
-				b_town_80 = {
+				b_pokau_mura = {
+				}
+				b_shrine_of_the_shadows_eye = {
+				}
+				b_first_breath_dojo = {
+				}
+				b_ashio_mura = {
 				}
 			}
 			c_anei_province = { # 106
 				color={ 132 200 185 }
 				color2={ 255 255 255 }
 				
-				b_castle_81 = {
+				b_shiro_no_soshi = {
 				}
-				b_town_81 = {
+				b_dojo_of_the_closed_eye = {
+				}
+				b_hidden_moon_dojo = {
 				}
 			}
 			c_yuma_province = { # 107
 				color={ 60 85 63 }
 				color2={ 255 255 255 }
 				
-				b_castle_82 = {
+				b_hidden_watch_keep = {
 				}
-				b_town_82 = {
+				b_yuma_mura = {
 				}
 			}
 		}
@@ -1572,18 +1703,20 @@ e_rokugan = {
 				color={ 159 175 115 }
 				color2={ 255 255 255 }
 				
-				b_castle_83 = {
+				b_shiro_yogo = {
 				}
-				b_town_83 = {
+				b_naganori_mura = {
 				}
 			}
 			c_beiden_province = { # 109
 				color={ 241 100 143 }
 				color2={ 255 255 255 }
 				
-				b_castle_84 = {
+				b_seven_stings_keep = {
 				}
-				b_town_84 = {
+				b_beiden = {
+				}
+				b_kagoki = {
 				}
 			}
 		}
@@ -1611,27 +1744,39 @@ e_rokugan = {
 				color={ 52 22 86 }
 				color2={ 255 255 255 }
 				
-				b_castle_85 = {
+				b_shinden_horiuchi = {
 				}
-				b_town_85 = {
+				b_kojiin_horiuchi = {
+				}
+				b_childs_innocence_monastery = {
+				}
+				b_war_dog_master_dojo = {
 				}
 			}
 			c_eijitsu_province = { # 112
 				color={ 191 78 78 }
 				color2={ 255 255 255 }
 				
-				b_castle_87 = {
+				b_shinomen_tower = {
 				}
-				b_town_87 = {
+				b_turo_kojiri = {
+				}
+				b_temple_of_kanosei_furudera = {
+				}
+				b_chrysanthemum_petal_lake = {
+				}
+				b_temple_of_the_lost_moto = {
+				}
+				b_shrine_to_jurojin = {
 				}
 			}
 			c_garantoo_province = { # 111
 				color={ 173 139 212 }
 				color2={ 255 255 255 }
 				
-				b_castle_86 = {
+				b_shiro_ide = {
 				}
-				b_town_86 = {
+				b_duzaki_toshi = {
 				}
 			}
 		}
@@ -1651,18 +1796,30 @@ e_rokugan = {
 				color={ 79 161 224 }
 				color2={ 255 255 255 }
 				
-				b_castle_88 = {
+				b_kyuden_shinten = {
 				}
-				b_town_88 = {
+				b_shinten_mura = {
+				}
+				b_shinten_seido = {
 				}
 			}
 			c_kaihi_province = { # 114
 				color={ 184 142 125 }
 				color2={ 255 255 255 }
 				
-				b_castle_89 = {
+				b_shiro_iuchi = {
 				}
-				b_town_89 = {
+				b_hisatu_kesu = {
+				}
+				b_souin_kureta_monastery = {
+				}
+				b_shiro_kenshin = {
+				}
+				b_city_of_night = {
+				}
+				b_tower_of_the_kelet = {
+				}
+				b_sukoshi_zutsu = {
 				}
 			}
 		}
@@ -1682,36 +1839,52 @@ e_rokugan = {
 				color={ 100 88 81 }
 				color2={ 255 255 255 }
 				
-				b_castle_90 = {
+				b_kyuden_zenzan = {
 				}
-				b_town_90 = {
+				b_zenzan_mura = {
+				}
+				b_plains_wind_monastery = {
+				}
+				b_chai_seido = {
 				}
 			}
 			c_enkaku_province = { # 118
 				color={ 67 28 110 }
 				color2={ 255 255 255 }
 				
-				b_castle_93 = {
+				b_watchtower_of_the_river_of_the_unexpected_hero = {
 				}
-				b_town_93 = {
+				b_enkaku_province = {
 				}
 			}
 			c_ikoku_province = { # 117
 				color={ 232 109 181 }
 				color2={ 255 255 255 }
 				
-				b_castle_92 = {
+				b_shiro_moto = {
 				}
-				b_town_92 = {
+				b_toshi_no_aida_ni_kawa = {
+				}
+				b_shi_tien_yen_wang_temple = {
+				}
+				b_mura_nisa_kawa_nemui = {
+				}
+				b_kaiten_mura = {
+				}
+				b_watarimono_mura = {
 				}
 			}
 			c_kawabi_province = { # 116
 				color={ 91 109 220 }
 				color2={ 255 255 255 }
 				
-				b_castle_91 = {
+				b_kyuden_kawabi = {
 				}
-				b_town_91 = {
+				b_white_shore_village = {
+				}
+				b_daikoku_seido = {
+				}
+				b_mizu_mura = {
 				}
 			}
 		}
@@ -1731,36 +1904,46 @@ e_rokugan = {
 				color={ 155 108 140 }
 				color2={ 255 255 255 }
 				
-				b_castle_94 = {
+				b_kyuden_aishou = {
 				}
-				b_town_94 = {
+				b_oshindoka_toshi = {
+				}
+				b_nagashi_naga_toshi = {
 				}
 			}
 			c_bugaisha_province = { # 122
 				color={ 77 76 21 }
 				color2={ 255 255 255 }
 				
-				b_castle_97 = {
+				b_kyuden_bugaisha = {
 				}
-				b_town_97 = {
+				b_bugaisha_mura = {
+				}
+				b_kuroshin_shrine = {
 				}
 			}
 			c_haisho_province = { # 120
 				color={ 237 154 154 }
 				color2={ 255 255 255 }
 				
-				b_castle_95 = {
+				b_kyuden_haisho = {
 				}
-				b_town_95 = {
+				b_egami_mura = {
+				}
+				b_shrine_to_jotei = {
+				}
+				b_exiles_road_watchtower = {
+				}
+				b_exiles_shrine = {
 				}
 			}
 			c_kouryo_province = { # 121
 				color={ 158 237 154 }
 				color2={ 255 255 255 }
 				
-				b_castle_96 = {
+				b_shiro_shinjo = {
 				}
-				b_town_96 = {
+				b_kouryo_mura = {
 				}
 			}
 		}
@@ -1780,45 +1963,57 @@ e_rokugan = {
 				color={ 135 96 35 }
 				color2={ 255 255 255 }
 				
-				b_castle_98 = {
+				b_kyuden_isei = {
 				}
-				b_town_98 = {
+				b_isei_mura = {
+				}
+				b_otaku_seido = {
 				}
 			}
 			c_koubaku_province = { # 126
 				color={ 79 72 219 }
 				color2={ 255 255 255 }
 				
-				b_castle_101 = {
+				b_kyuden_koubaku = {
 				}
-				b_town_101 = {
+				b_dark_edge_village = {
+				}
+				b_shrine_of_the_emerald_champion = {
 				}
 			}
 			c_manaka_province = { # 124
 				color={ 127 189 93 }
 				color2={ 255 255 255 }
 				
-				b_castle_99 = {
+				b_shiro_utaku = {
 				}
-				b_town_99 = {
+				b_utaku_testing_grounds = {
+				}
+				b_utaku_infantry_dojo = {
+				}
+				b_shiro_naoko = {
 				}
 			}
 			c_senseki_province = { # 127
 				color={ 127 201 191 }
 				color2={ 255 255 255 }
 				
-				b_castle_102 = {
+				b_kyuden_senseki = {
 				}
-				b_town_102 = {
+				b_kibukito_mura = {
+				}
+				b_akami = {
+				}
+				b_bikami = {
 				}
 			}
 			c_tsuriai_province = { # 125
 				color={ 200 15 15 }
 				color2={ 255 255 255 }
 				
-				b_castle_100 = {
+				b_kyuden_tsuriai = {
 				}
-				b_town_100 = {
+				b_yashigi_mura = {
 				}
 			}
 		}

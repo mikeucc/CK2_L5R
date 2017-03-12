@@ -4,10 +4,11 @@
 title = c_maryoku_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
-b_castle_67 = castle
-b_town_67 = city
+b_kyuden_isawa = castle
+b_maryoku_mura = city
+b_temple_of_the_eight_guardians = temple
 
 # Misc
 culture = phoenix_isawa

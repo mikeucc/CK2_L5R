@@ -6,8 +6,8 @@ title = c_hare_province
 # Settlements
 max_settlements = 2
 
-b_castle_105 = castle
-b_town_105 = city
+b_shiro_usagi = castle
+b_ujina_mura = city
 
 # Misc
 culture = minor_clan

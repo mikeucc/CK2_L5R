@@ -4,10 +4,12 @@
 title = c_gunsho_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
-b_castle_27 = castle
-b_town_27 = city
+b_kyden_ikoma = castle
+b_kyden_gunsho = city
+b_murame_toshi = temple
+#b_gunsho_province = castle
 
 # Misc
 culture = lion_Ikoma

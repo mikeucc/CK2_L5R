@@ -6,8 +6,8 @@ title = c_garantoo_province
 # Settlements
 max_settlements = 2
 
-b_castle_86 = castle
-b_town_86 = city
+b_shiro_ide = castle
+b_duzaki_toshi = city
 
 # Misc
 culture = unicorn_ide

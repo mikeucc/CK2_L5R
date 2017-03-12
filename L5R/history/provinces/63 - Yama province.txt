@@ -4,10 +4,11 @@
 title = c_yama_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
-b_castle_38 = castle
-b_town_38 = city
+b_kyuden_yama = castle
+b_yama_tosho = city
+b_shiro_matsu = temple
 
 # Misc
 culture = lion_Matsu

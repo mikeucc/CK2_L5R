@@ -4,10 +4,9 @@
 title = c_seppun_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 1
 
-b_castle_107 = castle
-b_town_107 = city
+b_kyuden_seppun = castle
 
 # Misc
 culture = imperial

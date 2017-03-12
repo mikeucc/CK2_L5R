@@ -6,8 +6,8 @@ title = c_beiden_province
 # Settlements
 max_settlements = 2
 
-b_castle_84 = castle
-b_town_84 = city
+b_seven_stings_keep = castle
+b_beiden = city
 
 # Misc
 culture = scorpion_yogo

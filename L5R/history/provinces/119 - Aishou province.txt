@@ -4,10 +4,11 @@
 title = c_aishou_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
-b_castle_94 = castle
-b_town_94 = city
+b_kyuden_aishou = castle
+b_oshindoka_toshi = city
+b_nagashi_naga_toshi = temple
 
 # Misc
 culture = unicorn_shinjo

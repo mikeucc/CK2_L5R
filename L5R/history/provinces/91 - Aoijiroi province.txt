@@ -4,10 +4,11 @@
 title = c_aoijiroi_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
-b_castle_66 = castle
-b_town_66 = city
+b_pale_oak_castle = castle
+b_pale_oak_plane = city
+b_aojiroi_oku_heigen_seido = temple
 
 # Misc
 culture = phoenix_isawa

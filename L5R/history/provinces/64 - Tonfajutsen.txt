@@ -4,10 +4,13 @@
 title = c_tonfajutsen
 
 # Settlements
-max_settlements = 2
+max_settlements = 5
 
-b_castle_39 = castle
-b_town_39 = city
+b_kyuden_tonfajutsen = castle
+b_tonfajutsen = city
+b_central_castle = temple
+#b_tonfajutsen_2 = castle
+#b_tonfajutsen_3 = city
 
 # Misc
 culture = lion_Matsu

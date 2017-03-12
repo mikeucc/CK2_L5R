@@ -4,10 +4,12 @@
 title = c_zenzan_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
-b_castle_90 = castle
-b_town_90 = city
+b_kyuden_zenzan = castle
+b_zenzan_mura = city
+b_plains_wind_monastery = temple
+b_chai_seido = castle
 
 # Misc
 culture = unicorn_moto

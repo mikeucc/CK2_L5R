@@ -4,10 +4,11 @@
 title = c_nanimo_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
-b_castle_70 = castle
-b_town_70 = city
+b_kyuden_nanimo = castle
+b_ninimo_mura = city
+b_twin_soul_temple = temple
 
 # Misc
 culture = phoenix_shiba

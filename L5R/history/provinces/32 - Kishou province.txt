@@ -4,10 +4,11 @@
 title = c_kishou_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
-b_castle_7 = castle
-b_town_7 = city
+b_aketsu = castle
+b_ice_fish_village = city
+b_doji_plains = temple
 
 # Misc
 culture = crane_Kakita

@@ -6,8 +6,8 @@ title = c_mihari_province
 # Settlements
 max_settlements = 2
 
-b_castle_59 = castle
-b_town_59 = city
+b_zumiki_mihari = castle
+b_orange_flame_village = city
 
 # Misc
 culture = phoenix_isawa

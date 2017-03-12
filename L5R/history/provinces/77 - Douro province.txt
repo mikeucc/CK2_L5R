@@ -6,8 +6,8 @@ title = c_douro_province
 # Settlements
 max_settlements = 2
 
-b_castle_52 = castle
-b_town_52 = city
+b_kyuden_douro = castle
+#b_douro_province = city
 
 # Misc
 culture = mantis_tsuruchi

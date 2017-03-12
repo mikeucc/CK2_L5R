@@ -4,10 +4,12 @@
 title = c_kaeru_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
-b_castle_36 = castle
-b_town_36 = city
+b_kyuden_kaeru = castle
+b_kaeru_toshi = city
+b_kitsu_tombs = temple
+#b_kaeru_province = castle
 
 # Misc
 culture = lion_Matsu

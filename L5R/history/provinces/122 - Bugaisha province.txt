@@ -4,10 +4,11 @@
 title = c_bugaisha_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
-b_castle_97 = castle
-b_town_97 = city
+b_kyuden_bugaisha = castle
+b_bugaisha_mura = city
+b_kuroshin_shrine = temple
 
 # Misc
 culture = unicorn_shinjo

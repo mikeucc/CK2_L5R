@@ -6,8 +6,8 @@ title = c_enzan_province
 # Settlements
 max_settlements = 2
 
-b_castle_50 = castle
-b_town_50 = city
+b_kyuden_enzan = castle
+b_sakana_mura = city
 
 # Misc
 culture = mantis_tsuruchi

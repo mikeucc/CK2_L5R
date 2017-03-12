@@ -4,10 +4,12 @@
 title = c_ujidera_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
-b_castle_85 = castle
-b_town_85 = city
+b_shinden_horiuchi = castle
+b_kojiin_horiuchi = city
+b_childs_innocence_monastery = temple
+b_war_dog_master_dojo = castle
 
 # Misc
 culture = unicorn_horiuchi

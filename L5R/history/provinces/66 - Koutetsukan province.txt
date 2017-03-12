@@ -6,8 +6,8 @@ title = c_koutetsukan_province
 # Settlements
 max_settlements = 2
 
-b_castle_41 = castle
-b_town_41 = city
+b_kyuden_koutetsukan = castle
+b_iron_turtle_city = city
 
 # Misc
 culture = mantis_yoritomo

@@ -6,8 +6,8 @@ title = c_kougen_province
 # Settlements
 max_settlements = 2
 
-b_castle_3 = castle
-b_town_3 = city
+b_ookami_toshi = castle
+#b_kougen_province = city
 
 # Misc
 culture = crane_Doji

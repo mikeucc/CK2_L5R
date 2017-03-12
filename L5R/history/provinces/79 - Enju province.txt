@@ -6,8 +6,8 @@ title = c_enju_province
 # Settlements
 max_settlements = 2
 
-b_castle_54 = castle
-b_town_54 = city
+b_kyuden_enju = castle
+b_seido_jurojin = city
 
 # Misc
 culture = phoenix_asako

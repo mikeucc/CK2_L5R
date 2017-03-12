@@ -6,8 +6,8 @@ title = c_gisei_province
 # Settlements
 max_settlements = 2
 
-b_castle_23 = castle
-b_town_23 = city
+b_toshi_no_meiyo_gisei = castle
+#b_gisei_province = city
 
 # Misc
 culture = lion_Ikoma

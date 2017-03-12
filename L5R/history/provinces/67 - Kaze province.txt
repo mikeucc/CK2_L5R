@@ -6,8 +6,8 @@ title = c_kaze_province
 # Settlements
 max_settlements = 2
 
-b_castle_42 = castle
-b_town_42 = city
+b_kyuden_kaze = castle
+b_shrine_to_kaimetsu_yo = city
 
 # Misc
 culture = mantis_yoritomo

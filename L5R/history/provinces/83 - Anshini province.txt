@@ -4,10 +4,12 @@
 title = c_anshini_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
-b_castle_58 = castle
-b_town_58 = city
+b_kyuden_anshini = castle
+b_ashini_mura = city
+b_temple_of_the_fourteen_hands = temple
+#b_anshini_province = castle
 
 # Misc
 culture = phoenix_isawa

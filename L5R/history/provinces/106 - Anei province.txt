@@ -4,10 +4,11 @@
 title = c_anei_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
-b_castle_81 = castle
-b_town_81 = city
+b_shiro_no_soshi = castle
+b_dojo_of_the_closed_eye = city
+b_hidden_moon_dojo = temple
 
 # Misc
 culture = scorpion_soshi

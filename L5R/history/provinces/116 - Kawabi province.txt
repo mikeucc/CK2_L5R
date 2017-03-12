@@ -4,10 +4,12 @@
 title = c_kawabi_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
-b_castle_91 = castle
-b_town_91 = city
+b_kyuden_kawabi = castle
+b_white_shore_village = city
+b_daikoku_seido = temple
+b_mizu_mura = castle
 
 # Misc
 culture = unicorn_moto

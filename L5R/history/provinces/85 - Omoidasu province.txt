@@ -4,10 +4,11 @@
 title = c_omoidasu_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
-b_castle_60 = castle
-b_town_60 = city
+b_kyuden_omoidasu = castle
+b_city_of_remembrance = city
+b_temple_of_tsukune = temple
 
 # Misc
 culture = phoenix_isawa

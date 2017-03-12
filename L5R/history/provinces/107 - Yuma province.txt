@@ -6,8 +6,8 @@ title = c_yuma_province
 # Settlements
 max_settlements = 2
 
-b_castle_82 = castle
-b_town_82 = city
+b_hidden_watch_keep = castle
+b_yuma_mura = city
 
 # Misc
 culture = scorpion_soshi

@@ -6,8 +6,8 @@ title = c_gotei_province
 # Settlements
 max_settlements = 2
 
-b_castle_40 = castle
-b_town_40 = city
+b_kyuden_gotei = castle
+b_tempest_island_village = city
 
 # Misc
 culture = mantis_yoritomo

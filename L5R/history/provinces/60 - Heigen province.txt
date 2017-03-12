@@ -6,8 +6,8 @@ title = c_heigen_province
 # Settlements
 max_settlements = 2
 
-b_castle_35 = castle
-b_town_35 = city
+b_shiro_koritome = castle
+#b_heigen_province = city
 
 # Misc
 culture = lion_Matsu

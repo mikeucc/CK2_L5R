@@ -4,10 +4,12 @@
 title = c_kunizakai_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
-b_castle_73 = castle
-b_town_73 = city
+b_kyuden_bayushi = castle
+b_honors_lesson_dojo = city
+b_shiro_kurasihi = temple
+#b_kunizakai_province = castle
 
 # Misc
 culture = scorpion_bayushi

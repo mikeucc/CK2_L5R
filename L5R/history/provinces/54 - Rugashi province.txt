@@ -4,10 +4,12 @@
 title = c_rugashi_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
-b_castle_29 = castle
-b_town_29 = city
+b_rugasho = castle
+b_gi_seido = city
+b_shiden_yuisho = temple
+#b_rugashi_province = castle
 
 # Misc
 culture = lion_Kitsu

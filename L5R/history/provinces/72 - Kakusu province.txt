@@ -6,8 +6,8 @@ title = c_kakusu_province
 # Settlements
 max_settlements = 2
 
-b_castle_47 = castle
-b_town_47 = city
+b_kyuden_kitsune = castle
+b_kitsune_mori = city
 
 # Misc
 culture = mantis_kitsune

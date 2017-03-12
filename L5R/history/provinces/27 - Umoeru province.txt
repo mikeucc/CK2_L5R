@@ -6,8 +6,8 @@ title = c_umoeru_province
 # Settlements
 max_settlements = 2
 
-b_castle_2 = castle
-b_town_2 = city
+b_umoeru_mura = castle
+#b_umoeru_province = city
 
 # Misc
 culture = crane_Doji

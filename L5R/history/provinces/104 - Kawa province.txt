@@ -4,10 +4,11 @@
 title = c_kawa_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
-b_castle_79 = castle
-b_town_79 = city
+b_shiro_no_shosuro = castle
+b_ginasutra = city
+b_shosuro_gardens = temple
 
 # Misc
 culture = scorpion_shosuruo

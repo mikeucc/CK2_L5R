@@ -6,8 +6,8 @@ title = c_ukabu_province
 # Settlements
 max_settlements = 2
 
-b_castle_69 = castle
-b_town_69 = city
+b_overwatch_tower = castle
+b_ukabu_mura = city
 
 # Misc
 culture = phoenix_shiba

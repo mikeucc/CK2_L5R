@@ -6,8 +6,8 @@ title = c_dragonfly_province
 # Settlements
 max_settlements = 2
 
-b_castle_104 = castle
-b_town_104 = city
+b_kyuden_tonbo = castle
+#b_dragonfly_province = city
 
 # Misc
 culture = minor_clan

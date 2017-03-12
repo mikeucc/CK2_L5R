@@ -4,10 +4,11 @@
 title = c_hinome_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
-b_castle_48 = castle
-b_town_48 = city
+b_kyuden_moshi = castle
+b_matomari_no_tokoro = city
+b_amaterasu_seido = temple
 
 # Misc
 culture = mantis_moshi

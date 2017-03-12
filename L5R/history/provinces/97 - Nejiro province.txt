@@ -4,10 +4,15 @@
 title = c_nejiro_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 7
 
-b_castle_72 = castle
-b_town_72 = city
+b_shiro_shiba = castle
+b_kirei_mura = city
+b_temple_of_brilliant_rebirth = temple
+b_shiro_shingon = castle
+b_holy_home_village = city
+b_city_of_tears = temple
+b_falling_wind_dojo = castle
 
 # Misc
 culture = phoenix_shiba

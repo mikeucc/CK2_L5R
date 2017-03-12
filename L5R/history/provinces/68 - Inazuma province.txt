@@ -4,10 +4,13 @@
 title = c_inazuma_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 5
 
-b_castle_43 = castle
-b_town_43 = city
+b_kyuden_inazuma = castle
+b_toshi_no_inazuma = city
+b_temple_of_suitengu = temple
+b_dojo_raiden = castle
+b_tortoise_distant_turtle_city = city
 
 # Misc
 culture = mantis_yoritomo

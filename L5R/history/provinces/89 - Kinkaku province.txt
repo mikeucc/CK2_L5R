@@ -4,10 +4,9 @@
 title = c_kinkaku_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 1
 
-b_castle_64 = castle
-b_town_64 = city
+b_mori_kuroi = castle
 
 # Misc
 culture = phoenix_isawa

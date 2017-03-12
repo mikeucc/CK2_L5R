@@ -4,10 +4,13 @@
 title = c_kinboi_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 5
 
-b_castle_80 = castle
-b_town_80 = city
+b_shiro_kinboi = castle
+b_pokau_mura = city
+b_shrine_of_the_shadows_eye = temple
+b_first_breath_dojo = castle
+b_ashio_mura = city
 
 # Misc
 culture = scorpion_soshi

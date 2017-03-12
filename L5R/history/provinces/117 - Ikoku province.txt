@@ -4,10 +4,14 @@
 title = c_ikoku_province
 
 # Settlements
-max_settlements = 2
+max_settlements = 6
 
-b_castle_92 = castle
-b_town_92 = city
+b_shiro_moto = castle
+b_toshi_no_aida_ni_kawa = city
+b_shi_tien_yen_wang_temple = temple
+b_mura_nisa_kawa_nemui = castle
+b_kaiten_mura = city
+b_watarimono_mura = temple
 
 # Misc
 culture = unicorn_moto

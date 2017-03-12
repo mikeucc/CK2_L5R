@@ -6,8 +6,8 @@ title = c_chuuhan_province
 # Settlements
 max_settlements = 2
 
-b_castle_51 = castle
-b_town_51 = city
+b_kyuden_chuuhan = castle
+b_quiet_stream_village = city
 
 # Misc
 culture = mantis_tsuruchi

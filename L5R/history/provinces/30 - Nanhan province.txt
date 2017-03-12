@@ -6,8 +6,8 @@ title = c_nanhan_province
 # Settlements
 max_settlements = 2
 
-b_castle_5 = castle
-b_town_5 = city
+b_shiro_ashidaka = castle
+#b_nanhan_province = city
 
 # Misc
 culture = crane_Kakita
