@@ -1,0 +1,16 @@
+# c_enkaku_province
+
+# County Title
+title = c_enkaku_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_93 = castle
+b_town_93 = city
+
+# Misc
+culture = unicorn_moto
+religion = the_kami
+
+#History

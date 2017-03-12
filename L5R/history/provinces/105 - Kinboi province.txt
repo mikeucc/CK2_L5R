@@ -1,0 +1,16 @@
+# c_kinboi_province
+
+# County Title
+title = c_kinboi_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_80 = castle
+b_town_80 = city
+
+# Misc
+culture = scorpion_soshi
+religion = the_kami
+
+#History

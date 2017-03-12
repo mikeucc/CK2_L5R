@@ -1,0 +1,16 @@
+# c_kunizakai_province
+
+# County Title
+title = c_kunizakai_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_73 = castle
+b_town_73 = city
+
+# Misc
+culture = scorpion_bayushi
+religion = the_kami
+
+#History

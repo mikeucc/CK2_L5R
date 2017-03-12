@@ -1,0 +1,16 @@
+# c_mihari_province
+
+# County Title
+title = c_mihari_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_59 = castle
+b_town_59 = city
+
+# Misc
+culture = phoenix_isawa
+religion = the_kami
+
+#History

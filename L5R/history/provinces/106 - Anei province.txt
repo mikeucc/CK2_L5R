@@ -1,0 +1,16 @@
+# c_anei_province
+
+# County Title
+title = c_anei_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_81 = castle
+b_town_81 = city
+
+# Misc
+culture = scorpion_soshi
+religion = the_kami
+
+#History

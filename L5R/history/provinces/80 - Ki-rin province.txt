@@ -1,0 +1,16 @@
+# c_ki_rin_province
+
+# County Title
+title = c_ki_rin_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_55 = castle
+b_town_55 = city
+
+# Misc
+culture = phoenix_asako
+religion = the_kami
+
+#History

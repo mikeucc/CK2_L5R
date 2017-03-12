@@ -7,8 +7,8 @@ c_anei_province;Anei province;Anei province;Anei province;;Anei province;;;;;;;;
 c_anei_province_adj;Anei provincean;;Anei provincer;;;;;;;;;;;x
 c_anshin_province;Anshin province;Anshin province;Anshin province;;Anshin province;;;;;;;;;x
 c_anshin_province_adj;Anshin provincean;;Anshin provincer;;;;;;;;;;;x
-c_anshin_province_2;Anshin province;Anshin province;Anshin province;;Anshin province;;;;;;;;;x
-c_anshin_province_2_adj;Anshin provincean;;Anshin provincer;;;;;;;;;;;x
+c_anshini_province;Anshini province;Anshini province;Anshini province;;Anshini province;;;;;;;;;x
+c_anshini_province_adj;Anshini provincean;;Anshini provincer;;;;;;;;;;;x
 c_aoijiroi_province;Aoijiroi province;Aoijiroi province;Aoijiroi province;;Aoijiroi province;;;;;;;;;x
 c_aoijiroi_province_adj;Aoijiroi provincean;;Aoijiroi provincer;;;;;;;;;;;x
 c_ashinagabachi_province;Ashinagabachi province;Ashinagabachi province;Ashinagabachi province;;Ashinagabachi province;;;;;;;;;x
@@ -55,10 +55,10 @@ c_gakka_province;Gakka province;Gakka province;Gakka province;;Gakka province;;;
 c_gakka_province_adj;Gakka provincean;;Gakka provincer;;;;;;;;;;;x
 c_garanto_province;Garanto province;Garanto province;Garanto province;;Garanto province;;;;;;;;;x
 c_garanto_province_adj;Garanto provincean;;Garanto provincer;;;;;;;;;;;x
-c_garanto_province_2;Garanto province;Garanto province;Garanto province;;Garanto province;;;;;;;;;x
-c_garanto_province_2_adj;Garanto provincean;;Garanto provincer;;;;;;;;;;;x
-c_garanto_province_3;Garanto province;Garanto province;Garanto province;;Garanto province;;;;;;;;;x
-c_garanto_province_3_adj;Garanto provincean;;Garanto provincer;;;;;;;;;;;x
+c_garantoo_province;Garantoo province;Garantoo province;Garantoo province;;Garantoo province;;;;;;;;;x
+c_garantoo_province_adj;Garantoo provincean;;Garantoo provincer;;;;;;;;;;;x
+c_garantu_province;Garantu province;Garantu province;Garantu province;;Garantu province;;;;;;;;;x
+c_garantu_province_adj;Garantu provincean;;Garantu provincer;;;;;;;;;;;x
 c_gisei_province;Gisei province;Gisei province;Gisei province;;Gisei province;;;;;;;;;x
 c_gisei_province_adj;Gisei provincean;;Gisei provincer;;;;;;;;;;;x
 c_gotei_province;Gotei province;Gotei province;Gotei province;;Gotei province;;;;;;;;;x
@@ -135,10 +135,10 @@ c_ken_ryu_province;Ken-ryu province;Ken-ryu province;Ken-ryu province;;Ken-ryu p
 c_ken_ryu_province_adj;Ken-ryu provincean;;Ken-ryu provincer;;;;;;;;;;;x
 c_ki_rin_province;Ki-rin province;Ki-rin province;Ki-rin province;;Ki-rin province;;;;;;;;;x
 c_ki_rin_province_adj;Ki-rin provincean;;Ki-rin provincer;;;;;;;;;;;x
+c_kinboi_province;Kinboi province;Kinboi province;Kinboi province;;Kinboi province;;;;;;;;;x
+c_kinboi_province_adj;Kinboi provincean;;Kinboi provincer;;;;;;;;;;;x
 c_kinbou_province;Kinbou province;Kinbou province;Kinbou province;;Kinbou province;;;;;;;;;x
 c_kinbou_province_adj;Kinbou provincean;;Kinbou provincer;;;;;;;;;;;x
-c_kinbou_province_2;Kinbou province;Kinbou province;Kinbou province;;Kinbou province;;;;;;;;;x
-c_kinbou_province_2_adj;Kinbou provincean;;Kinbou provincer;;;;;;;;;;;x
 c_kinenkan_province;Kinenkan province;Kinenkan province;Kinenkan province;;Kinenkan province;;;;;;;;;x
 c_kinenkan_province_adj;Kinenkan provincean;;Kinenkan provincer;;;;;;;;;;;x
 c_kinkaku_province;Kinkaku province;Kinkaku province;Kinkaku province;;Kinkaku province;;;;;;;;;x
@@ -153,8 +153,8 @@ c_koubaku_province;Koubaku province;Koubaku province;Koubaku province;;Koubaku p
 c_koubaku_province_adj;Koubaku provincean;;Koubaku provincer;;;;;;;;;;;x
 c_kougen_province;Kougen province;Kougen province;Kougen province;;Kougen province;;;;;;;;;x
 c_kougen_province_adj;Kougen provincean;;Kougen provincer;;;;;;;;;;;x
-c_kougen_province_2;Kougen province;Kougen province;Kougen province;;Kougen province;;;;;;;;;x
-c_kougen_province_2_adj;Kougen provincean;;Kougen provincer;;;;;;;;;;;x
+c_kougeun_province;Kougeun province;Kougeun province;Kougeun province;;Kougeun province;;;;;;;;;x
+c_kougeun_province_adj;Kougeun provincean;;Kougeun provincer;;;;;;;;;;;x
 c_kouryo_province;Kouryo province;Kouryo province;Kouryo province;;Kouryo province;;;;;;;;;x
 c_kouryo_province_adj;Kouryo provincean;;Kouryo provincer;;;;;;;;;;;x
 c_kousou_province;Kousou province;Kousou province;Kousou province;;Kousou province;;;;;;;;;x

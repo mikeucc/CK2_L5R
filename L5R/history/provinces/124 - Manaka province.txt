@@ -1,0 +1,16 @@
+# c_manaka_province
+
+# County Title
+title = c_manaka_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_99 = castle
+b_town_99 = city
+
+# Misc
+culture = unicorn_utaku
+religion = the_kami
+
+#History

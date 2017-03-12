@@ -3,11 +3,17 @@ technology = {
 	titles = {
 		d_akodo_province
 		d_asahina_province
+		d_asako_province
+		d_bayushi_province
 		d_daidoji_province
 		d_doji_province
 		d_hida_province
 		d_hiruma_province
+		d_ide_province
 		d_ikoma_province
+		d_imperial
+		d_isawa_province
+		d_iuchi_province
 		d_kaiu_province
 		d_kakita_province
 		d_kitsu_province
@@ -15,8 +21,17 @@ technology = {
 		d_kuni_province
 		d_matsu_province
 		d_mirumoto_province
+		d_moto_province
+		d_shiba_province
+		d_shinjo_province
+		d_shosuro_province
+		d_soshi_province
 		d_tamori_province
+		d_tsuruchi_province
+		d_utaku_province
 		d_yasuki_province
+		d_yogo_province
+		d_yoritomo_province
 	}
 	1060 = {
 		military = 0.5

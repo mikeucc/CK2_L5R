@@ -1,0 +1,16 @@
+# c_shinten_province
+
+# County Title
+title = c_shinten_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_88 = castle
+b_town_88 = city
+
+# Misc
+culture = unicorn_iuchi
+religion = the_kami
+
+#History

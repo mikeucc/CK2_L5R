@@ -1,0 +1,16 @@
+# c_anshini_province
+
+# County Title
+title = c_anshini_province
+
+# Settlements
+max_settlements = 2
+
+b_castle_58 = castle
+b_town_58 = city
+
+# Misc
+culture = phoenix_isawa
+religion = the_kami
+
+#History
