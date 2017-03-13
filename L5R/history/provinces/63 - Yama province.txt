@@ -11,7 +11,7 @@ b_yama_tosho = city
 b_shiro_matsu = temple
 
 # Misc
-culture = lion_Matsu
+culture = lion_matsu
 religion = the_kami
 
 #History

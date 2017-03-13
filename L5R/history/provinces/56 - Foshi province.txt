@@ -10,7 +10,7 @@ b_kyuden_foshi = castle
 b_foshi = city
 
 # Misc
-culture = lion_Kitsu
+culture = lion_kitsu
 religion = the_kami
 
 #History

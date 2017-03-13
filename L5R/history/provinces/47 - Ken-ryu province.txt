@@ -11,7 +11,7 @@ b_shiro_akodo = castle
 #b_ken_ryu_province_2 = temple
 
 # Misc
-culture = lion_Akodo
+culture = lion_akodo
 religion = the_kami
 
 #History

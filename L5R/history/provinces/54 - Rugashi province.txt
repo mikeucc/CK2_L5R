@@ -12,7 +12,7 @@ b_shiden_yuisho = temple
 #b_rugashi_province = castle
 
 # Misc
-culture = lion_Kitsu
+culture = lion_kitsu
 religion = the_kami
 
 #History

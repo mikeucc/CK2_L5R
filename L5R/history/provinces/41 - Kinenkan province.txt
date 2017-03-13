@@ -13,7 +13,7 @@ b_tamori_gardens = castle
 b_mountain_song_monastery = city
 
 # Misc
-culture = dragon_Tamori
+culture = dragon_agasha
 religion = the_kami
 
 #History

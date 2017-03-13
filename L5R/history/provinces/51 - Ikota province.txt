@@ -10,7 +10,7 @@ b_shiro_kyube = castle
 b_great_hall_of_records = city
 
 # Misc
-culture = lion_Ikoma
+culture = lion_ikoma
 religion = the_kami
 
 #History

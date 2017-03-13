@@ -12,7 +12,7 @@ b_daidoji_training_grounds = city
 #b_ichigun_province_2 = castle
 
 # Misc
-culture = crane_Daidoji
+culture = crane_daidoji
 religion = the_kami
 
 #History

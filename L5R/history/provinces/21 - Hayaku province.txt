@@ -13,7 +13,7 @@ b_nobuto_toshi_2 = castle
 b_shiro_giji = city
 
 # Misc
-culture = crane_Daidoji
+culture = crane_daidoji
 religion = the_kami
 
 #History

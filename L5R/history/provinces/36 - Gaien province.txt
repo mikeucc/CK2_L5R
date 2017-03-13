@@ -11,7 +11,7 @@ b_great_climb = city
 b_temple_to_benten = temple
 
 # Misc
-culture = dragon_Mirumoto
+culture = dragon_mirumoto
 religion = the_kami
 
 #History

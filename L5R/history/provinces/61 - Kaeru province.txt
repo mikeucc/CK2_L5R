@@ -12,7 +12,7 @@ b_kitsu_tombs = temple
 #b_kaeru_province = castle
 
 # Misc
-culture = lion_Matsu
+culture = lion_matsu
 religion = the_kami
 
 #History

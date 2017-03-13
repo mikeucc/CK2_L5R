@@ -12,7 +12,7 @@ b_last_ridge_village = temple
 b_northern_towers_of_flame = castle
 
 # Misc
-culture = dragon_Mirumoto
+culture = dragon_mirumoto
 religion = the_kami
 
 #History

@@ -10,7 +10,7 @@ b_toi_koku = castle
 #b_sinjutsu_province = city
 
 # Misc
-culture = dragon_Kitsuki
+culture = dragon_kitsuki
 religion = the_kami
 
 #History

@@ -11,7 +11,7 @@ b_plains_of_bloodied_honour = city
 b_kyuden_hayai = temple
 
 # Misc
-culture = lion_Kitsu
+culture = lion_kitsu
 religion = the_kami
 
 #History

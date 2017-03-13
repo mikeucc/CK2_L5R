@@ -11,7 +11,7 @@ b_heibeisu = city
 b_wolf_keep = temple
 
 # Misc
-culture = dragon_Mirumoto
+culture = dragon_mirumoto
 religion = the_kami
 
 #History

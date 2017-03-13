@@ -11,7 +11,7 @@ b_blue_crysanthemum_village = city
 b_bishamon_seido = temple
 
 # Misc
-culture = lion_Kitsu
+culture = lion_kitsu
 religion = the_kami
 
 #History

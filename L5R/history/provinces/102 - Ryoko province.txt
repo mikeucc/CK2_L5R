@@ -10,7 +10,7 @@ b_kyuden_ryoko = castle
 b_ryoko_owari_toshi = city
 
 # Misc
-culture = scorpion_shosuruo
+culture = scorpion_shosuro
 religion = the_kami
 
 #History

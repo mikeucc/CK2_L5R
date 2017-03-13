@@ -10,7 +10,7 @@ b_ookami_toshi = castle
 #b_kougen_province = city
 
 # Misc
-culture = crane_Doji
+culture = crane_doji
 religion = the_kami
 
 #History

@@ -10,7 +10,7 @@ b_shiro_ashidaka = castle
 #b_nanhan_province = city
 
 # Misc
-culture = crane_Kakita
+culture = crane_kakita
 religion = the_kami
 
 #History

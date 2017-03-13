@@ -13,7 +13,7 @@ b_central_castle = temple
 #b_tonfajutsen_3 = city
 
 # Misc
-culture = lion_Matsu
+culture = lion_matsu
 religion = the_kami
 
 #History

@@ -10,7 +10,7 @@ b_rengai_mura = castle
 #b_renga_province = city
 
 # Misc
-culture = lion_Akodo
+culture = lion_akodo
 religion = the_kami
 
 #History

@@ -10,7 +10,7 @@ b_nihai_tower = castle
 #b_town = city
 
 # Misc
-culture = scorpion_shosuruo
+culture = scorpion_shosuro
 religion = the_kami
 
 #History

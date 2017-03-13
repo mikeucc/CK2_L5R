@@ -10,7 +10,7 @@ b_tetsu_kama_mura = castle
 b_iron_mountain_dojo = city
 
 # Misc
-culture = dragon_Mirumoto
+culture = dragon_mirumoto
 religion = the_kami
 
 #History

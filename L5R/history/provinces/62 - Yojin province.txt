@@ -10,7 +10,7 @@ b_kyuden_yojin = castle
 b_shiro_no_yojin = city
 
 # Misc
-culture = lion_Matsu
+culture = lion_matsu
 religion = the_kami
 
 #History

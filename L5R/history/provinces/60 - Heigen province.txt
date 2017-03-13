@@ -10,7 +10,7 @@ b_shiro_koritome = castle
 #b_heigen_province = city
 
 # Misc
-culture = lion_Matsu
+culture = lion_matsu
 religion = the_kami
 
 #History

@@ -13,7 +13,7 @@ b_seven_fold_palace = temple
 #b_oyomesan_province_2 = city
 
 # Misc
-culture = crane_Doji
+culture = crane_doji
 religion = the_kami
 
 #History

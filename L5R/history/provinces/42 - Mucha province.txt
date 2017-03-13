@@ -15,7 +15,7 @@ b_temple_of_the_sun = temple
 b_togashi_testing_grounds = castle
 
 # Misc
-culture = dragon_Togashi
+culture = dragon_togashi
 religion = the_kami
 
 #History

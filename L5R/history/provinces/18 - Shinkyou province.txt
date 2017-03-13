@@ -12,7 +12,7 @@ b_temple_of_jurojin = temple
 b_garden_under_shadow_city = castle
 
 # Misc
-culture = crane_Asahina
+culture = crane_asahina
 religion = the_kami
 
 #History

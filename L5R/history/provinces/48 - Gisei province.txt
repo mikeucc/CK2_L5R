@@ -10,7 +10,7 @@ b_toshi_no_meiyo_gisei = castle
 #b_gisei_province = city
 
 # Misc
-culture = lion_Ikoma
+culture = lion_ikoma
 religion = the_kami
 
 #History

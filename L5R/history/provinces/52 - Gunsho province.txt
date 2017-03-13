@@ -12,7 +12,7 @@ b_murame_toshi = temple
 #b_gunsho_province = castle
 
 # Misc
-culture = lion_Ikoma
+culture = lion_ikoma
 religion = the_kami
 
 #History

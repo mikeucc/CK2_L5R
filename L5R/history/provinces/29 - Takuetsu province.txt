@@ -13,7 +13,7 @@ b_seido_kakita = castle
 b_steel_crane_forge = city
 
 # Misc
-culture = crane_Kakita
+culture = crane_kakita
 religion = the_kami
 
 #History

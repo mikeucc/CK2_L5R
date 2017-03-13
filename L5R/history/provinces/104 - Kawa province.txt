@@ -11,7 +11,7 @@ b_ginasutra = city
 b_shosuro_gardens = temple
 
 # Misc
-culture = scorpion_shosuruo
+culture = scorpion_shosuro
 religion = the_kami
 
 #History

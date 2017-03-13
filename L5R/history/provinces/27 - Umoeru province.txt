@@ -10,7 +10,7 @@ b_umoeru_mura = castle
 #b_umoeru_province = city
 
 # Misc
-culture = crane_Doji
+culture = crane_doji
 religion = the_kami
 
 #History

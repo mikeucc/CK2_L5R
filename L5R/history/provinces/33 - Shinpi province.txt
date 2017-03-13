@@ -15,7 +15,7 @@ b_keen_eyes_strike_village = temple
 b_kaagis_soul_shrine = castle
 
 # Misc
-culture = dragon_Kitsuki
+culture = dragon_kitsuki
 religion = the_kami
 
 #History

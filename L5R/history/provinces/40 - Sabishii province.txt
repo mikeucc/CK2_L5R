@@ -11,7 +11,7 @@ b_serpents_tail_mine = city
 b_crystal_cave = temple
 
 # Misc
-culture = dragon_Tamori
+culture = dragon_agasha
 religion = the_kami
 
 #History

@@ -11,7 +11,7 @@ b_three_sides_watchtower = city
 #b_kosaten_province = temple
 
 # Misc
-culture = crane_Daidoji
+culture = crane_daidoji
 religion = the_kami
 
 #History

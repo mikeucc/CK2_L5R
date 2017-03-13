@@ -10,7 +10,7 @@ b_oiku_village = castle
 #b_oiku_province = city
 
 # Misc
-culture = lion_Akodo
+culture = lion_akodo
 religion = the_kami
 
 #History

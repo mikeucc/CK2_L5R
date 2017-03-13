@@ -10,7 +10,7 @@ b_great_falls_castle = castle
 #b_kaitou_province = city
 
 # Misc
-culture = dragon_Kitsuki
+culture = dragon_kitsuki
 religion = the_kami
 
 #History

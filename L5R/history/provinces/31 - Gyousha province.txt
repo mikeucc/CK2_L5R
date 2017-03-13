@@ -11,7 +11,7 @@ b_cold_wind_city = city
 b_asahina_battle_school = temple
 
 # Misc
-culture = crane_Kakita
+culture = crane_kakita
 religion = the_kami
 
 #History

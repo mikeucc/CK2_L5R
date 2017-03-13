@@ -13,7 +13,7 @@ b_shiro_katogama = castle
 b_kyuden_otomo = city
 
 # Misc
-culture = crane_Doji
+culture = crane_doji
 religion = the_kami
 
 #History

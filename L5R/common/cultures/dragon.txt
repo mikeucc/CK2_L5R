@@ -1,10 +1,10 @@
-crab = {
+dragon = {
 	graphical_cultures = { mongolgfx } # units
 	
-	crab_hida = {
+	dragon_kitsuki = {
 					graphical_cultures = { mongolgfx } # units
 		
-					color = { 0 0 0.5 }
+					color = { 0.95 0.8 0 }
 		
 					male_names = {
 						Abun Aikoto Akagi Aki Amoro Anou Anzai Aramoro Asano Ashihei Atarasi Atsuki Atsumichi Atsumori Atsutane 
@@ -55,29 +55,29 @@ crab = {
 						Yae Yaheiko Yaruko Yasuko Yasuyo Yue Yumi 
 					}
 		
-		from_dynasty_prefix = "of "
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 15
-		mat_grf_name_chance = 10
-		father_name_chance = 0
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 15
-		mat_grm_name_chance = 10
-		mother_name_chance = 0
-		
-		modifier = default_culture_modifier
-		character_modifier={
-							martial = 2
-							health=2
-							}
+					from_dynasty_prefix = "of "
+					
+					# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+					pat_grf_name_chance = 15
+					mat_grf_name_chance = 10
+					father_name_chance = 0
+					
+					# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+					pat_grm_name_chance = 15
+					mat_grm_name_chance = 10
+					mother_name_chance = 0
+					
+					modifier = default_culture_modifier
+					character_modifier={
+										intrigue=2
+										learning=2
+										}
 	}
 	
-	crab_kaiu = {
+	dragon_mirumoto = {
 		graphical_cultures = { mongolgfx } # units
 		
-		color = { 0.2 0.2 0.8 }
+		color = { 0.75 0.7 0.1 }
 		
 		male_names = {
 			Abun Aikoto Akagi Aki Amoro Anou Anzai Aramoro Asano Ashihei Atarasi Atsuki Atsumichi Atsumori Atsutane 
@@ -142,15 +142,16 @@ crab = {
 		
 		modifier = default_culture_modifier
 		character_modifier={
-							martial = 2
-							learning=2
+								martial=2
+								diplomacy=1
+								learning=1
 							}
 	}
 	
-	crab_hiruma = {
+	dragon_agasha = {
 		graphical_cultures = { mongolgfx } # units
 		
-		color = { 0.5 0.5 0.8 }
+		color = { 0.85 0.65 0 }
 		
 		male_names = {
 			Abun Aikoto Akagi Aki Amoro Anou Anzai Aramoro Asano Ashihei Atarasi Atsuki Atsumichi Atsumori Atsutane 
@@ -215,17 +216,15 @@ crab = {
 		
 		modifier = default_culture_modifier
 		character_modifier={
-							stewardship=1
-							martial=1
-							learning=1
-							health=1
+								learning=3
+								martial=1
 							}
 	}	
 	
-	crab_yasuki = {
+	dragon_togashi = {
 		graphical_cultures = { mongolgfx } # units
 		
-		color = { 0.5 0.25 0.9 }
+		color = { 0.8 0.6 0.2 }
 		
 		male_names = {
 			Abun Aikoto Akagi Aki Amoro Anou Anzai Aramoro Asano Ashihei Atarasi Atsuki Atsumichi Atsumori Atsutane 
@@ -290,15 +289,15 @@ crab = {
 		
 		modifier = default_culture_modifier
 		character_modifier={
-							stewardship = 2
-							intrigue=2
+								learning=2
+								intrigue=2
 							}
 	}
 	
-	crab_kuni ={
+	dragon_tamori ={
 		graphical_cultures = { mongolgfx } # units
 		
-		color = { 0.4 0.3 0.8 }
+		color = { 0.8 0.9 0.0 }
 		
 		male_names = {
 			Abun Aikoto Akagi Aki Amoro Anou Anzai Aramoro Asano Ashihei Atarasi Atsuki Atsumichi Atsumori Atsutane 
@@ -363,8 +362,9 @@ crab = {
 		
 		modifier = default_culture_modifier
 		character_modifier={
-							intrigue = 2
-							learning=2
+								learning=2
+								martial=1
+								health=1
 							}
 	
 	

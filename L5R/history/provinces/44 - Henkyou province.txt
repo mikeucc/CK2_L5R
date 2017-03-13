@@ -13,7 +13,7 @@ b_shiro_no_shinin = castle
 #b_henkyou_province = city
 
 # Misc
-culture = lion_Akodo
+culture = lion_akodo
 religion = the_kami
 
 #History

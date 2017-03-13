@@ -11,7 +11,7 @@ b_ice_fish_village = city
 b_doji_plains = temple
 
 # Misc
-culture = crane_Kakita
+culture = crane_kakita
 religion = the_kami
 
 #History

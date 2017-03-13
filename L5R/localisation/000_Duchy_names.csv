@@ -1,4 +1,6 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+d_agasha_province;Agasha Province;Agasha Province;Agasha Province;;Agasha Province;;;;;;;;;x
+d_agasha_province_adj;Agasha Provincean;;Agasha Provincer;;;;;;;;;;;x
 d_akodo_province;Akodo Province;Akodo Province;Akodo Province;;Akodo Province;;;;;;;;;x
 d_akodo_province_adj;Akodo Provincean;;Akodo Provincer;;;;;;;;;;;x
 d_asahina_province;Asahina Province;Asahina Province;Asahina Province;;Asahina Province;;;;;;;;;x
@@ -57,8 +59,6 @@ d_shosuro_province;Shosuro Province;Shosuro Province;Shosuro Province;;Shosuro P
 d_shosuro_province_adj;Shosuro Provincean;;Shosuro Provincer;;;;;;;;;;;x
 d_soshi_province;Soshi Province;Soshi Province;Soshi Province;;Soshi Province;;;;;;;;;x
 d_soshi_province_adj;Soshi Provincean;;Soshi Provincer;;;;;;;;;;;x
-d_tamori_province;Tamori Province;Tamori Province;Tamori Province;;Tamori Province;;;;;;;;;x
-d_tamori_province_adj;Tamori Provincean;;Tamori Provincer;;;;;;;;;;;x
 d_tsuruchi_province;Tsuruchi Province;Tsuruchi Province;Tsuruchi Province;;Tsuruchi Province;;;;;;;;;x
 d_tsuruchi_province_adj;Tsuruchi Provincean;;Tsuruchi Provincer;;;;;;;;;;;x
 d_utaku_province;Utaku Province;Utaku Province;Utaku Province;;Utaku Province;;;;;;;;;x

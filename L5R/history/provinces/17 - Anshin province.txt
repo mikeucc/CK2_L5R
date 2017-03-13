@@ -13,7 +13,7 @@ b_heavens_wisdom_temple = castle
 #b_anshin_province = city
 
 # Misc
-culture = crane_Asahina
+culture = crane_asahina
 religion = the_kami
 
 #History

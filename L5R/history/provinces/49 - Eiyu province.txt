@@ -10,7 +10,7 @@ b_mura_sano_eiyu_ni_suru = castle
 #b_eiyu_province = city
 
 # Misc
-culture = lion_Ikoma
+culture = lion_ikoma
 religion = the_kami
 
 #History

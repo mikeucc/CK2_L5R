@@ -381,7 +381,7 @@ e_rokugan = {
 		color2={ 255 255 255 }
 		
 		capital = 17 # c_anshin_province
-		culture = crane_Asahina
+		culture = crane_asahina
 		
 		d_asahina_province = {
 			color={ 247 190 250 }
@@ -625,7 +625,7 @@ e_rokugan = {
 		color2={ 255 255 255 }
 		
 		capital = 33 # c_shinpi_province
-		culture = dragon_Kitsuki
+		culture = dragon_kitsuki
 		
 		c_mucha_province = { # 42
 			color={ 200 255 200 }
@@ -696,6 +696,45 @@ e_rokugan = {
 				}
 			}
 		}
+		d_agasha_province = {
+			color={ 190 9 155 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 40 province_id = 41 } }
+				}
+			}
+			capital = 40 # c_sabishii_province
+			
+			c_sabishii_province = { # 40
+				color={ 200 255 160 }
+				color2={ 255 255 255 }
+				
+				b_yamasura = {
+				}
+				b_serpents_tail_mine = {
+				}
+				b_crystal_cave = {
+				}
+			}
+			c_kinenkan_province = { # 41
+				color={ 200 255 180 }
+				color2={ 255 255 255 }
+				
+				b_shiro_tamori = {
+				}
+				b_wraith_of_the_kami = {
+				}
+				b_suigeki_toshi = {
+				}
+				b_tamori_gardens = {
+				}
+				b_mountain_song_monastery = {
+				}
+			}
+		}
 		d_mirumoto_province = {
 			color={ 190 9 75 }
 			color2={ 255 255 255 }
@@ -753,52 +792,13 @@ e_rokugan = {
 				}
 			}
 		}
-		d_tamori_province = {
-			color={ 190 9 155 }
-			color2={ 255 255 255 }
-			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 40 province_id = 41 } }
-				}
-			}
-			capital = 40 # c_sabishii_province
-			
-			c_sabishii_province = { # 40
-				color={ 200 255 160 }
-				color2={ 255 255 255 }
-				
-				b_yamasura = {
-				}
-				b_serpents_tail_mine = {
-				}
-				b_crystal_cave = {
-				}
-			}
-			c_kinenkan_province = { # 41
-				color={ 200 255 180 }
-				color2={ 255 255 255 }
-				
-				b_shiro_tamori = {
-				}
-				b_wraith_of_the_kami = {
-				}
-				b_suigeki_toshi = {
-				}
-				b_tamori_gardens = {
-				}
-				b_mountain_song_monastery = {
-				}
-			}
-		}
 	}
 	k_the_lion = {
 		color={ 158 218 85 }
 		color2={ 255 255 255 }
 		
 		capital = 43 # c_oiku_province
-		culture = lion_Akodo
+		culture = lion_akodo
 		
 		d_akodo_province = {
 			color={ 178 198 95 }

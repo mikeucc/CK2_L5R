@@ -11,7 +11,7 @@ b_western_castle = city
 b_lookout_mountain_castle = temple
 
 # Misc
-culture = lion_Ikoma
+culture = lion_ikoma
 religion = the_kami
 
 #History
