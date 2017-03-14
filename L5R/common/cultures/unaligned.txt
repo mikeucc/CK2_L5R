@@ -1,5 +1,4 @@
 unaligned = {
-	graphical_cultures = { mongolgfx } # units
 	
 	imperial = {
 					graphical_cultures = { mongolgfx } # units
@@ -152,35 +151,35 @@ unaligned = {
 	}
 	
 	shadowlands = {
-					graphical_cultures = { mongolgfx } # units
+					graphical_cultures = { shadowlandsgfx } # units
 		
 					color = { 0.1 0.1 0.1 }
 		
 					male_names = {
-						Abun Aikoto Akagi Aki Amoro Anou Anzai Aramoro Asano Ashihei Atarasi Atsuki Atsumichi Atsumori Atsutane 
-						Bachiatari Bachida Bairei Bakin Banuken Benjiro Bokaru Bugati 
-						Chagatai Chen Chimoto Chomei Chuai 
-						Daigo Daisetsu Daishiki Daizu Dajan Dayu Domogu Doreni Doukohito 
-						Eitoku Ekei Ekiken Enai Endo
-						Fubatsu Fuchida Fujiki Fumetsu Fumisato Fumitake Fumoki
-						Garou Gempachi Genichi Genji Genzo Ginawa Gineza Gobura Godaigo Goemon Gombei Gosuta Gudeta
-						Hachi Handen Harike Haru Haruo Haku Hatsuo Hayabusa Hayaku Heikichi Heuji Hideaki Hideki Hio Hira Hiroji Hisayuki Hitaken Hitomaro Hitoshi Hiyao Hogai Hohiro Hoitsu Horii Hosaru Hotei Hotoke Hoturi
-						Ichido Ichihara Ichiro Ichita Ikage Ikkaku Inukai Isamu Ishi Isoshi Itsuma
-						Jaijimin Jakuchu Jinn-Kuen Josuke Jotaro Junji Junzo Jurian Jurobei 
-						Kabe Kage Kagore Kaiden Kaihei Kaii Kaikawa Kaiketsu Kaimetsu-Uo Kaito Kakeguchi Kamatari Kamoru Kamura Kashin Katai Katomara Katsura Kaukatsu Kaze Kazo Kazu Kazuma Keitaro Kengo Kenru Kenzan Kikaze Kimpira Kinashita Kinen Kirino Kisada Kitao Kiyoshi Koin Koji Kojima Kojiro Konetsu Kosedo Kosho Kozan Kukojin Kuma Kuman Kuon Kuoshi Kurama Kuri Kuroda Kurohito Kuwanan Kuzan Kuzume Kyobu Kyuwa 
-						Latomu  
-						Machigama Manabu Maruku Masado Masagaro Masaki Masaru Masatari Masashigi Matahachi Matyu Midoru Mifune Mikio Minoru Misashi Mizumi Mokuna Moshibaru Motaro Munabu Nagori
-						Naito Nakanu Nakiro Namboku Naoki Naoshige Natsukiwa Nezu Nichi Nichiren Nikoma Nio Nizomi Nobuhide Nokatsu Norio
-						Oda Oguri Okakura Okashi Okichi Osano-Wo Osen Oshuda Osuno Osuki Otemi Otojiro Otoya 
-						Quehao
-						Raigu Reju Ren Renga Rihito Rikiya Rikyu Rioto Rhyodotsu Rohata Roukai Ryobu Ryojiro Ryuichi Ryunosuke Ryute 
-						Sabaru Sadaharu Sadao Saibankan Sakamoto Satsu Satsume Seiki Seishiro Sekawa Sekidera Sensaichi Sensin Sesshu Shihei Shimura Shogusha Shoichi Shoju Shotoku Shuzo Soetsu Soh Sokokai Sosuke Sozen Sudaro Sugimoto Sugu Sukune Suman Sumata Sunao Sunshin 
-						Tadachika Tadaka Tadashiro Taikan Tajima Taka Takaaki Takaniro Takasho Takeji Takemura Taki Takihiro Takuji Takuma Tamako Tampako Tamura Tanaka Tanari Tanaro Tanitsu Taru Tasuku Tatsune Tatsuya Tatsuzo Tenburo Tenkazu Tenshu Tensin Tenzo Teriuhi Teruo Tetsumaru Todori Toju Tokaji Toketsu Tokichiro Tokimune Tokito Tomo Tonoji Toshi Toshinobu Toyoaki Tozasu Tsanumi Tsubakita Tsubaru Tsuburu Tsukioka Tsunemura Tsuneo Tsunesaburo Tsuru 
-						Uji Umasu Umibe Unari Unkei Usan Utaemon Utagu Utsu
-						Wakou Waotaka Wasutsubo Wukau
-						Xie Xushen
-						Yachi Yagimaki Yaichiro Yajinden Yakamo Yasamura Yasashii Yasuhigo Yasuhiro Yasurugi Yataro Yojiro Yome Yori Yosei Yoshi Yoshiaga Yoshimitsu Yoshino Yotogi Yugira Yugure Yukinaga Yuo Yurei Yuzan 
-						Zoushi Zunguri
+						"Abun no Oni" "Aikoto no Oni" "Akagi no Oni" "Aki no Oni" "Amoro no Oni" "Anou no Oni" "Anzai no Oni" "Aramoro no Oni" "Asano no Oni" "Ashihei no Oni" "Atarasi no Oni" "Atsuki no Oni" "Atsumichi no Oni" "Atsumori no Oni" "Atsutane no Oni" 
+						"Bachiatari no Oni" "Bachida no Oni" "Bairei no Oni" "Bakin no Oni" "Banuken no Oni" "Benjiro no Oni" "Bokaru no Oni" "Bugati no Oni" 
+						"Chagatai no Oni" "Chen no Oni" "Chimoto no Oni" "Chomei no Oni" "Chuai no Oni" 
+						"Daigo no Oni" "Daisetsu no Oni" "Daishiki no Oni" "Daizu no Oni" "Dajan no Oni" "Dayu no Oni" "Domogu no Oni" "Doreni no Oni" "Doukohito no Oni" 
+						"Eitoku no Oni" "Ekei no Oni" "Ekiken no Oni" "Enai no Oni" "Endo no Oni"
+						"Fubatsu no Oni" "Fuchida no Oni" "Fujiki no Oni" "Fumetsu no Oni" "Fumisato no Oni" "Fumitake no Oni" "Fumoki no Oni"
+						"Garou no Oni" "Gempachi no Oni" "Genichi no Oni" "Genji no Oni" "Genzo no Oni" "Ginawa no Oni" "Gineza no Oni" "Gobura no Oni" "Godaigo no Oni" "Goemon no Oni" "Gombei no Oni" "Gosuta no Oni" "Gudeta no Oni"
+						"Hachi no Oni" "Handen no Oni" "Harike no Oni" "Haru no Oni" "Haruo no Oni" "Haku no Oni" "Hatsuo no Oni" "Hayabusa no Oni" "Hayaku no Oni" "Heikichi no Oni" "Heuji no Oni" "Hideaki no Oni" "Hideki no Oni" "Hio no Oni" "Hira no Oni" "Hiroji no Oni" "Hisayuki no Oni" "Hitaken no Oni" "Hitomaro no Oni" "Hitoshi no Oni" "Hiyao no Oni" "Hogai no Oni" "Hohiro no Oni" "Hoitsu no Oni" "Horii no Oni" "Hosaru no Oni" "Hotei no Oni" "Hotoke no Oni" "Hoturi no Oni"
+						"Ichido no Oni" "Ichihara no Oni" "Ichiro no Oni" "Ichita no Oni" "Ikage no Oni" "Ikkaku no Oni" "Inukai no Oni" "Isamu no Oni" "Ishi no Oni" "Isoshi no Oni" "Itsuma no Oni"
+						"Jaijimin no Oni" "Jakuchu no Oni" "Jinn-Kuen no Oni" "Josuke no Oni" "Jotaro no Oni" "Junji no Oni" "Junzo no Oni" "Jurian no Oni" "Jurobei no Oni"
+						"Kabe no Oni" "Kage no Oni" "Kagore no Oni" "Kaiden no Oni" "Kaihei no Oni" "Kaii no Oni" "Kaikawa no Oni" "Kaiketsu no Oni" "Kaimetsu-Uo no Oni" "Kaito no Oni" "Kakeguchi no Oni" "Kamatari no Oni" "Kamoru no Oni" "Kamura no Oni" "Kashin no Oni" "Katai no Oni" "Katomara no Oni" "Katsura no Oni" "Kaukatsu no Oni" "Kaze no Oni" "Kazo no Oni" "Kazu no Oni" "Kazuma no Oni" "Keitaro no Oni" "Kengo no Oni" "Kenru no Oni" "Kenzan no Oni" "Kikaze no Oni" "Kimpira no Oni" "Kinashita no Oni" "Kinen no Oni" "Kirino no Oni" "Kisada no Oni" "Kitao no Oni" "Kiyoshi no Oni" "Koin no Oni" "Koji no Oni" "Kojima no Oni" "Kojiro no Oni" "Konetsu no Oni" "Kosedo no Oni" "Kosho no Oni" "Kozan no Oni" "Kukojin no Oni" "Kuma no Oni" "Kuman no Oni" "Kuon no Oni" "Kuoshi no Oni" "Kurama no Oni" "Kuri no Oni" "Kuroda no Oni" "Kurohito no Oni" "Kuwanan no Oni" "Kuzan no Oni" "Kuzume no Oni" "Kyobu no Oni" "Kyuwa no Oni"
+						"Latomu no Oni" 
+						"Machigama no Oni" "Manabu no Oni" "Maruku no Oni" "Masado no Oni" "Masagaro no Oni" "Masaki no Oni" "Masaru no Oni" "Masatari no Oni" "Masashigi no Oni" "Matahachi no Oni" "Matyu no Oni" "Midoru no Oni" "Mifune no Oni" "Mikio no Oni" "Minoru no Oni" "Misashi no Oni" "Mizumi no Oni" "Mokuna no Oni" "Moshibaru no Oni" "Motaro no Oni" "Munabu no Oni" 
+						"Nagori no Oni"	"Naito no Oni" "Nakanu no Oni" "Nakiro no Oni" "Namboku no Oni" "Naoki no Oni" "Naoshige no Oni" "Natsukiwa no Oni" "Nezu no Oni" "Nichi no Oni" "Nichiren no Oni" "Nikoma no Oni" "Nio no Oni" "Nizomi no Oni" "Nobuhide no Oni" "Nokatsu no Oni" "Norio no Oni"
+						"Oda no Oni" "Oguri no Oni" "Okakura no Oni" "Okashi no Oni" "Okichi no Oni" "Osano-Wo no Oni" "Osen no Oni" "Oshuda no Oni" "Osuno no Oni" "Osuki no Oni" "Otemi no Oni" "Otojiro no Oni" "Otoya no Oni"
+						"Quehao no Oni"
+						"Raigu no Oni" "Reju no Oni" "Ren no Oni" "Renga no Oni" "Rihito no Oni" "Rikiya no Oni" "Rikyu no Oni" "Rioto no Oni" "Rhyodotsu no Oni" "Rohata no Oni" "Roukai no Oni" "Ryobu no Oni" "Ryojiro no Oni" "Ryuichi no Oni" "Ryunosuke no Oni" "Ryute no Oni"
+						"Sabaru no Oni" "Sadaharu no Oni" "Sadao no Oni" "Saibankan no Oni" "Sakamoto no Oni" "Satsu no Oni" "Satsume no Oni" "Seiki no Oni" "Seishiro no Oni" "Sekawa no Oni" "Sekidera no Oni" "Sensaichi no Oni" "Sensin no Oni" "Sesshu no Oni" "Shihei no Oni" "Shimura no Oni" "Shogusha no Oni" "Shoichi no Oni" "Shoju no Oni" "Shotoku no Oni" "Shuzo no Oni" "Soetsu no Oni" "Soh no Oni" "Sokokai no Oni" "Sosuke no Oni" "Sozen no Oni" "Sudaro no Oni" "Sugimoto no Oni" "Sugu no Oni" "Sukune no Oni" "Suman no Oni" "Sumata no Oni" "Sunao no Oni" "Sunshin no Oni"
+						"Tadachika no Oni" "Tadaka no Oni" "Tadashiro no Oni" "Taikan no Oni" "Tajima no Oni" "Taka no Oni" "Takaaki no Oni" "Takaniro no Oni" "Takasho no Oni" "Takeji no Oni" "Takemura no Oni" "Taki no Oni" "Takihiro no Oni" "Takuji no Oni" "Takuma no Oni" "Tamako no Oni" "Tampako no Oni" "Tamura no Oni" "Tanaka no Oni" "Tanari no Oni" "Tanaro no Oni" "Tanitsu no Oni" "Taru no Oni" "Tasuku no Oni" "Tatsune no Oni" "Tatsuya no Oni" "Tatsuzo no Oni" "Tenburo no Oni" "Tenkazu no Oni" "Tenshu no Oni" "Tensin no Oni" "Tenzo no Oni" "Teriuhi no Oni" "Teruo no Oni" "Tetsumaru no Oni" "Todori no Oni" "Toju no Oni" "Tokaji no Oni" "Toketsu no Oni" "Tokichiro no Oni" "Tokimune no Oni" "Tokito no Oni" "Tomo no Oni" "Tonoji no Oni" "Toshi no Oni" "Toshinobu no Oni" "Toyoaki no Oni" "Tozasu no Oni" "Tsanumi no Oni" "Tsubakita no Oni" "Tsubaru no Oni" "Tsuburu no Oni" "Tsukioka no Oni" "Tsunemura no Oni" "Tsuneo no Oni" "Tsunesaburo no Oni" "Tsuru no Oni"
+						"Uji no Oni" "Umasu no Oni" "Umibe no Oni" "Unari no Oni" "Unkei no Oni" "Usan no Oni" "Utaemon no Oni" "Utagu no Oni" "Utsu no Oni"
+						"Wakou no Oni" "Waotaka no Oni" "Wasutsubo no Oni" "Wukau no Oni"
+						"Xie no Oni" "Xushen no Oni"
+						"Yachi no Oni" "Yagimaki no Oni" "Yaichiro no Oni" "Yajinden no Oni" "Yakamo no Oni" "Yasamura no Oni" "Yasashii no Oni" "Yasuhigo no Oni" "Yasuhiro no Oni" "Yasurugi no Oni" "Yataro no Oni" "Yojiro no Oni" "Yome no Oni" "Yori no Oni" "Yosei no Oni" "Yoshi no Oni" "Yoshiaga no Oni" "Yoshimitsu no Oni" "Yoshino no Oni" "Yotogi no Oni" "Yugira no Oni" "Yugure no Oni" "Yukinaga no Oni" "Yuo no Oni" "Yurei no Oni" "Yuzan no Oni"
+						"Zoushi no Oni" "Zunguri no Oni"
 					}
 					female_names = {
 						Akemi Akiko Ameiko Amika Angai Aoshi Ariko Asano Aya Ayano

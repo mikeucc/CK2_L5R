@@ -7,7 +7,7 @@ e_rokugan = {
 	color2={ 255 255 20 }
 	
 	capital = 1 # c_garanto_province
-	culture = crab_hida
+	culture = imperial
 	
 	k_the_crab = {
 		color={ 170 50 240 }
@@ -643,7 +643,7 @@ e_rokugan = {
 		color2={ 255 255 255 }
 		
 		capital = 33 # c_shinpi_province
-		culture = dragon_kitsuki
+		culture = dragon_togashi
 		
 		c_mucha_province = { # 42
 			color={ 200 255 200 }

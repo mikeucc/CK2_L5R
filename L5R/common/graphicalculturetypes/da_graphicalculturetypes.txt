@@ -1,0 +1,3 @@
+shadowlandsgfx = {
+	skintone = 1
+	}
