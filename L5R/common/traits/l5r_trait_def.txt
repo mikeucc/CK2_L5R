@@ -1,0 +1,15 @@
+oni_possession = { # Highly event driven
+	personality = yes
+	
+	health=5
+	martial=5
+	intrigue=8
+	
+	ai_rationality = -40
+	
+	male_insult = INSULT_WARLOCK
+	female_insult = INSULT_DEVIL_WOMAN
+	child_insult = INSULT_DEVIL
+	male_insult_adj = INSULT_DEMONIC
+	female_insult_adj = INSULT_DEMONIC
+}

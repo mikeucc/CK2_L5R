@@ -7,17 +7,6 @@ bm_CLAN_WAR = {
 	
 	selectable_character = {
 		id = 1 # Hida
-		religion=the_kami
-		culture=crab_hida
-		dna="bdhbb0ha000"
-		properties="gl0jaj0a000000"
-		age = 22
-		name = CRAB_LEADERS_001
-		title = e_rokugan
-		title_name = e_rokugan
-		#coa_dynasty = yes
-		dlc = "Horse Lords"
-		
 		
 	}
 	

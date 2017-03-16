@@ -17,8 +17,8 @@
 	add_trait = gluttonous
 	add_trait = slothful
 	add_trait = cruel
-	
-  
+	add_trait=oni_possession
+	  
     1027.01.15 = { birth=yes }
     1087.09.09 = { death=yes }
 }
