@@ -1,0 +1,15 @@
+gemppuku_desc;You must choose which school your child studied in;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+becomes_hida_bushi;Gain Hida Bushi trait;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+becomes_kuni_shugenja;Gain Kuni Shugenja trait;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+becomes_yasuki_courtier;Gain Yasuki courtier trait;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+becomes_hiruma_bushi;Gain Hida Bushi trait;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+graduate_hida;The Hida Bushi school was well known for having the most relentlessly brutal training in Rokugan. They combined a grueling regime of kenjutsu drills and mock combat, with military philosophy lectures, designed to sharpen the mind and toughen the body. They also trained in full armor, which in Rokugan, was a practice unique to the Hida school. The students needed to be strong and were trained to have the stamina to fight for hours without tiring and hold formation against any aggressor.The Hida School encouraged the use of heavy weapons such as the tetsubo and ono.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+graduate_hiruma;The Hiruma Bushi school had been twice founded throughout the history of Rokugan. Students of the Hiruma family were trained in the ancient Hiruma dojo until the loss of their lands in 716 to the forces of the Shadowlands. After their lands were reclaimed, a Hiruma dojo was reestablished, but as the ancient techniques had been lost to time, the new dojo tought entirely new techniques.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+graduate_kuni;The Kuni Shugenja school devoted in fighting creatures of the Shadowlands.It was housed at Kyuden Kuni, which was burned down in 716 and teachings since then were conducted by a teacher taking an apprentice.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+graduate_kaiu;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+graduate_yasuki;The Yasuki Courtier school was sometimes called "the Yasuki Merchant School".They were specialized in using commerce as a means of gaining the favor of others.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+event_l5r_1;Trained in the Hida Bushi School;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+event_l5r_2;Trained in the Kuni Shugenja School;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+event_l5r_3;Trained in the Yasuki courtier School;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+event_l5r_4;Trained in the Hiruma Bushi School;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x

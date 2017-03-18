@@ -1,0 +1,8 @@
+spriteTypes={
+		spriteType = {
+			name = "GFX_settlement_castle"
+			texturefile = "gfx\\interface\\placeholder_castle_1.tga"
+			noOfFrames = 6
+			norefcount = yes
+		}
+}

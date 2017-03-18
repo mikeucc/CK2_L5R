@@ -1,0 +1,5 @@
+on_adulthood = {
+	events = {
+		l5r.1 #Gemppuku event
+	}
+}

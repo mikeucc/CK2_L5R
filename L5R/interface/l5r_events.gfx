@@ -1,0 +1,11 @@
+spriteTypes ={
+			spriteType  = {
+					name = "GFX_evt_gempukku"
+					texturefile = "gfx/events/gempukku.tga"
+					noOfFrames = 1
+					norefcount = yes
+					effectFile = "gfx/FX/buttonstate.lua"
+				}
+				
+			
+	}

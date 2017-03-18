@@ -1,0 +1,129 @@
+namespace=l5r
+
+#Crab Clan Gemppuku 
+
+character_event=
+{
+	id=l5r.1
+	hide_window=yes	
+	is_triggered_only=yes
+	
+	trigger={	
+			or={
+					culture=crab_hida
+					culture=crab_hiruma
+					culture=crab_kuni
+					culture=crab_kaiu
+				}	
+			}
+	immediate=
+	{
+		educator = { character_event = { id = l5r.2 } }
+	}
+}
+
+character_event=
+{
+	id=l5r.2
+		
+	picture = GFX_evt_gempukku
+		
+	desc = gemppuku_desc
+	
+		
+	is_triggered_only = yes
+	
+	only_capable = yes
+	
+	option = {
+		name = event_l5r_1 # Trained in the Hida Bushi School
+		FROM = {
+			custom_tooltip = { text = becomes_hida_bushi }
+		}
+		hidden_tooltip = { FROM = { character_event = { id = l5r.3 } } }
+	}
+	
+	option = {
+		name = event_l5r_2 # Trained in the Kuni Shugenja School
+		FROM = {
+			custom_tooltip = { text = becomes_kuni_shugenja }
+		}
+		hidden_tooltip = { FROM = { character_event = { id = l5r.4 } } }
+	}
+	
+	option = {
+		name = event_l5r_3 # Trained in the Yasuki courtier School
+		FROM = {
+			custom_tooltip = { text = becomes_yasuki_courtier }
+		}
+		hidden_tooltip = { FROM = { character_event = { id = l5r.5 } } }
+	}
+	
+	option = {
+		name = event_l5r_4 # Trained in the Hiruma Bushi School
+		FROM = {
+			custom_tooltip = { text = becomes_hiruma_bushi }
+		}
+		hidden_tooltip = { FROM = { character_event = { id = l5r.6 } } }
+	}
+			
+		
+}
+
+character_event=
+{
+	id=l5r.3
+	is_triggered_only=yes
+	picture = GFX_evt_courtiers_talking
+	desc = graduate_hida
+	
+	
+	option=
+	{
+		add_trait=hida_bushi
+	}
+}
+
+character_event=
+{
+	id=l5r.4
+	is_triggered_only=yes
+	picture = GFX_evt_courtiers_talking
+	desc = graduate_kuni
+	
+	
+	option=
+	{
+		add_trait=kuni_shug
+	}
+}
+
+character_event=
+{
+	id=l5r.5
+	is_triggered_only=yes
+	picture = GFX_evt_courtiers_talking
+	desc = graduate_yasuki
+	
+	
+	option=
+	{
+		add_trait=yasuki_courtier
+	}
+}
+
+character_event=
+{
+	id=l5r.6
+	is_triggered_only=yes
+	picture = GFX_evt_courtiers_talking
+	desc =graduate_hiruma
+	
+	
+	option={
+		add_trait=hiruma_bushi
+	}
+	
+}
+
+

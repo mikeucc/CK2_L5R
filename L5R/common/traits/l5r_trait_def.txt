@@ -13,3 +13,27 @@ oni_possession = { # Highly event driven
 	male_insult_adj = INSULT_DEMONIC
 	female_insult_adj = INSULT_DEMONIC
 }
+
+hida_bushi={
+
+	martial=2
+	health=2
+
+}
+
+kuni_shug={
+
+	learning=2
+	intrigue=2
+}
+
+yasuki_courtier={
+
+	diplomacy=2
+	intrigue=2
+}
+
+hiruma_bushi={
+	health=2
+	martial=1
+}
