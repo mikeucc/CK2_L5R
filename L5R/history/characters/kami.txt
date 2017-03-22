@@ -59,3 +59,26 @@
     1087.09.09 = { death=yes }
 }
 
+5={
+    name=Yoritomo
+    dynasty=352
+  
+    religion=the_kami
+    culture=mantis_yoritomo
+	
+	dna="bdhbb0ha000"
+	properties="gl0jaj0a000000"
+
+	learning = 12
+	martial=14
+	diplomacy=14
+	add_trait = skilled_tactician
+	add_trait = strong
+	add_trait = quick
+	
+	wealth=500
+	
+	  
+    1027.01.15 = { birth=yes }
+    #1087.09.09 = { death=yes }
+}

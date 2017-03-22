@@ -1,0 +1,327 @@
+
+song = {
+	name = "crusaderkings2_maintitle.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 0
+		}
+	}
+}
+
+
+song = {
+	name = "battle1.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			war = no
+		}	
+		modifier = {
+			factor = 1
+			war = yes
+		}		
+	}
+}
+
+
+song = {
+	name = "battle2.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			war = no
+		}	
+		modifier = {
+			factor = 1
+			war = yes
+		}		
+	}
+}
+
+song = {
+	name = "battle3.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			war = no
+		}	
+		modifier = {
+			factor = 1
+			war = yes
+		}		
+	}
+}
+
+song = {
+	name = "battle4.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			war = no
+		}	
+		modifier = {
+			factor = 1
+			war = yes
+		}		
+	}
+}
+song = {
+	name = "battle5.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			war = no
+		}	
+		modifier = {
+			factor = 1
+			war = yes
+		}		
+	}
+}
+song = {
+	name = "battle6.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			war = no
+		}	
+		modifier = {
+			factor = 1
+			war = yes
+		}		
+	}
+}
+song = {
+	name = "battle7.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			war = no
+		}	
+		modifier = {
+			factor = 1
+			war = yes
+		}		
+	}
+}
+song = {
+	name = "battle8.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			war = no
+		}	
+		modifier = {
+			factor = 1
+			war = yes
+		}		
+	}
+}
+song = {
+	name = "battle9.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			war = no
+		}	
+		modifier = {
+			factor = 1
+			war = yes
+		}		
+	}
+}
+song = {
+	name = "battle10.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			war = no
+		}	
+		modifier = {
+			factor = 1
+			war = yes
+		}		
+	}
+}
+song = {
+	name = "battle11.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			war = no
+		}	
+		modifier = {
+			factor = 1
+			war = yes
+		}		
+	}
+}
+song = {
+	name = "calm1.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			war = no
+		}	
+		modifier = {
+			factor = 0
+			war = yes
+		}		
+	}
+}
+
+song = {
+	name = "calm2.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			war = no
+		}	
+		modifier = {
+			factor = 0
+			war = yes
+		}		
+	}
+}
+song = {
+	name = "calm3.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			war = no
+		}	
+		modifier = {
+			factor = 0
+			war = yes
+		}		
+	}
+}
+song = {
+	name = "calm4.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			war = no
+		}	
+		modifier = {
+			factor = 0
+			war = yes
+		}		
+	}
+}
+song = {
+	name = "calm5.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			war = no
+		}	
+		modifier = {
+			factor = 0
+			war = yes
+		}		
+	}
+}
+song = {
+	name = "calm6.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			war = no
+		}	
+		modifier = {
+			factor = 0
+			war = yes
+		}		
+	}
+}
+song = {
+	name = "calm7.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			war = no
+		}	
+		modifier = {
+			factor = 0
+			war = yes
+		}		
+	}
+}
+song = {
+	name = "calm8.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			war = no
+		}	
+		modifier = {
+			factor = 0
+			war = yes
+		}		
+	}
+}
+song = 
+{
+	name = "calm9.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			war = no
+		}	
+		modifier = {
+			factor = 0
+			war = yes
+		}		
+	}
+}
+
+song = {
+	name = "calm10.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			war = no
+		}	
+		modifier = {
+			factor = 0
+			war = yes
+		}		
+	}
+}
+song = {
+	name = "calm11.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			war = no
+		}	
+		modifier = {
+			factor = 0
+			war = yes
+		}		
+	}
+}

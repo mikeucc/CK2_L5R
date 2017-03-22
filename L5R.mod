@@ -15,4 +15,5 @@ replace_path = "common/province_setup"
 replace_path = "common/religions"
 replace_path = "common/trade_routes"
 replace_path = "map/statics"
-
+replace_path = "music"
+replace_path = "gfx/loadingscreens"
