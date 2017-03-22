@@ -7,8 +7,8 @@ title = c_garanto_province
 max_settlements = 3
 
 b_long_walk = castle
-#b_garanto_province = city
-#b_garanto_province_2 = temple
+b_garanto_province = city
+b_garanto_province_2 = temple
 
 # Misc
 culture = crab_hida

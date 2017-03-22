@@ -12,4 +12,7 @@ event_l5r_1;Trained in the Hida Bushi School;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 event_l5r_2;Trained in the Kuni Shugenja School;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 event_l5r_3;Trained in the Yasuki courtier School;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 event_l5r_4;Trained in the Hiruma Bushi School;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+commit_seppuku_desc;Vassal commits Seppuku by order of his liege;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+commit_seppuku;Commit Seppuku;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#intrigue_string;Air;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x

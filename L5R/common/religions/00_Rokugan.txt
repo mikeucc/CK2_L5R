@@ -1,6 +1,6 @@
 rokugan_religion = {
 	has_coa_on_barony_only = yes
-	#graphical_culture = westerngfx
+	graphical_culture = buddhistgfx
 	#crusade_cb = crusade
 	hostile_within_group = yes
 	
@@ -9,12 +9,13 @@ rokugan_religion = {
 	color = { 0.7 0.7 0.5 }
 	
 	the_kami = {
-		#graphical_culture = westerngfx
+		graphical_culture = buddhistgfx
 
 		icon = 1
 		color = { 0.8 0.8 0.6 }
 		
 		high_god_name = MAIN_GOD
+		feminist=yes
 		
 		crusade_name = "HOLY_WAR"
 		scripture_name = shinsea

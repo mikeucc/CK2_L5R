@@ -1,5 +1,5 @@
 1={
-    name=Hida
+    name=Kisada
     dynasty=89
   
     religion=the_kami
@@ -9,21 +9,35 @@
 	properties="gl0jaj0a000000"
 
 	learning = 12
-	add_trait = scholarly_theologian
-	add_trait = poet
-	add_trait = genius
-	add_trait = gregarious
-	add_trait = patient
-	add_trait = gluttonous
-	add_trait = slothful
-	add_trait = cruel
-	add_trait=oni_possession
+	add_trait = skilled_tactician
+	add_trait = strong
+	add_trait = hida_bushi
+	
 	  
     1027.01.15 = { birth=yes }
-    1087.09.09 = { death=yes }
+    #1087.09.09 = { death=yes }
 }
 
 2={
+	name=Yakamo
+	dynasty=89
+	religion=the_kami
+	culture=crab_hida
+	
+	intrigue=6
+	diplomacy=6
+	learning=8
+	martial=14
+	stewardship=8
+	
+	add_trait=hida_bushi
+	father=1
+	
+	1046.05.05={birth=yes}
+
+}
+
+3={
     name=Hiruma
     dynasty=90
   
@@ -34,7 +48,7 @@
     1087.09.09 = { death=yes }
 }
 
-3={
+4={
     name=Kaiu
     dynasty=91
   

@@ -3,3 +3,34 @@ hida_bushi;Hida Bushi;Possession;Besessen;;Poseído;;;;;;;;;x
 kuni_shug;Kuni Shugenja;Possession;Besessen;;Poseído;;;;;;;;;x
 yasuki_courtier;Yasuki Courtier;Possession;Besessen;;Poseído;;;;;;;;;x
 hiruma_bushi;Hiruma Bushi;Possession;Besessen;;Poseído;;;;;;;;;x
+chaste;Yu;Tempéré;Gemäßigt;;Moderado;;;;;;;;;x
+temperate;Makoto;Tempéré;Gemäßigt;;Moderado;;;;;;;;;x
+charitable;Rei;Tempéré;Gemäßigt;;Moderado;;;;;;;;;x
+diligent;Chugo;Tempéré;Gemäßigt;;Moderado;;;;;;;;;x
+kind;Jin;Tempéré;Gemäßigt;;Moderado;;;;;;;;;x
+patient;Gi;Tempéré;Gemäßigt;;Moderado;;;;;;;;;x
+humble;Meyo;Tempéré;Gemäßigt;;Moderado;;;;;;;;;x
+lustful;Control;Tempéré;Gemäßigt;;Moderado;;;;;;;;;x
+gluttonous;Determination;Tempéré;Gemäßigt;;Moderado;;;;;;;;;x
+greedy;Will;Meyo;Tempéré;Gemäßigt;;Moderado;;;;;;;;;x
+slothful;Perfection;Meyo;Tempéré;Gemäßigt;;Moderado;;;;;;;;;x
+envious;Insight;Meyo;Tempéré;Gemäßigt;;Moderado;;;;;;;;;x
+wroth;Strength;Meyo;Tempéré;Gemäßigt;;Moderado;;;;;;;;;x
+proud;Knowledge;Meyo;Tempéré;Gemäßigt;;Moderado;;;;;;;;;x
+
+
+
+
+
+
+
+
+
+
+#Control - Allows one to manipulate circumstances so that there may be only one outcome.
+#Determination - Seeing a thing through to its conclusion.
+#Insight - The ability to see the truth behind facts. It brings foresight.
+#Knowledge - The basis of right thinking. Knowing the facts of a situation.
+#Perfection - The encompassing goal that surrounds and envelops all other actions.
+#Strength - Acting upon knowledge with insight and control brings strength, and thus victory.
+#Will - Will is the force which causes one to take the actions that they must.

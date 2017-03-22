@@ -16,9 +16,13 @@ e_rokugan = {
 		capital = 1 # c_garanto_province
 		culture = crab_hida
 		
+		title=clan_champion
+		
 		d_hida_province = {
 			color={ 190 30 250 }
 			color2={ 255 255 255 }
+			
+			title=daimyo
 			
 			allow = {
 				OR = {
@@ -94,7 +98,7 @@ e_rokugan = {
 		d_hiruma_province = {
 			color={ 113 133 195 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -134,7 +138,7 @@ e_rokugan = {
 		d_kaiu_province = {
 			color={ 63 82 77 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -182,7 +186,7 @@ e_rokugan = {
 		d_kuni_province = {
 			color={ 11 190 185 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -222,7 +226,7 @@ e_rokugan = {
 		d_yasuki_province = {
 			color={ 151 39 218 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -267,11 +271,11 @@ e_rokugan = {
 		
 		capital = 132 # c_seppun_province
 		culture = imperial
-		
+		title=clan_champion
 		d_imperial = {
 			color={ 62 88 100 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -322,14 +326,14 @@ e_rokugan = {
 	k_the_bat = {
 		color={ 32 251 178 }
 		color2={ 255 255 255 }
-		
+		title=clan_champion
 		capital = 128 # c_komori_province
 		culture = minor_clan
 		
 		d_minor_clan_lands = {
 			color={ 52 231 188 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -383,14 +387,14 @@ e_rokugan = {
 	k_the_crane = {
 		color={ 227 210 240 }
 		color2={ 255 255 255 }
-		
+		title=clan_champion
 		capital = 17 # c_anshin_province
 		culture = crane_asahina
 		
 		d_asahina_province = {
 			color={ 247 190 250 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -439,7 +443,7 @@ e_rokugan = {
 		d_daidoji_province = {
 			color={ 247 220 250 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -502,7 +506,7 @@ e_rokugan = {
 		d_doji_province = {
 			color={ 20 95 4 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -577,7 +581,7 @@ e_rokugan = {
 		d_kakita_province = {
 			color={ 0 160 250 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -641,8 +645,8 @@ e_rokugan = {
 	k_the_dragon = {
 		color={ 170 29 5 }
 		color2={ 255 255 255 }
-		
-		capital = 33 # c_shinpi_province
+		title=clan_champion
+		capital = 42 # c_macha province
 		culture = dragon_togashi
 		
 		c_mucha_province = { # 42
@@ -668,7 +672,7 @@ e_rokugan = {
 		d_kitsuki_province = {
 			color={ 190 9 15 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -721,7 +725,7 @@ e_rokugan = {
 		d_agasha_province = {
 			color={ 190 9 155 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -762,7 +766,7 @@ e_rokugan = {
 		d_mirumoto_province = {
 			color={ 190 9 75 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -827,11 +831,11 @@ e_rokugan = {
 		
 		capital = 43 # c_oiku_province
 		culture = lion_akodo
-		
+		title=clan_champion
 		d_akodo_province = {
 			color={ 178 198 95 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -900,7 +904,7 @@ e_rokugan = {
 		d_ikoma_province = {
 			color={ 135 115 25 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -969,7 +973,7 @@ e_rokugan = {
 		d_kitsu_province = {
 			color={ 190 170 25 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -1030,7 +1034,7 @@ e_rokugan = {
 		d_matsu_province = {
 			color={ 230 250 105 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -1143,14 +1147,14 @@ e_rokugan = {
 	k_the_mantis = {
 		color={ 73 50 70 }
 		color2={ 255 255 255 }
-		
+		title=clan_champion
 		capital = 65 # c_gotei_province
 		culture = mantis_yoritomo
 		
 		d_yoritomo_province = {
 			color={ 53 70 60 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -1245,7 +1249,7 @@ e_rokugan = {
 		d_centipeed_province = {
 			color={ 36 235 128 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -1271,7 +1275,7 @@ e_rokugan = {
 		d_fox_province = {
 			color={ 165 248 190 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -1294,7 +1298,7 @@ e_rokugan = {
 		d_tsuruchi_province = {
 			color={ 149 198 163 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -1360,14 +1364,14 @@ e_rokugan = {
 	k_the_phoenix = {
 		color={ 41 25 100 }
 		color2={ 255 255 255 }
-		
+		title=clan_champion
 		capital = 79 # c_enju_province
 		culture = phoenix_asako
 		
 		d_asako_province = {
 			color={ 21 45 90 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -1426,7 +1430,7 @@ e_rokugan = {
 		d_isawa_province = {
 			color={ 125 229 203 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -1551,7 +1555,7 @@ e_rokugan = {
 		d_shiba_province = {
 			color={ 132 127 103 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -1634,14 +1638,14 @@ e_rokugan = {
 	k_the_scorpion = {
 		color={ 156 99 88 }
 		color2={ 255 255 255 }
-		
+		title=clan_champion
 		capital = 98 # c_kunizakai_province
 		culture = scorpion_bayushi
 		
 		d_bayushi_province = {
 			color={ 136 119 78 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -1701,7 +1705,7 @@ e_rokugan = {
 		d_shosuro_province = {
 			color={ 219 129 47 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -1746,7 +1750,7 @@ e_rokugan = {
 		d_soshi_province = {
 			color={ 154 81 217 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -1797,7 +1801,7 @@ e_rokugan = {
 		d_yogo_province = {
 			color={ 149 185 110 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -1833,14 +1837,14 @@ e_rokugan = {
 	k_the_unicorn = {
 		color={ 82 248 101 }
 		color2={ 255 255 255 }
-		
+		title=clan_champion
 		capital = 110 # c_ujidera_province
 		culture = unicorn_horiuchi
 		
 		d_ide_province = {
 			color={ 62 12 91 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -1895,7 +1899,7 @@ e_rokugan = {
 		d_iuchi_province = {
 			color={ 69 171 219 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -1940,7 +1944,7 @@ e_rokugan = {
 		d_moto_province = {
 			color={ 110 78 86 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -2009,7 +2013,7 @@ e_rokugan = {
 		d_shinjo_province = {
 			color={ 145 118 135 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -2072,7 +2076,7 @@ e_rokugan = {
 		d_utaku_province = {
 			color={ 145 86 40 }
 			color2={ 255 255 255 }
-			
+			title=daimyo
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -2156,7 +2160,7 @@ k_shadowlands = {
 	d_shadowlands = {
 		color={ 92 69 84 }
 		color2={ 255 255 255 }
-		
+		title=dark_lord
 		allow = {
 			OR = {
 				lower_tier_than = KING
