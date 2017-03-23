@@ -1,5 +1,5 @@
 crab = {
-	graphical_cultures = { mongolgfx } # units
+	graphical_cultures = { indiangfx } # units
 	
 	crab_hida = {
 					graphical_cultures = { mongolgfx } # units
